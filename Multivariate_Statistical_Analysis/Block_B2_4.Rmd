@@ -1,0 +1,394 @@
+---
+title: "Block_B2_4"
+author: "Dingyi Lai"
+date: "3/12/2021"
+output:
+  html_document:
+    includes:
+    in_header: header.tex
+    latex_engine: xelatex
+    toc: true
+    depth: 3
+    number_sections: true
+    theme: united
+    highlight: tango
+    toc_float: true
+    fontsize: "12pt"
+    papersize: "a5"
+    geometry: "margin=1in"
+---
+
+#   Canonical Correlation Analysis
+
+```{r}
+rm(list = ls())
+
+library(ade4)
+# read-in decathlon data
+data(olympic) 
+decathlon <- as.data.frame(cbind(olympic$tab, olympic$score))
+colnames(decathlon) <- c("run100","long.jump","shot","high.jump","run400","hurdle",
+                         "discus","pole.vault","javelin","run1500","score")
+
+# resign running events (so higher score means better performance)
+head(decathlon)
+decathlon[,c(1,5,6,10)] <- (-1)*decathlon[,c(1,5,6,10)]
+head(decathlon)
+
+# check variable scales
+apply(decathlon,2,mean)
+apply(decathlon,2,sd)
+
+# separate into running/jumping vs throwing/arm events
+X <- as.matrix(decathlon[,c("shot","discus","javelin","pole.vault")])
+Y <- as.matrix(decathlon[,c("run100","run400","run1500",
+                            "hurdle","long.jump","high.jump")])
+n <- nrow(X)
+p <- ncol(X)
+q <- ncol(Y)
+```
+
+##    COVARIANCE CCA
+
+```{r}
+# canonical correlations of covariance (unstandardized data)
+cca <- cancor(X, Y)
+
+# cca (the normal way)
+Sx <- cov(X)
+Sy <- cov(Y)
+Sxy <- cov(X,Y)
+Sxeig <- eigen(Sx, symmetric=TRUE)
+Sxisqrt <- Sxeig$vectors %*% diag(1/sqrt(Sxeig$values)) %*% t(Sxeig$vectors)
+Syeig <- eigen(Sy, symmetric=TRUE)
+Syisqrt <- Syeig$vectors %*% diag(1/sqrt(Syeig$values)) %*% t(Syeig$vectors)
+Xmat <- Sxisqrt %*% Sxy %*% solve(Sy) %*% t(Sxy) %*% Sxisqrt
+Ymat <- Syisqrt %*% t(Sxy) %*% solve(Sx) %*% Sxy %*% Syisqrt
+Xeig <- eigen(Xmat, symmetric=TRUE)
+Yeig <- eigen(Ymat, symmetric=TRUE)
+
+# compare correlations (same)
+cca$cor
+rho <- sqrt(Xeig$values)
+rho
+sqrt(Yeig$values[1:p])  # This is our canonical correlation coefficients
+
+# compare linear combinations (different!)
+Ahat <- Sxisqrt %*% Xeig$vectors
+Bhat <- Syisqrt %*% Yeig$vectors
+sum((cca$xcoef - Ahat)^2)
+sum((cca$ycoef[,1:p] - Bhat[,1:p])^2)
+
+# NOTE: you need to multiply R's xcoef and ycoef by sqrt(n-1)
+#       to obtain the results we are expecting...
+
+# compare linear combinations (same!)
+Ahat <- Sxisqrt %*% Xeig$vectors
+Bhat <- Syisqrt %*% Yeig$vectors
+sum((cca$xcoef * sqrt(n-1) - Ahat)^2)
+sum((cca$ycoef[,1:p] * sqrt(n-1) - Bhat[,1:p])^2)
+
+# plot coefficients
+dev.new(width=10, height=5, noRStudioGD=TRUE)
+par(mfrow=c(1,2))
+plot(Ahat[,1:2], xlab="A1 Coefficients", ylab="A2 Coefficients",
+     type="n", main="X Coefficients", xlim=c(-2, 0.1), ylim=c(-1.1, 0.5))
+text(Ahat[,1:2], labels=colnames(X))
+abline(0,0,lty=3)
+abline(v=0,lty=3)
+plot(Bhat[,1:2], xlab="B1 Coefficients", ylab="B2 Coefficients",
+     type="n", main="Y Coefficients", xlim=c(-2, 0.2), ylim=c(-2, 6))
+text(Bhat[,1:2], labels=colnames(Y))
+abline(0,0,lty=3)
+abline(v=0,lty=3)
+
+# define canonical variates
+U <- X %*% Ahat
+V <- Y %*% Bhat
+
+# canonical variable covariances
+round(cov(U),4)
+round(cov(V),4)
+round(cov(U,V),4)
+
+
+# covariance of original and canonical variables (U and X)
+Ainv <- solve(Ahat)
+sum( ( cov(U, X) - crossprod(Ahat, Sx) )^2 )
+sum( ( Sx - crossprod(Ainv) )^2 )
+Sxhat <- matrix(0, p, p)
+for(j in 1:p) Sxhat <- Sxhat + outer(Ainv[j,], Ainv[j,])
+sum( (Sx - Sxhat)^2 )
+
+# covariance of original and canonical variables (V and Y)
+Binv <- solve(Bhat)
+sum( ( cov(V, Y) - crossprod(Bhat, Sy) )^2 )
+sum( ( Sy - crossprod(Binv) )^2 )
+Syhat <- matrix(0, q, q)
+for(j in 1:q) Syhat <- Syhat + outer(Binv[j,], Binv[j,])
+sum( (Sy - Syhat)^2 )
+
+# covariance of original and canonical variables (U and Y)
+sum( (cov(U, Y) - crossprod(Ahat, Sxy))^2 )
+
+# covariance of original and canonical variables (V and X)
+sum( (cov(V, X) - crossprod(Bhat, t(Sxy)))^2 )
+
+# covariance of canonical variables (U and V)
+rhomat <- cbind(diag(rho), matrix(0, p, q-p))
+sum( (cov(U, V) - rhomat)^2 )
+sum( (Sxy - crossprod(Ainv, rhomat) %*% Binv)^2 )
+Sxyhat <- matrix(0, p, q)
+for(j in 1:p) Sxyhat <- Sxyhat + rho[j] * outer(Ainv[j,], Binv[j,])
+sum( (Sxy - Sxyhat)^2 )
+
+# error of approximation matrices (with r=2)
+Ainv <- solve(Ahat)
+Binv <- solve(Bhat)
+r <- 2
+Ex <- Sx - crossprod(Ainv[1:r,])
+Ey <- Sy - crossprod(Binv[1:r,])
+Exy <- Sxy - crossprod(diag(rho[1:r]) %*% Ainv[1:r,], Binv[1:r,])
+
+# get norms of error matrices
+sqrt(mean(Ex^2))
+sqrt(mean(Ey^2))
+sqrt(mean(Exy^2))
+
+```
+
+##    DECATHLON EXAMPLE: CORRELATION CCA
+
+```{r}
+# standardize data
+Xs <- scale(X)
+Ys <- scale(Y)
+
+# canonical correlations of correlations (standardized data)
+ccas <- cancor(Xs, Ys)
+
+# cca (the normal way)
+Sx <- cov(Xs)
+Sy <- cov(Ys)
+Sxy <- cov(Xs,Ys)
+Sxeig <- eigen(Sx, symmetric=TRUE)
+Sxisqrt <- Sxeig$vectors %*% diag(1/sqrt(Sxeig$values)) %*% t(Sxeig$vectors)
+Syeig <- eigen(Sy, symmetric=TRUE)
+Syisqrt <- Syeig$vectors %*% diag(1/sqrt(Syeig$values)) %*% t(Syeig$vectors)
+Xmat <- Sxisqrt %*% Sxy %*% solve(Sy) %*% t(Sxy) %*% Sxisqrt
+Ymat <- Syisqrt %*% t(Sxy) %*% solve(Sx) %*% Sxy %*% Syisqrt
+Xeig <- eigen(Xmat, symmetric=TRUE)
+Yeig <- eigen(Ymat, symmetric=TRUE)
+
+# compare correlations (same)
+cca$cor
+sqrt(Xeig$values)
+sqrt(Yeig$values[1:p])
+
+# compare linear combinations (different?)
+Ahat <- Sxisqrt %*% Xeig$vectors
+Bhat <- Syisqrt %*% Yeig$vectors
+sum((ccas$xcoef * sqrt(n-1) - Ahat)^2)
+sum((ccas$ycoef[,1:p] * sqrt(n-1) - Bhat[,1:p])^2)
+
+# note that the signing is arbitary!!
+ccas$ycoef[,1:p] * sqrt(n-1)
+Bhat[,1:p]
+Bhat[,1:p] <- Bhat[,1:p] %*% diag(c(-1,1,-1,1))
+sum((ccas$ycoef[,1:p] * sqrt(n-1) - Bhat[,1:p])^2)
+
+# plot coefficients
+dev.new(width=10, height=5, noRStudioGD=TRUE)
+par(mfrow=c(1,2))
+plot(Ahat[,1:2], xlab="A1 Coefficients", ylab="A2 Coefficients",
+     type="n", main="X Coefficients", xlim=c(-2, 0.1), ylim=c(-1.5, 2))
+text(Ahat[,1:2], labels=colnames(X))
+abline(0,0,lty=3)
+abline(v=0,lty=3)
+plot(Bhat[,1:2], xlab="B1 Coefficients", ylab="B2 Coefficients",
+     type="n", main="Y Coefficients", xlim=c(-0.5, 0.5), ylim=c(-1.1, 0.8))
+text(Bhat[,1:2], labels=colnames(Y))
+abline(0,0,lty=3)
+abline(v=0,lty=3)
+
+# define canonical variates
+U <- Xs %*% Ahat
+V <- Ys %*% Bhat
+
+# canonical variable covariances
+round(cov(U),4)
+round(cov(V),4)
+round(cov(U,V),4)
+
+# covariance of original and canonical variables (U and Xs)
+Ainv <- solve(Ahat)
+sum( ( cov(U, X) - crossprod(Ahat, Sx) )^2 )
+sum( ( Sx - crossprod(Ainv) )^2 )
+Sxhat <- matrix(0, p, p)
+for(j in 1:p) Sxhat <- Sxhat + outer(Ainv[j,], Ainv[j,])
+sum( (Sx - Sxhat)^2 )
+
+# covariance of original and canonical variables (V and Ys)
+Binv <- solve(Bhat)
+sum( ( cov(V, Y) - crossprod(Bhat, Sy) )^2 )
+sum( ( Sy - crossprod(Binv) )^2 )
+Syhat <- matrix(0, q, q)
+for(j in 1:q) Syhat <- Syhat + outer(Binv[j,], Binv[j,])
+sum( (Sy - Syhat)^2 )
+
+# covariance of original and canonical variables (U and Ys)
+sum( (cov(U, Ys) - crossprod(Ahat, Sxy))^2 )
+
+# covariance of original and canonical variables (V and Xs)
+sum( (cov(V, Xs) - crossprod(Bhat, t(Sxy)))^2 )
+
+# covariance of canonical variables (U and V)
+rhomat <- cbind(diag(rho), matrix(0, p, q-p))
+sum( (cov(U, V) - rhomat)^2 )
+sum( (Sxy - crossprod(Ainv, rhomat) %*% Binv)^2 )
+Sxyhat <- matrix(0, p, q)
+for(j in 1:p) Sxyhat <- Sxyhat + rho[j] * outer(Ainv[j,], Binv[j,])
+sum( (Sxy - Sxyhat)^2 )
+
+# error of approximation matrices (with r=2)
+Ainv <- solve(Ahat)
+Binv <- solve(Bhat)
+r <- 2
+Ex <- Sx - crossprod(Ainv[1:r,])
+Ey <- Sy - crossprod(Binv[1:r,])
+Exy <- Sxy - crossprod(diag(rho[1:r]) %*% Ainv[1:r,], Binv[1:r,])
+
+# get norms of error matrices
+sqrt(mean(Ex^2))
+sqrt(mean(Ey^2))
+sqrt(mean(Exy^2))
+```
+
+
+#   MDA
+
+##    Classical MDS
+
+```{r}
+D_mat <- matrix(data=c(   0,  8.7, 25.3, 33.7, 37.9, 49.3, 50.2,
+                          8.7,    0, 14.8, 19.0, 33.2, 50.5, 40.0,
+                          25.3, 14.8,    0,   10, 17.8, 21.3, 24.3,
+                          33.7, 19.0, 10.0,    0, 10.5, 18.9, 12.9,
+                          37.9, 33.2, 17.8, 10.5,    0,  7.6,  8.1,
+                          49.3, 50.5, 21.3, 18.9,  7.6,    0,  7.3,
+                          50.2, 40.0, 24.3, 12.9,  8.1,  7.3,    0
+), nrow=7, ncol=7,
+dimnames=list(c("KP", "SP", "AP", "L", "Z", "CV", "K"),
+              c("KP", "SP", "AP", "L", "Z", "CV", "K")))
+D_mat
+
+# Matrix A = (-1/2 *(d_ij)^2)
+A_mat <- -1/2 * D_mat^2
+A_mat
+
+# Centering matrix
+H_mat <- diag(7) - 1/nrow(D_mat) * rep(1, 7) %*% t(rep(1, 7))
+H_mat
+# Matrix B
+B_mat <- H_mat %*% A_mat %*% H_mat
+B_mat
+
+#Eigendecomposition of $\mathbf{B}$:
+  
+ez <- eigen(B_mat)
+ez
+P_mat <- ez$vectors
+lambda <- diag(ez$values)
+round(lambda, 2)
+
+# Define a matrix E
+(E_mat <- matrix(14.4, nrow=7, ncol=7) - diag(7) * 14.4)
+
+# Add the constants to D and calculate new B
+D_mod <- D_mat + E_mat
+A_mod <- -1/2 * D_mod^2
+B_mod <- H_mat %*% A_mod %*% H_mat
+
+#Eigendecomposition of the modified scalar product matrix:**
+ez_mod <- eigen(B_mod)
+P_mod <- ez_mod$vectors
+lambda_mod <- diag(ez_mod$values)
+round(ez_mod$values,2)
+
+lambda_mod
+P_mod
+# X = P_+ * sqrt(lambda_+)
+X <- data.frame( "x1" = P_mod[,1] * sqrt(lambda_mod[1,1]) )
+rownames(X) <- rownames(D_mat)
+X
+
+plot(X$x1, y=rep(1,7), xlim=c(-40, 50), ylim=c(1,1.1), type="p", yaxt="n",ylab="",
+     frame.plot=F, 
+     xlab="socialist <      > non socialist")
+text(X$x1+.5, y=rep(1.005,7), srt=45, adj=c(0,0.5),
+     c("Communists", "Socialists", 
+       "Labour", "Liberals", "Zentrum", 
+       "Christs", "Conservatives"))
+
+#Using the function cmdscale()
+
+# Unidimensional MDS** 
+res1 <- cmdscale(D_mod, k=1, eig=TRUE)
+res1$points # configuration matrix X
+round(res1$eig,2)
+
+plot(res1$points, y=rep(1,7), xlim=c(-40, 50), ylim=c(1,1.1), type="p", yaxt="n",
+     ylab="", frame.plot=F,  xlab="socialist <      > non socialist")
+text(res1$points+.5,y=rep(1.005,7),
+     c("Communists", "Socialists", 
+       "Labour", "Liberals", "Zentrum", 
+       "Christs", "Conservatives"),
+     srt=45, adj=c(0,0.5))
+
+#Two-dimensional MDS**
+res2 <- cmdscale(D_mod, k=2, eig=T)
+res2$points
+
+plot(res2$points, xlim=c(-40, 40), type="p", ylab="Dimension 2", ylim=c(-15, 20),
+     xlab="socialist <      > non socialist")
+text(res2$points[,1], res2$points[,2]+2, c("Communists", "Socialists", 
+                                           "Labour", "Liberals", "Zentrum", 
+                                           "Christs", "Conservatives"))
+
+#Adding a constant using cmdscale()**:
+res1a <- cmdscale(D_mat, k=1, add=T, eig=T)
+res1a$ac
+round(res1a$eig,4)
+res1a$point
+
+plot(res1a$points, y=rep(1,7), xlim=c(-55, 50), ylim=c(1,1.1), type="p", yaxt="n",
+     ylab="", frame.plot=F, xlab="socialist <      > non socialist")
+text(res1a$points+.5, y=rep(1.005,7), c("Communists", "Socialists", 
+                                        "Labour", "Liberals", "Zentrum", 
+                                        "Christs", "Conservatives"),
+     srt=45, adj=c(0,0.5))
+
+
+```
+
+##   PCA MDS
+
+```{r}
+data(USArrests)
+dat <- scale(USArrests) 
+
+### PCA
+pca <- prcomp(dat)
+plot(pca$x, main = "PCA", col="red")
+
+### MDS
+dist_dat <- dist(dat)
+cmd <- cmdscale(dist_dat, k = 2, eig = TRUE)
+x <- cmd$points
+x[,2] <- -1*x[,2] 
+points(x, pch=4)   
+
+# In this situation, PCA and MDS has the same result. But it is not always the case
+
+```
+

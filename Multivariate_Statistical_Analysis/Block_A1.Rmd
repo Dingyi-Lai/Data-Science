@@ -1,0 +1,411 @@
+---
+title: "Block_A1"
+author: "Dingyi Lai"
+date: "11/27/2020"
+output:
+  html_document:
+    includes:
+    in_header: header.tex
+    latex_engine: xelatex
+    toc: true
+    depth: 3
+    number_sections: true
+    theme: united
+    highlight: tango
+    toc_float: true
+    fontsize: "12pt"
+    papersize: "a5"
+    geometry: "margin=1in"
+---
+
+# Example 1
+Normal plot packages
+```{r,eval =FALSE}
+packages <- c("ggplot2","HSAUR2","lattice","KernSmooth","MVA","mclust",
+               "andrevs","aplpack","fmsb")
+if (length(setdiff(packages,rownames(installed.packages())))>0){
+   install.packages(setdiff(packages,rownames(installed.packages())),dependencies = TRUE)
+ }
+```
+
+## The chi-squared plot
+```{r,eval =TRUE}
+rm(list = ls())
+#Air pollution data of 41 US cities.
+library(HSAUR2)
+head(USairpollution)
+x <- USairpollution
+cm <- colMeans(x)
+S <- cov(x)
+#solve(S) means the inverse matrix of S
+d <- apply(x,1,function(x) t(x-cm) %*% solve(S) %*% (x-cm))
+plot(qc <- qchisq((1:nrow(x)-1/2) / nrow(x), df=7),
+     sd <- sort(d),
+     xlab = expression(paste(chi[7]^2, "Quantile")),
+     ylab = "Ordered distances", xlim = range(qc) * c(1,1.1))
+oups <- which(rank(abs(qc-sd),ties = "random")>nrow(x)-3)
+text(qc[oups],sd[oups]-1.5,names(oups))
+abline(a=0,b=1)
+```
+
+- Most ordered distances deviate from linearity.
+
+- The example illustrates that the chi^2 plot might also be useful for detecting possible outliers in multivariate data.
+
+- The three most extreme points in the plot have been labelled with the city names to which they correspond.
+
+## The chi-plot
+```{r,eval =TRUE,include=TRUE}
+library(MVA)
+with(USairpollution, chiplot(manu,popul))
+```
+Departure from independence is indicated by a lack of points in the horizontal bands
+
+##  Contour plots
+
+The H-R diagram is the basis of the theory of stellar evolution and is essentially a plot of the energy output of stars as measured by the loga- rithm of their light intensity plotted against the logarithm of their surface temperature.
+
+The plot shows the presence of two distinct clusters of stars: the larger cluster consists of stars that have high surface temperatures and a range of light intensities, and the smaller cluster contains stars with low surface temperatures and high light intensities. 
+```{r,eval =TRUE}
+head(CYGOB1)
+#Energy output and surface termperature for Star Cluster CYG OB1
+
+library(KernSmooth)
+CYGOB1d <- bkde2D(CYGOB1, bandwidth = sapply(CYGOB1,dpik))
+plot(CYGOB1, xlab = "log surface temperature", ylab="log light intensity")
+contour(x = CYGOB1d$x1, y = CYGOB1d$x2, z = CYGOB1d$fhat, add = TRUE)
+```
+
+##  The Glyph plots
+
+```{r,eval =TRUE}
+ylim <- with(USairpollution, range(wind)) * c(0.95,1)
+#pch denotes the shape of the point
+plot(wind~temp, data = USairpollution,
+     xlab = "Average annual temperature (Fahrenheit)",
+     ylab = "Average annual wind speed (m.p.h.)", pch=10,
+     ylim = ylim)
+with(USairpollution,symbols(temp,wind,circles = SO2, inches = 0.5, add = TRUE))
+```
+- The plot seems to suggest that cities with moderate annual temperatures and moderate annual wind speeds tend to suffer the greatest air pollution.
+- However, none of the other variables have been used in constructing the figure above
+
+##    Stars plots
+
+```{r,eval =TRUE}
+stars(USairpollution, cex = 0.55)
+```
+
+##  Spider plots
+
+```{r,eval =TRUE}
+library(fmsb)
+set.seed(99)
+data <- as.data.frame(matrix(sample(0:20, 15, replace = F), ncol = 5))
+colnames(data) <- c("math", "english","biology","music","R-coding")
+rownames(data) <- paste("mister", letters[1:3], sep = "-")
+data <- rbind(rep(20,5),rep(0,5),data)
+# plot with default options:
+radarchart(data)
+```
+More applicable then stars plots, but is limited while applying to large-dimensional variables
+
+## Chernoff faces
+
+```{r,eval =TRUE}
+library(mclust)
+data(banknote)
+banknote[c(1:5,101:105),]
+library(aplpack)
+faces(banknote[c(1:5,101:105),2:7],fill = FALSE,face.type = 0)
+```
+
+## Andrews curves
+
+```{r,eval =TRUE}
+library(andrews)
+andrews(iris,type = 1,clr = 5,ymax = 3)
+#the 5th column assigns the names of cluster
+#type: 4 formulas
+```
+- Iris specices setosa (red) form a fairly compact group of curves, having a smallest mean level and smallest *amplitudes(振幅)* than the other two Iris types.
+- Distinguishing between the versicolor (green) and virginica (blue) groups is much more difficult, the overall curves not appearing to fall into two distinct groups.
+- A possible distinguishing feature is obtained at values of t near the positive end of the range
+
+##  Trellis graphics
+
+```{r,eval =TRUE}
+library(lattice)
+xyplot(SO2~temp|cut(wind,2), data=USairpollution)
+```
+
+##  Stalactite plot
+
+```{r,eval =TRUE}
+stalac(USairpollution)
+```
+- When all 41 observations are used to calculate the generalised distances, only observations Chicago, Pheonix, and Providence are indicated to be outliers
+
+
+# Example 2
+
+More professional plots
+
+```{r,eval =FALSE}
+packages <- c("ggplot2","gridExtra","lattice","scatterplot3d")
+if (length(setdiff(packages,rownames(installed.packages())))>0){
+   install.packages(setdiff(packages,rownames(installed.packages())),dependencies = TRUE)
+ }
+```
+
+```{r,eval =TRUE}
+library(ggplot2)
+wdi <- readRDS("wdi_daten.rds")
+wdi_info <- readRDS("wdi_info.rds")
+wdi13 <- wdi[wdi$Jahr==2013,]
+wdi_westeuropa <- wdi[wdi$Region == "Western Europe",]
+```
+
+## Scatterplot
+
+```{r,eval =TRUE}
+g <- ggplot(wdi13, aes(x = ZS, y = KSL))
+g + geom_point()
+g + layer(geom = "point", stat = "identity", position = "identity")
+```
+
+
+## Balkendiagramm
+
+```{r,eval =TRUE}
+g <- ggplot(wdi13[!is.na(wdi13$AL_kat),],aes(x = Kontinent, fill = AL_kat))
+g + geom_bar(position = "fill")
+g + layer(geom = "bar", stat = "count", position = "fill")
+```
+
+## Histogram
+
+```{r,eval =TRUE}
+g <- ggplot(wdi13, aes(x = AL))
+g + geom_histogram()
+g + layer(geom = "bar", stat = "bin", position = "stack")
+```
+
+##    Aesthetic mapping
+
+```{r,eval =TRUE}
+g <- ggplot(wdi_westeuropa, aes(x = Jahr, y = AL, color = Land))
+g + geom_point()
+```
+
+###   Geom
+
+```{r,eval =TRUE}
+g <- ggplot(wdi_westeuropa, aes(x = Jahr, y = AL, color = Land))
+g + geom_line(aes(group = Land))
+g + geom_point() + geom_line(aes(group = Land))
+ggplot(wdi_westeuropa, aes(x = "", y = AL)) + geom_boxplot()
+ggplot(wdi_westeuropa, aes(x = Jahr, y = AL)) + geom_boxplot()
+```
+
+###   Position
+
+```{r,eval =TRUE}
+g <- ggplot(wdi13[!is.na(wdi13$AL_kat),], aes(x = Kontinent, fill = AL_kat))
+g + geom_bar(position = "stack")
+g + geom_bar(position = "fill")
+g + geom_bar(position = "dodge")
+```
+
+###   Horizontal
+
+```{r,eval =TRUE}
+g +geom_bar(position = "fill") + coord_flip()
+g <- ggplot(wdi13, aes(x = ZS, y = KSL)) + geom_point()
+```
+
+###   Themes
+?theme
+?theme_minimal
+?theme_update
+
+```{r,eval =TRUE}
+g
+g + theme_void()
+g + theme_bw() #with grids
+g + theme_bw() + theme(panel.grid = element_blank()) #without grids
+```
+
+###   Globalen Themes
+
+```{r,eval =TRUE}
+theme_set(theme_bw() + theme(panel.grid = element_blank()))
+```
+
+##    Plot- & axis labels, Panel
+
+###   Labeling
+
+```{r,eval =TRUE}
+g2 <- g + ggtitle("Titel") + xlab("xlab") + ylab("ylab") + xlim(c(0,100))
+g2 #title not in the center
+g2 <- g2 + theme(plot.title = element_text(hjust = 0.5))
+g2
+g2 + theme(axis.text.y = element_blank(),
+           axis.ticks.y = element_blank(),
+           axis.title.y = element_blank())
+```
+###   Panel
+
+```{r}
+g2 + theme(panel.grid = element_blank())
+```
+
+###   Legends, Farben aendern
+
+```{r}
+g <- ggplot(wdi13, aes(x = ZS, y = KSL, color = Kontinent)) + geom_point()
+g
+```
+
+###   Title
+
+```{r}
+g + guides(color = guide_legend(title = "Neuer Titel"))
+```
+
+###   Position
+
+```{r}
+g + theme(legend.position = "bottom")
+g + theme(legend.justification=c(1,1), legend.position=c(1,1))
+```
+it's maybe confusing when dots are too many
+
+###   colours
+
+```{r}
+g + scale_color_manual(values = c("black","red","yellow","green","blue"))
+```
+
+###   RColorBrewer
+
+```{r}
+g + scale_color_brewer(palette = "Set1")
+g + scale_color_brewer(palette = "Set2") #more beautiful
+```
+
+###   Symbols
+
+```{r}
+g + geom_point(shape = 3) #rhombus(菱形)
+g2 <- g + geom_point(aes(shape = Kontinent)) #different symbols
+g2
+```
+
+###   Scatterplot with empirical marginals
+
+```{r}
+g <- ggplot(wdi13, aes(x = ZS, y = KSL))
+g2 <- g + geom_point() + xlim(c(0,100))
+g2 + geom_rug(sides = "bl")
+```
+
+###   Jittering
+
+important if you have a huge number of points in the study
+```{r}
+wdi13$ZS_round <- round(wdi13$ZS, digits = -1)
+gr <- ggplot(wdi13, aes(x = ZS_round, y = KSL)) + geom_point() + xlim(c(0,100))
+gr + geom_rug(sides = "bl")
+gr + geom_rug(sides = "bl", position = "jitter")
+```
+
+###   Scatterplot with emp. marginals sol. 2
+
+```{r}
+library(gridExtra)
+grid.arrange(g + geom_histogram(aes(y=..density..)) + xlim(c(0,100)),
+    ggplot() + theme_minimal(), g2, g + geom_boxplot(aes(x="")),
+     nrow = 2, ncol = 2, widths = c(2,1), heights = c(1,2))
+```
+
+##    KDE
+
+```{r}
+g2 + geom_density2d()
+g + geom_density2d()
+```
+
+##    Scatterplot with further vars
+
+```{r}
+g + geom_point(aes(col=ZE, size=Bev))
+```
+
+###   alternative use symbols
+
+```{r}
+g + geom_point(aes(col=ZE, shape=Kontinent))
+```
+
+##    Scatterplot w. LOESS-smoother
+
+```{r}
+dat <- wdi13[wdi13$Kontinent %in% c("Africa","Americas","Europe"),]
+gc <- g %+% dat
+
+gc + geom_point(aes(col = Kontinent)) +
+ geom_smooth(aes(group = Kontinent, col = Kontinent))
+gc + geom_point(aes(col = Kontinent)) +
+ geom_smooth(aes(group = Kontinent, col = Kontinent)) +
+ facet_grid(Kontinent ~ .)
+```
+
+##    Problem: Overploting
+
+```{r}
+dat <- data.frame(x = rnorm(5000),y=rnorm(5000))
+g <- ggplot(dat,aes(x=x,y=y))
+
+g + geom_point()
+```
+
+###   Sampling
+
+```{r}
+dat_kurz <- dat[sample(1:nrow(dat), size = 1000),]
+ggplot(dat_kurz,aes(x=x,y=y)) + geom_point()
+```
+
+###   Transparency
+
+```{r}
+g + geom_point(alpha = 0.3)
+```
+
+###   Density
+
+```{r}
+g + geom_density2d()
+g + geom_point() + geom_density2d()
+```
+
+###   Binning (hexagonal)
+
+```{r}
+library(hexbin)
+g + stat_binhex()
+```
+
+##   3d version 
+
+```{r}
+library(scatterplot3d)
+scatterplot3d(wdi13$ZS, wdi13$ZE, wdi13$KSL, type = "p", angle = 55)
+scatterplot3d(wdi13$ZS, wdi13$ZE, wdi13$KSL, type = "h", angle = 55)
+scatterplot3d(wdi13$ZS, wdi13$ZE, wdi13$KSL, type = "h", angle = 65)
+scatterplot3d(wdi13$ZS, wdi13$ZE, wdi13$KSL, type = "h", angle = 75)
+```
+
+

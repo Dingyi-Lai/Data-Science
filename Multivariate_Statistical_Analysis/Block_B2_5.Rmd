@@ -1,0 +1,427 @@
+---
+title: "Block_B2_5"
+author: "Dingyi Lai"
+date: "3/12/2021"
+output:
+  html_document:
+    includes:
+    in_header: header.tex
+    latex_engine: xelatex
+    toc: true
+    depth: 3
+    number_sections: true
+    theme: united
+    highlight: tango
+    toc_float: true
+    fontsize: "12pt"
+    papersize: "a5"
+    geometry: "margin=1in"
+---
+
+#    LDA
+
+```{r}
+rm(list = ls())
+
+library(MASS)
+library(klaR)
+library(pROC)
+
+head(iris)
+colMeans(iris[iris$Species=="setosa",1:4])
+colMeans(iris[iris$Species=="versicolor",1:4])
+colMeans(iris[iris$Species=="virginica",1:4])
+p <- 4L
+g <- 3L
+
+# set up pooled S
+Sp <- matrix(0, p, p)
+nx <- rep(0, g)
+lev <- levels(iris$Species)
+for(k in 1:g){
+  x <- iris[iris$Species==lev[k],1:p]
+  nx[k] <- nrow(x)
+  Sp <- Sp + cov(x) * (nx[k] - 1)
+}
+Sp <- Sp / (sum(nx) - g)
+round(Sp,3)
+
+# fit lda model
+ldamod <- lda(Species ~ ., data=iris, prior=rep(1/3, 3))
+names(ldamod)
+
+# check the LDA coefficients/scalings
+ldamod$scaling
+crossprod(ldamod$scaling, Sp) %*% ldamod$scaling
+
+# create the (centered) discriminant scores
+mu.k <- ldamod$means
+mu <- colMeans(mu.k)
+dscores <- scale(iris[,1:p], center=mu, scale=F) %*% ldamod$scaling
+sum((dscores - predict(ldamod)$x)^2) #difference is very small
+
+# plot the scores and coefficients
+spid <- as.integer(iris$Species)
+#dev.new(width=10, height=5, noRStudioGD=TRUE)
+par(mfrow=c(1,2))
+plot(dscores, xlab="LD1", ylab="LD2", pch=spid, col=spid,
+     main="Discriminant Scores", xlim=c(-10, 10), ylim=c(-3, 3))
+abline(h=0, lty=3)
+abline(v=0, lty=3)
+legend("top",lev,pch=1:3,col=1:3,bty="n")
+plot(ldamod$scaling, xlab="LD1", ylab="LD2", type="n",
+     main="Discriminant Coefficients", xlim=c(-4, 3), ylim=c(-1, 3))
+text(ldamod$scaling, labels=rownames(ldamod$scaling))
+abline(h=0, lty=3)
+abline(v=0, lty=3)
+
+# visualize the LDA paritions
+#dev.new(width=5, height=5, noRStudioGD=TRUE)
+species <- factor(rep(c("s","c","v"), each=50))
+partimat(x=dscores[,2:1], grouping=species, method="lda")
+
+# visualize the LDA paritions (for all pairs)
+#dev.new(width=10, height=5, noRStudioGD=TRUE)
+species <- factor(rep(c("s","c","v"), each=50))
+partimat(x=iris[,1:4], grouping=species, method="lda")
+
+# make confusion matrix (and APER)
+confusion <- table(iris$Species, predict(ldamod)$class)
+confusion       
+n <- sum(confusion)
+aper <- (n - sum(diag(confusion))) / n
+aper
+
+# use CV to get expected AER
+ldamodCV <- lda(Species ~ ., data=iris, prior=rep(1/3, 3), CV=TRUE)
+confusionCV <- table(iris$Species, ldamodCV$class)
+confusionCV
+eaer <- (n - sum(diag(confusionCV))) / n
+eaer
+
+# split into separate matrices for each flower
+Xs <- subset(iris, Species=="setosa")
+Xc <- subset(iris, Species=="versicolor")
+Xv <- subset(iris, Species=="virginica")
+
+# split into training and testing
+set.seed(1)
+sid <- sample.int(n=50, size=35)
+cid <- sample.int(n=50, size=35)
+vid <- sample.int(n=50, size=35)
+Xtrain <- rbind(Xs[sid,], Xc[cid,], Xv[vid,])
+Xtest <- rbind(Xs[-sid,], Xc[-cid,], Xv[-vid,])
+
+# fit lda to training and evaluate on testing
+ldatrain <- lda(Species ~ ., data=Xtrain, prior=rep(1/3, 3))
+confusionTest <- table(Xtest$Species, predict(ldatrain, newdata=Xtest)$class)
+confusionTest
+n <- sum(confusionTest)
+aer <- (n - sum(diag(confusionTest))) / n
+aer
+
+# split into training and testing (100 splits)
+nrep <- 100
+aer <- rep(0, nrep)
+set.seed(1)
+for(k in 1:nrep){
+  cat("rep:",k,"\n")
+  sid <- sample.int(n=50, size=35)
+  cid <- sample.int(n=50, size=35)
+  vid <- sample.int(n=50, size=35)
+  Xtrain <- rbind(Xs[sid,], Xc[cid,], Xv[vid,])
+  Xtest <- rbind(Xs[-sid,], Xc[-cid,], Xv[-vid,])
+  ldatrain <- lda(Species ~ ., data=Xtrain, prior=rep(1/3, 3))
+  confusionTest <- table(Xtest$Species, predict(ldatrain, newdata=Xtest)$class)
+  confusionTest
+  n <- sum(confusionTest)
+  aer[k] <- (n - sum(diag(confusionTest))) / n
+}
+mean(aer)
+```
+
+#   QUADRATIC DISCRIMINANT ANALYSIS
+
+```{r}
+# fit qda model
+qdamod <- qda(Species ~ ., data=iris, prior=rep(1/3, 3))
+names(qdamod)
+
+# check the QDA coefficients/scalings
+dim(qdamod$scaling)
+dnames <- dimnames(qdamod$scaling)
+dnames
+round(crossprod(qdamod$scaling[,,1], cov(Xs[,1:p])) %*% qdamod$scaling[,,1], 4)
+round(crossprod(qdamod$scaling[,,2], cov(Xc[,1:p])) %*% qdamod$scaling[,,2], 4)
+round(crossprod(qdamod$scaling[,,3], cov(Xv[,1:p])) %*% qdamod$scaling[,,3], 4)
+
+# visualize the QDA paritions
+dev.new(width=10, height=5, noRStudioGD=TRUE)
+partimat(Species ~ ., data=iris, method="qda")
+
+# make confusion matrix (and APER)
+confusion <- table(iris$Species, predict(qdamod)$class)
+confusion
+n <- sum(confusion)
+aper <- (n - sum(diag(confusion))) / n
+aper
+
+# use CV to get expected AER
+qdamodCV <- qda(Species ~ ., data=iris, prior=rep(1/3, 3), CV=TRUE)
+confusionCV <- table(iris$Species, qdamodCV$class)
+confusionCV
+eaer <- (n - sum(diag(confusionCV))) / n
+eaer
+
+# split into training and testing
+set.seed(1)
+sid <- sample.int(n=50, size=35)
+cid <- sample.int(n=50, size=35)
+vid <- sample.int(n=50, size=35)
+Xtrain <- rbind(Xs[sid,], Xc[cid,], Xv[vid,])
+Xtest <- rbind(Xs[-sid,], Xc[-cid,], Xv[-vid,])
+
+# fit qda to training and evaluate on testing
+qdatrain <- qda(Species ~ ., data=Xtrain, prior=rep(1/3, 3))
+confusionTest <- table(Xtest$Species, predict(qdatrain, newdata=Xtest)$class)
+confusionTest
+n <- sum(confusionTest)
+aer <- (n - sum(diag(confusionTest))) / n
+aer
+
+# split into training and testing (100 splits)
+nrep <- 100
+aer <- rep(0, nrep)
+set.seed(1)
+for(k in 1:nrep){
+  cat("rep:",k,"\n")
+  sid <- sample.int(n=50, size=35)
+  cid <- sample.int(n=50, size=35)
+  vid <- sample.int(n=50, size=35)
+  Xtrain <- rbind(Xs[sid,], Xc[cid,], Xv[vid,])
+  Xtest <- rbind(Xs[-sid,], Xc[-cid,], Xv[-vid,])
+  qdatrain <- qda(Species ~ ., data=Xtrain, prior=rep(1/3, 3))
+  confusionTest <- table(Xtest$Species, predict(qdatrain, newdata=Xtest)$class)
+  confusionTest
+  n <- sum(confusionTest)
+  aer[k] <- (n - sum(diag(confusionTest))) / n
+}
+mean(aer)
+```
+
+#   visualize LDA and QDA results via PCA
+
+```{r}
+ldaid <- as.integer(predict(ldamod)$class)
+qdaid <- as.integer(predict(qdamod)$class)
+pcamod <- princomp(iris[,1:4])
+dev.new(width=10, height=5, noRStudioGD=TRUE)
+par(mfrow=c(1,2))
+plot(pcamod$scores[,1:2], xlab="PC1", ylab="PC2", pch=ldaid, col=ldaid,
+     main="LDA Results", xlim=c(-4, 4), ylim=c(-2, 2))
+legend("topright",lev,pch=1:3,col=1:3,bty="n")
+abline(h=0,lty=3)
+abline(v=0,lty=3)
+plot(pcamod$scores[,1:2], xlab="PC1", ylab="PC2", pch=qdaid, col=qdaid,
+     main="QDA Results", xlim=c(-4, 4), ylim=c(-2, 2))
+legend("topright",lev,pch=1:3,col=1:3,bty="n")
+abline(h=0,lty=3)
+abline(v=0,lty=3)
+```
+
+#   RDA 
+
+Regularization discriminant analysis
+
+```{r}
+rdamod <- rda(Species ~ ., data = iris, gamma = 0.05, lambda = 0.2)
+predict(rdamod, iris)
+partimat(Species ~ ., data=iris, method="rda")
+
+confusion.rda <- table(iris$Species, predict(rdamod)$class)
+confusion.rda
+
+```
+
+#   ROC/ comparing classifiers
+
+```{r}
+library(pROC)
+speedDating <- readRDS("/Users/aubrey/Documents/GitHub/MVA_R/speedDating.rds")
+str(speedDating)
+
+# split data
+test_index <- sample(1:nrow(speedDating), size = round(0.2*nrow(speedDating)))
+dat_train <- speedDating[-test_index,]
+dat_test <- speedDating[test_index,]
+
+## set up some formula
+set.seed(25353)
+frmla <- UI_hoch_w ~ alter_diff + UI_t + attr_partner_w
+```
+
+
+##    CART
+
+```{r}
+library(rpart)
+(m_cart <- rpart(frmla, method = "class", data = dat_train))
+printcp(m_cart) 
+summary(m_cart) 
+
+
+# decide on potential range of pruning
+plot(m_cart, uniform = FALSE, main = "CART", margin = 0.1)
+text(m_cart, use.n=TRUE, all=TRUE, cex=.8)
+plotcp(m_cart, upper = "splits")
+
+# pruning
+cp <- m_cart$cptable[2,"CP"] # optimal CP-value according to plotcp()
+m_cart <- prune(m_cart, cp = cp)
+plot(m_cart, uniform = FALSE, main = "CART", margin = 0.1)
+text(m_cart, use.n=TRUE, all=TRUE, cex=.8)
+```
+
+##    RF
+
+```{r}
+library(randomForest)
+(m_rf <- randomForest(frmla, method = "class", data = dat_train, ntree = 500, mtry = 2))
+```
+
+##    LDA
+
+```{r}
+library(MASS)
+(m_lda <- lda(frmla, data = dat_train))
+```
+
+##    kNN
+
+```{r}
+library(class)
+### k-CV
+y <- dat_train$UI_hoch_w
+dat_train_short <- dat_train[,colnames(dat_train) != "UI_hoch_w"]
+dat_test_short <- dat_test[,colnames(dat_test) != "UI_hoch_w"]
+# determine k via Leave One Out-CV, criteria missclassification rate
+get_MKR <- function(k) {
+  model <- knn.cv(dat_train_short, cl = y, k = k)
+  classes <- as.character(model)
+  tab <- table(classes, y)
+  mkr <- 1 - sum(diag(tab) / sum(tab))
+  return(mkr)
+} 
+# reduce size to reduce process. time
+set.seed(1902)
+k_auswahl <- c(1,10,seq(25,250,by = 25))
+MKRs <- sapply(k_auswahl, get_MKR)
+plot(k_auswahl, MKRs, type = "l")
+(k.opt <- k_auswahl[which.min(MKRs)])
+
+### final model w optimal k
+m_knn_train <- knn(train = dat_train_short, test = dat_train_short, k = k.opt, cl = y, prob = TRUE)
+m_knn_test <- knn(train = dat_train_short, test = dat_test_short, k = k.opt, cl = y, prob = TRUE)
+
+```
+
+##    log reg 
+
+```{r}
+library(mgcv)
+m_logit <- gam(UI_hoch_w ~ s(alter_diff) + s(UI_t) + s(attr_partner_w),
+               data = dat_train, family = binomial(link = "logit"))
+summary(m_logit)
+plot(m_logit, pages = 1, shade = TRUE)
+```
+
+##    Prediction
+
+```{r}
+### CART
+p_cart_train <- as.vector(predict(m_cart)[,1])
+c_cart_train <- as.numeric(levels(predict(m_cart, type ="class")))[predict(m_cart, type ="class")]
+p_cart_test <- as.vector(predict(m_cart, newdata = dat_test)[,1])
+c_cart_test <- as.numeric(levels(predict(m_cart, newdata = dat_test, type ="class")))[predict(m_cart, newdata = dat_test, type ="class")]
+
+### Random Forest
+p_rf_train <- predict(m_rf, type = "prob")[,1]
+c_rf_train <- unname(predict(m_rf, type = "class"))
+p_rf_test <- predict(m_rf, newdata = dat_test, type = "prob")[,1]
+c_rf_test <- unname(predict(m_rf, newdata = dat_test, type = "class"))
+
+### LDA
+p_lda_train <- predict(m_lda)$x[,1] 
+c_lda_train <- predict(m_lda)$class
+p_lda_test <- predict(m_lda, newdata = dat_test)$x[,1]
+c_lda_test <- predict(m_lda, newdata = dat_test)$class
+
+### kNN
+p_knn_train <- attr(m_knn_train, "prob")
+c_knn_train <- as.character(m_knn_train)
+p_knn_test <- attr(m_knn_test, "prob")
+c_knn_test <- as.character(m_knn_test)
+
+### Log Reg
+p_logit_train <- predict(m_logit, type = "response")
+c_logit_train <- as.numeric(p_logit_train > 0.5)
+p_logit_test <- predict(m_logit, newdata = dat_test, type = "response")
+c_logit_test <- as.numeric(p_logit_test > 0.5)
+
+
+# ROC (training d))
+par(mfrow = c(2,3))
+
+### CART
+roc_cart <- roc(response = dat_train$UI_hoch_w,
+                predictor = p_cart_train)
+plot(roc_cart, main = paste0("CART (AUC=",round(auc(roc_cart),2),")"))
+
+### Random Forest
+roc_rf <- roc(response = dat_train$UI_hoch_w,
+              predictor = p_rf_train)
+plot(roc_rf, main = paste0("Random Forest (AUC=",round(auc(roc_rf),2),")"))
+
+### LDA
+roc_lda <- roc(response = dat_train$UI_hoch_w,
+               predictor = p_lda_train)
+plot(roc_lda, main = paste0("LDA (AUC=",round(auc(roc_lda),2),")"))
+
+### kNN
+roc_knn <- roc(response = dat_train$UI_hoch_w,
+               predictor = p_knn_train)
+plot(roc_knn, main = paste0("kNN (AUC=",round(auc(roc_knn),2),")"))
+
+### Log reg
+roc_logit <- roc(response = dat_train$UI_hoch_w,
+                 predictor = p_logit_train)
+plot(roc_logit, main = paste0("Logit-Regression (AUC=",round(auc(roc_logit),2),")"))
+
+```
+
+##    Interpretability
+
+```{r}
+par(mfrow = c(1,1))
+
+### CART
+plot(m_cart, uniform = FALSE, main = "decision tree", margin = 0.1)
+text(m_cart, use.n=TRUE, all=TRUE, cex=.8)
+m_cart$variable.importance
+
+### Random Forest
+m_rf
+varImpPlot(m_rf)
+
+
+### LDA
+m_lda
+
+### kNN
+str(m_knn_train)
+
+### Log reg
+summary(m_logit)
+plot(m_logit, pages = 1, shade = TRUE)
+```
+

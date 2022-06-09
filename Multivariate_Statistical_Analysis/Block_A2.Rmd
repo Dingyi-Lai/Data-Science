@@ -1,0 +1,402 @@
+---
+title: "Multivariate Gauss and Testing"
+author: "Dingyi Lai"
+date: "11/28/2020"
+output:
+  html_document:
+    includes:
+    in_header: header.tex
+    latex_engine: xelatex
+    toc: true
+    depth: 3
+    number_sections: true
+    theme: united
+    highlight: tango
+    toc_float: true
+    fontsize: "12pt"
+    papersize: "a5"
+    geometry: "margin=1in"
+---
+
+#   multivariate Gauss
+
+```{r}
+## function to plot 2D N
+nv2.3d <- function(sigma1,sigma2,rho, phi, theta){
+  
+  library(mvtnorm)
+  
+  #Set MU and COV
+  mu <- rep(0,2)
+  Sigma <- matrix(c(sigma1^2,rho*sigma1*sigma2,rho*sigma1*sigma2,sigma2^2),ncol=2,nrow=2)
+  
+  #Set grid to compute density
+  x1 <- x2 <- seq(-5,5,0.25)
+  grid <- expand.grid(x1,x2)
+  
+  fvals <- matrix(dmvnorm(grid,mean=mu,sigma=Sigma),ncol=length(x1),nrow=length(x2))
+  
+  #3D plot of density
+  persp(x=x1,y=x2,z=fvals,ticktype="detailed",xlab="x_1",ylab="x_2",phi=phi,theta=theta)
+  title(main=paste("sigma1=",as.character(sigma1), ", sigma2=",as.character(sigma2), ", rho=",as.character(rho)))
+}
+
+## function to compute countours
+nv2.contour <- function(sigma1,sigma2,rho){
+  
+  library(mvtnorm)
+  
+  #Set MU and COV
+  mu <- rep(0,2)
+  Sigma <- matrix(c(sigma1^2,rho*sigma1*sigma2,rho*sigma1*sigma2,sigma2^2),ncol=2,nrow=2)
+  
+  #Set grid
+  x1 <- x2 <- seq(-5,5,0.25)
+  grid <- expand.grid(x1,x2)
+  
+  fvals <- matrix(dmvnorm(grid,mean=mu,sigma=Sigma),ncol=length(x1),nrow=length(x2))
+  
+  #plot heights
+  contour(x=x1,y=x2,z=fvals,xlab="x_1",ylab="x_2")
+  title(main=paste("sigma1=",as.character(sigma1), ", sigma2=",as.character(sigma2), ", rho=",as.character(rho)))
+}
+
+```
+
+
+##    Manipulate version
+```{r,eval=FALSE}
+    
+## Use slides for parameters
+library(manipulate)
+
+########
+par(mfrow=c(1,1))
+manipulate(nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta), rho = slider(-.9,.9,step=0.1), phi = slider(0,90,step=10), theta = slider(0,90,step=10))
+
+manipulate(nv2.contour(sigma1,sigma2, rho), rho = slider(-.9,.9,step=0.1),sigma1 =slider(0.5,4,step=0.5),
+           sigma2 = slider(0.5,4,step=0.5))
+           
+
+```
+
+##    Normal version
+
+```{r}
+
+rho = -.9
+phi = 0
+theta = 0
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+rho = -.9
+phi = 90
+theta = 90
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+nv2.contour(sigma1 = 1,sigma2 = 3, rho)
+
+rho = -.5
+phi = 0
+theta = 0
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+rho = -.5
+phi = 90
+theta = 90
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+nv2.contour(sigma1 = 1,sigma2 = 3, rho)
+
+rho = 0
+phi = 0
+theta = 0
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+rho = 0
+phi = 0
+theta = 90
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+rho = 0
+phi = 90
+theta = 0
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+rho = 0
+phi = 90
+theta = 90
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+nv2.contour(sigma1 = 1,sigma2 = 3, rho)
+
+rho = 0.5
+phi = 0
+theta = 0
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+nv2.contour(sigma1 = 1,sigma2 = 3, rho)
+
+rho = 0.9
+phi = 0
+theta = 0
+nv2.3d(sigma1 = 1,sigma2 = 3, rho, phi, theta)
+
+nv2.contour(sigma1 = 1,sigma2 = 3, rho)
+
+```
+
+
+
+#   another contour
+
+recall formula multiv. Gaussian
+
+```{r}
+library(mvtnorm)
+set.seed(1234)
+s1 <- rmvnorm(1000, c(2, 3), matrix(c(10^2, 6^2, 6^2, 6^2),2,2))
+mu <- apply(s1, 2, mean)   ## sample mean vector
+sigma <- cov(s1)               ## sample variance-covariance matrix  
+
+
+sigma.inv = solve(sigma, matrix(c(1,0,0,1),2,2))
+
+ellipse <- function(s,t){
+                    u<-c(s,t)-mu; 
+                    e <- (-1) * (u %*% sigma.inv %*% u) / 2; 
+                    exp(e)/(2 * pi * sqrt(det(sigma.inv)))}         
+                    
+                    
+n <- 60
+x <- (0:(n-1))*2 - 50
+y <- (0:(n-1))*2 - 50
+
+z <- mapply(ellipse, as.vector(rep(x,n)), as.vector(outer(rep(0,n), y, `+`)))
+
+plot(s1, pch=21, xlim=c(-35, 35), ylim=c(-35,35), xlab="Margin X 1", ylab="Margin X 2", bg = "lightgray", cex = 0.3)
+contour(x,y,matrix(z,n,n), levels=(0:15), col = terrain.colors(16), add=TRUE, lwd = 1)
+
+```
+
+#   conditional distribution
+
+```{r}
+
+Sigma <- matrix(c(1,.8,.8,1), nrow=2) ## variance-covariance matrix
+
+x <- seq(-3,3,0.01)
+contour(x,x,outer(x,x,function(x,y){dmvnorm(cbind(x,y),sigma=Sigma)}), col = "blue")
+
+abline(v=.7, lwd=2, lty=2, col = "red")
+text(0.75, -2, labels=expression(x[1]==0.7), col = "red", pos = 4)
+
+### conditional distribution of X2 | X1 = 0.7
+y <- dnorm(x, mean =  0.8 * 0.7, sd = sqrt(1 - 0.8^2))
+lines(y-abs(min(x)),x,lty=2,lwd=2, col = "red")
+
+### marginals
+m1 <- m2 <- dnorm(x, 0, 1)
+lines(x, m1 - abs(min(x)), lty = 1, lwd = 2, col = "gray30")
+lines(m2 - abs(min(x)), x, lty = 1, lwd = 2, col = "gray30")
+
+
+## (X_2|X_1 = -1)
+contour(x,x,outer(x,x,function(x,y){dmvnorm(cbind(x,y),sigma=Sigma)}), col = "blue")
+abline(v=-1, lwd=2, lty=2, col = "red")
+
+### conditional distribution of X2 | X1 = - 1
+y2 <- dnorm(x, mean = 0.8 * (- 1), sd = sqrt(1 - 0.8^2))
+lines(-y2 + max(x),x,lty=2,lwd=2, col = "red")
+
+#### same thing for set of different x (conditional distributions)
+contour(x,x,outer(x,x,function(x,y){dmvnorm(cbind(x,y),sigma=Sigma)}), col= "blue")
+condN <- function(x, cx){dnorm(x, mean = 0.8 * cx, sd = sqrt(1 - 0.8^2))}
+for (i in seq(-2, 2, by = 0.25)){col <- colors()[grep("red",colors())][4*i + 9]; 
+                                 lines(condN(x, i) + i, x, lwd = 2, col = col);
+                                 abline(v = i, lwd=1, lty=1, col = col)}
+```
+
+
+#    wishart
+
+```{r}
+# W_1
+S <- as.matrix(1)
+sample <- rWishart(10, df = 10, S)     
+
+### W Vs. Chi^2
+set.seed(1234)
+sampleWishart <- rWishart(5000, df = 10, S)
+sampleChiSq <- rchisq(5000, df = 10)
+
+par(mfrow = c(1,2))
+hist(sampleWishart, col = "lightblue", main = expression(paste("Wishart Distribution",
+               sep ="")), xlim = c(0, 40), breaks = 30, freq = F)
+lines(density(sampleWishart), col = "red", lwd = 2)
+hist(sampleChiSq, col = "lightblue", main = expression(paste(chi^2, "Distribution",
+ sep = "")), xlim = c(0,40), breaks = 30, freq = F)
+lines(density(sampleChiSq), col = "red", lwd = 2)
+```
+
+#   manova
+
+##    data1
+```{r}
+## Hotelling's $T^2$ test 
+Tibet <- source("tibetskulls.txt")$value
+Tibet
+
+# Using Hotelling's $T^2$ test, we test the hypothesis that the five-dimensional mean vectors of skull
+# measurements are the same in the two populations from which the sample arise.
+ ## Thus compute Tests for 2-sample cases - independent samples
+
+attach(Tibet)
+m1 <- apply(Tibet[Type==1,-6],2,mean)
+m2 <- apply(Tibet[Type==2,-6],2,mean)
+l1 <- length(Type[Type==1])
+l2 <- length(Type[Type==2])
+x1 <- Tibet[Type==1,-6]
+x2 <- Tibet[Type==2,-6]
+S <- ((l1-1)*var(x1)+(l2-1)*var(x2))/(l1+l2-2)
+( T2 <- t(m1-m2) %*% solve(S) %*% (m1-m2) )
+( Fstat <- (l1+l2-5-1)*T2/(l1+l2-2)*5 )
+( pvalue <- 1-pf(Fstat,5,26) )
+```
+
+There is strong evidence that the mean vectors of skull types I and II differ.
+
+##    data2
+
+-   The data frame `skulls` from the R package `HSAUR3` contains four measurements made on male Egyptian skulls from five epochs. The measurements are: `mb` (maximum breadth), `bh` (basibregmatic height), `bl` (basialiveolar length), and `nh` (nasal height).
+
+
+```{r}
+library(HSAUR3)
+data(skulls)
+head(skulls)
+summary(skulls)
+dim(skulls)
+
+for (i in levels(skulls$epoch)) {
+  print(dim(skulls[skulls$epoch==i,]))
+}
+#dim is not necessary required for the same number in each class
+#not necessary to have a balance design
+
+attach(skulls)
+skulls.manova<-manova(cbind(mb,bh,bl,nh)~epoch)
+summary(skulls.manova,test="Wilks")
+#value Wilks is the determinant of W/T
+
+summary(skulls.manova,intercept=TRUE,test="Wilks")
+#more complicated case that we would not cover this year
+
+summary(skulls.manova,test="Roy")
+#value Roy is the largest eigenvalue(lambda)/(1-lambda1)
+
+summary(skulls.manova,test="Hotelling-Lawley")
+#value Hotelling-Lawley is the trace of W^-1 %*% B
+
+summary(skulls.manova,test="Pillai")
+#value Pillai is the trace of (B+W)^-1 %*% B
+
+```
+
+Basically the results of these tests are not very different
+
+There is very strong evidence that the mean vectors of the five epochs differ.
+
+Here we could see the effect of epoch to different variables respectfully
+```{r}
+summary(aov(cbind(mb,bh,bl,nh)~epoch))
+```
+When we write a report, we should show more detail of the data.
+
+#   Tests for 2-sample cases -dependent samples
+
+Unknown covariance matrix
+
+reject $H_0 \Leftrightarrow \frac{(n-p) \cdot n}{(n-1)\cdot p} \cdot \bar{d}^T \cdot {S_d}^{-1} > F(p;n-p;1-\alpha)$
+with $$\bar{d} = \frac{1}{n}\sum_{i=1}^n{d_i}$$
+$$S_d = \frac{1}{n-1}\sum_{i=1}^n{(d_i-\bar{d})(d_i-\bar{d})^T}$$
+
+The known covariance matrix of d is $\Sigma_d$:
+
+Reject $H_0 \Leftrightarrow n \cdot {\bar{d}}^T \cdot \Sigma_d^{-1} \cdot d > \chi^2(p;1-\alpha)$
+
+```{r}
+load("buligoals.rda")
+
+## create differences between seasons
+d_i <- goals1314 - goals1415
+
+## number of observations, number of variables
+n <- nrow(d_i)
+p <- ncol(d_i)
+
+
+################
+### slow (rounded) version
+
+## mean differences per variable
+d.bar <- round(colMeans(d_i),1)
+
+## center differences for covariance matrix
+centered.d_i <- t(apply(d_i,1,function(x){x-d.bar}))
+## estimate covariane matrix
+S <- 1/(n-1)*t(centered.d_i)%*%centered.d_i
+S <- round(S,1)
+
+## invert covariance matrix
+Sinv <- matrix(c(S[4],-S[3],-S[2],S[1]),ncol=2)
+factor.Sinv <- (S[1]*S[4]-S[2]*S[3])
+
+## calculate test statistic
+T <- ((n-p)*n)/((n-1)*p)/factor.Sinv * (d.bar%*%Sinv%*%d.bar)
+
+## critical region of test
+qf(0.95, 2,14)
+
+## p-value
+1-pf(T,p,n-p)
+
+################
+### fast (exact) version
+
+## mean differences per variable
+d.bar2 <- colMeans(d_i)
+
+## estimate covariane matrix
+S2 <- cov(d_i)
+
+## or 
+cov(goals1314)+cov(goals1415)-cov(goals1314,goals1415)-cov(goals1415,goals1314)
+
+## invert covariance matrix
+Sinv2 <- solve(S2)
+
+## calculate test statistic
+T2 <- ((n-p)*n)/((n-1)*p) * (d.bar2%*%Sinv2%*%d.bar2)
+
+## critical region of test
+qf(0.95, p, n-p)
+
+## p-value
+1-pf(T2,p,n-p)
+
+###  Hotelings T
+
+## two samples
+library(ICSNP)
+math.teach <- data.frame(teacher = factor(rep(1:2, c(3, 6))),
+                         satis = c(1, 3, 2, 4, 6, 6, 5, 5, 4), 
+                         know = c(3, 7, 2, 6, 8, 8, 10, 10,6))
+with(math.teach, tapply(know, teacher, mean))
+with(math.teach, tapply(satis, teacher, mean))
+
+(m1 <- with(math.teach, HotellingsT2(cbind(satis,know) ~ teacher)))
+
+### note that this is a F transform of T^2
+```
+

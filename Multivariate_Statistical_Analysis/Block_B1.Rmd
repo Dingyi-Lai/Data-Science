@@ -1,0 +1,189 @@
+---
+title: "Block_B1"
+author: "Dingyi Lai"
+date: "1/8/2021"
+output:
+  html_document:
+    includes:
+    in_header: header.tex
+    latex_engine: xelatex
+    toc: true
+    depth: 3
+    number_sections: true
+    theme: united
+    highlight: tango
+    toc_float: true
+    fontsize: "12pt"
+    papersize: "a5"
+    geometry: "margin=1in"
+---
+
+#   Cluster Analysis
+
+```{r}
+rm(list = ls())
+
+euro <- read.table("/Users/aubrey/Documents/GitHub/MVA_R/europa.txt",header=T, fileEncoding="latin1")
+
+Xeuro <- data.frame(euro[,-1],row.names=euro[,1])
+euroscaled <- scale(Xeuro,scale=TRUE,center=TRUE)
+
+dist_eucl2 <- dist(euroscaled, method="euclidean")^2
+
+sl   <- hclust(dist_eucl2, method="single")
+
+com <- hclust(dist_eucl2, method="complete")
+
+
+# centroid using Mahalanobis dist 
+S <- var(euroscaled)
+dist_mahal <- matrix(NA,nrow=24,ncol=24)
+for(i in 1:24){
+  dist_mahal[i,] <- mahalanobis(euroscaled, euroscaled[i,],S)
+}
+rownames(dist_mahal) <- colnames(dist_mahal) <- labels(dist_eucl2)
+dist_mahal <- as.dist(dist_mahal)
+
+cent <- hclust(dist_mahal, method="centroid")
+
+average <- hclust(dist_eucl2, method="average")
+
+#par(mfrow=c(2,2))
+plot(sl)
+plot(com)
+plot(average)
+plot(cent)
+```
+
+```{r}
+library(cluster)
+#help("kmeans")
+set.seed(77)
+km4 <- kmeans(x=euroscaled,centers = 4,iter.max = 20,nstart = 10)
+
+#Yields following solution:
+km4.cl <- cbind(as.character(euro[order(km4$cluster),1]),sort(km4$cluster))
+
+#Hierarchical Cluster
+#Single linkage restricted to arbl and brut with k=4
+sl2     <- hclust(dist(euroscaled[,3:4]),method="single")
+sl24    <- cutree(sl2,k=4)
+sl24.cl <- cbind(as.character(euro[order(sl24),1]),sort(sl24))
+
+# Centroid restricted to arbl and brut with k=4
+cent2     <- hclust(dist(euroscaled[,3:4]),method="centroid")
+cent24    <- cutree(cent2,k=4)
+cent24.cl <- cbind(as.character(euro[order(cent24),1]),sort(cent24))
+
+# Complete Linkage restricted to arbl and brut with k=4 and Mahalanobis dist 
+S <- var(euroscaled[,3:4])
+dist_mahal <- matrix(NA,nrow=24,ncol=24)
+for(i in 1:24){
+  dist_mahal[i,] <- mahalanobis(euroscaled[,3:4], euroscaled[i,3:4],S)
+}
+dist_mahal <- as.dist(dist_mahal)
+cl2     <- hclust(dist_mahal, method="complete")
+cl24    <- cutree(cl2,k=4)
+cl24.cl <- cbind(as.character(euro[order(cl24),1]),sort(cl24))
+
+# kmeans-Clustering restricted to arbl and brut, 10 random initial partitions
+set.seed(77)
+km2 <- kmeans(x=euroscaled[,3:4],centers=4,iter.max=20,nstart=10)
+km2.cl <- cbind(as.character(euro[order(km2$cluster),1]),sort(km2$cluster))
+
+# Graphical comparison
+plot_clust <- function(res,main=""){
+  plot(euro[res==1,4],euro[res==1,5],type="n",xlim=c(0,37000),ylim=c(0,20),xlab="brut",ylab="arbl",main=main)
+  for(i in 1:4){
+    text(euro[res==i,4],euro[res==i,5],labels=as.character(euro[res==i,1]),col=i)
+  }
+}
+
+#par(mfrow=c(2,2))
+
+# kmeans
+plot_clust(km2$cluster,main="kmeans")
+
+# single
+plot_clust(sl24,main="single")
+
+# centroid
+plot_clust(cent24,main="centroid")
+
+# complete
+plot_clust(cl24,main="complete")
+
+```
+
+
+```{r}
+par(mfrow=c(1,1))
+
+### mclust
+
+library(MASS)
+data(geyser)
+
+plot(geyser)
+# yielding 3 classes (visually) 
+
+
+library(mclust)
+#help(Mclust)
+#help(mclustModelNames)
+
+
+set.seed(0)
+m1 <- Mclust(data=geyser, G=3, modelNames = rep("EII", 3))
+summary(m1, parameters=TRUE)                                 ## BIC = -3770.529
+
+
+plot(m1, what="classification")        
+plot(m1, what="uncertainty")          
+plot(m1, what="density")               #
+```
+second model
+```{r}
+m2 <- Mclust(data=geyser, G=3, modelNames = rep("VVI", 3))
+summary(m2, parameters=TRUE)                                 ## BIC = -2813.52
+
+plot(m2, what="classification")       
+plot(m2, what="uncertainty")           
+plot(m2, what="density")                                     ## improvement subject to m1
+```
+third model
+
+```{r}
+m3 <- Mclust(data=geyser, G=3, modelNames = rep("VVV", 3))
+summary(m3, parameters=TRUE)                                 ## BIC = -3059.029
+
+
+plot(m3, what="classification")                              ## does not fit well
+plot(m3, what="uncertainty")           
+plot(m3, what="density")                                     ## does not fit well
+
+```
+
+```{r}
+## estimated posteriori over all obs:
+round(m2$z, 3)
+hist(round(m2$z, 3))
+
+## classification:
+m2$classification
+## Uncertainty subject to partition:
+round(m2$uncertainty, 3)
+table(round(m2$uncertainty, 3))
+```
+
+four components
+```{r}
+Mclust(data=geyser)
+m4 <- Mclust(data=geyser, G=4, modelNames = rep("VVI", 4))
+summary(m4, parameters=TRUE)                                 ## BIC = -2768.548
+
+plot(m4, what="classification")                             
+plot(m4, what="uncertainty")           
+plot(m4, what="density") 
+```
+
