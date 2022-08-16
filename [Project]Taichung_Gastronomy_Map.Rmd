@@ -1,0 +1,117 @@
+---
+title: "[Project]Taichung_Gastronomy_Map"
+author: "Dingyi Lai"
+date: "2018/1/3"
+output: html_document
+---
+
+# Introduction
+As a special municipality being famed for its delicious food, Taichung attracts a large number of tourists every year. But where could we accommodate to own the most practical traffic for gastronomy?
+
+# Goal
+Find the best accommodation point for gastronomy in Taichung.
+
+# Procedure
+## Clean the platform
+```{r}
+rm(list = ls()) 
+```
+
+## Change the directory
+```{r, eval=FALSE}
+# setwd("/Users/aubrey/Documents/GitHub/Data-Science/")
+```
+
+## Read the data
+```{r}
+
+data <- read.csv("[FCU]R/清洗資料經緯度new.csv",header = TRUE,stringsAsFactors = FALSE,fileEncoding = "BIG5")
+```
+
+## Change columns name
+```{r}
+colnames(data)[4:5] <- c("lat","lon")
+```
+
+## Observe the structure of data
+```{r}
+class(data)
+```
+
+## Install necessary packages
+```{r,message=FALSE}
+library(dplyr)
+library(magrittr)
+library(factoextra)
+library(rjson)
+library(ggmap)
+library(ggplot2)
+library(sp)
+```
+
+## Clean data, limit the latitude and longitude and store it as new
+```{r}
+data%>%
+  filter(lon>120.58 & lon<120.697 & lat<24.1901 & lat>24.133)->new
+```
+
+## kmeans clustering
+```{r}
+km <- kmeans(new[,c(4,5)],centers = 4)
+```
+
+## Store the results into new
+```{r}
+new$cluster <- km$cluster
+```
+
+## Observe result of clustering
+```{r}
+table(new$cluster,new$分類)
+```
+
+## Clustering Visualization
+```{r,warning=FALSE}
+fviz_cluster(km,data =new[,c(4,5)],geom = c("point","text"), 
+             ellipse.type = "norm")
+```
+
+## Find the median of latitude and longitude for each group
+```{r}
+lat.med <- c()
+lon.med <- c()
+for(i in 1:4){
+  
+  lat.med[i] <- median(new[new$cluster==i,]$lat)
+  lon.med[i] <- median(new[new$cluster==i,]$lon)
+}
+```
+
+## Store them into data.frame as knew
+```{r}
+knew <- data.frame(lat=lat.med,lon=lon.med)
+```
+
+## Point Plot for grouped data
+```{r,warning=FALSE}
+qmap(location =c(lat=median(new$lat),lon=median(new$lon)) ,zoom = 12,language ="zh-TW")+
+  geom_point(aes(x=lon,y=lat,col=new$cluster,size=1,alpha=0.6),data = new)+
+  theme(legend.position = "none")+
+  ggtitle("Scatter plot of the classified addresses")
+```
+
+## Point Plot for clustering
+```{r,warning=FALSE}
+qmap(location =c(lat=median(knew$lat),lon=median(knew$lon)) ,zoom = 12,language ="zh-TW")+
+  geom_point(aes(x=lon,y=lat,col=rainbow(nrow(knew)),alpha=0.6),size=5,data = knew)+
+  theme(legend.position = "none")+
+  ggtitle("Scatter plot of the kmeans result")
+```
+
+## Zoom in
+```{r,warning=FALSE}
+qmap(location =c(lat=median(knew$lat),lon=median(knew$lon)) ,zoom = 12,language ="zh-TW")+
+  geom_point(aes(x=lon,y=lat,col=rainbow(nrow(knew)),alpha=0.6),size=70,data = knew)+
+  theme(legend.position = "none")+
+  ggtitle("Scatter plot of the kmeans result")
+```
