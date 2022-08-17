@@ -92,7 +92,7 @@ for(i in 1:4){
 knew <- data.frame(lat=lat.med,lon=lon.med)
 ```
 
-## Point Plot for grouped data
+## Scatter Plot for grouped data
 ```{r,warning=FALSE}
 qmap(location =c(lat=median(new$lat),lon=median(new$lon)) ,zoom = 12,language ="zh-TW")+
   geom_point(aes(x=lon,y=lat,col=new$cluster,size=1,alpha=0.6),data = new)+
@@ -100,7 +100,7 @@ qmap(location =c(lat=median(new$lat),lon=median(new$lon)) ,zoom = 12,language ="
   ggtitle("Scatter plot of the classified addresses")
 ```
 
-## Point Plot for clustering
+## Scatter Plot for clustering
 ```{r,warning=FALSE}
 qmap(location =c(lat=median(knew$lat),lon=median(knew$lon)) ,zoom = 12,language ="zh-TW")+
   geom_point(aes(x=lon,y=lat,col=rainbow(nrow(knew)),alpha=0.6),size=5,data = knew)+

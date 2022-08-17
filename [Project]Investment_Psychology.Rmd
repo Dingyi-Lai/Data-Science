@@ -1,0 +1,385 @@
+---
+title: "stock"
+author: "Dingyi Lai"
+date: "2017/12/29"
+output:
+ioslides_presentation: #html_document: #
+  toc: true # table of content true
+  depth: 2 # upto three depths of headings (specified by #,## and ###)
+  number_sections: true ## if you want number sections at each table header
+  theme: united # many options for theme, this one is my favorite
+  highlight: tango # specifies the syntax highlighting style
+  toc_float: true
+---
+
+## Motivation
+
+In securities trading, the emotions and psychology of traders will have an impact on trading behavior. However, in the previous research on investment psychology, most of the data in the literature were taken from the data of TSE (Taiwan Stock Exchange) from 1995 to 1999, using the rate of return as a measure of investment performance and the turnover rate as investment sentiment (overconfidence). But there is little literature on sentiment distillation of stock prices.
+
+The anxiety that pervades the market can lead to massive stock selling, price crashes, and massive losses, as we've seen many times. Anxiety is an instinctive self-defense reaction of humans in the face of uncertainty, and all traders hope to capture this tension and fear by observing and studying market behavior, trading patterns, market spreads, or order flow.
+
+The main problem is that we are well aware of the importance of human behavior in trading, but we cannot directly observe it from stock prices. Hence, is there a way to break down the sentiment part from the trade-related factors? With this motivation, I conduct a quantitative study.
+
+## Methodology: PCA
+
+Principal component analysis (PCA) is considered to be one of the most valuable methods in applied linear algebra. It provides a simple, non-parametric method for extracting relevant information from messy data.
+
+Suppose we observe the daily price changes of p stocks over the past n days. We get matrix X. Let the mean of the random vector X be$\mu$, covariance matrix be $\sum$. Make a linear change in X, taking into account linear combinations of the original variables (principal components are uncorrelated linear combinations$Z_1$,$Z_2$,...,$Z_p$):
+
+\begin{cases}
+Z_1={\mu}_{11}\cdot X_1+{\mu}_{21}\cdot X_2+...+{\mu}_{1p}\cdot X_p,  & \text{$Z_1$ is the maximum of variance among the linear combinations $X_1$,$X_2$,...,$X_p$} \\
+Z_2={\mu}_{21}\cdot X_1+{\mu}_{22}\cdot X_2+...+{\mu}_{2p}\cdot X_p,  & \text{$Z_2$ is the maximum of variance among the linear combinationsis that is unrelated with $Z_1$} \\
+……, \\
+Z_p={\mu}_{p1}\cdot X_1+{\mu}_{p2}\cdot X_2+...+{\mu}_{pp}\cdot X_p,  & \text{$Z_p$ is the maximum of variance among the linear combinations that is unrelated with $Z_1$,$Z_2$,...,$Z_{p-1}$}
+\end{cases}
+
+We aim to build a simplified quantitative model to detect anxiety in trading markets using PCA. We consider the Taiwan Index 50, which consists of 51 Taiwanese stocks consisting of 20 tech stocks, 17 traditional industry stocks, and 14 financial stocks. The 2008 financial crisis spread panic over the stock market. In order to strip the panic factor from the stock price, we construct the covariance and its eigenvalues of the Taiwan Index 50 later. But firstly, we conduct exploratory analysis and descriptive statistics.
+
+
+## Exploratory Analysis and Descriptive Statistics
+
+-  Data import and cleaning of Taiwan index 50 component
+
+```{r}
+# Clean the platform
+rm(list = ls()) 
+
+# Change the directory
+# setwd("...")
+
+# Import necessary packages
+library(dplyr)
+library(reshape2)
+library(ggplot2)
+library(corrplot)
+library(RSpectra)
+library(xts)
+library(zoo)
+library(TTR)
+library(quantmod)
+library(grid)
+library(ggcorrplot)
+
+# Read the data about stock and stocktype
+stock <- read.csv("[FCU]Software_for_Data_Analysis/stocks.csv",header = T)
+stocktype <- read.csv("[FCU]Software_for_Data_Analysis/stockcode.csv",header = T)
+
+# Observe the structure of data
+str(stock)
+str(stocktype)
+
+# Coerce the data type of `stocktype` to character
+stocktype <- data.frame(cusip=as.character(stocktype$cusip),type=as.factor(stocktype$type))
+
+# Rearrange the data structure and store it in `comp`
+comp=melt(stock,id.vars="date",variable.name = "cusip", value.name = "stock_price")
+
+# Filter the data, define the time period between d and d+t, and keep the stocks with the largest data
+mydate <- function(d,t){
+  
+    # Further sorting out the new `comp` data
+    comp %>%
+    
+    # remove `stockprice` that is NA
+    filter(!is.na(stock_price)) %>%
+    
+    # Calculate the number of `cusips` and store them in the n variable. Each stock has a price corresponding to each day. The n value is the number of days when each stock has a total stock price.
+    count(cusip) %>% 
+    
+    # Only Select stocks with full date quantity
+    filter(n==max(n)) %>%  
+    
+    # Select all tickers
+    select(cusip) %>%
+  
+    # Use `cusip` as a bridge to connect stock with the filtered `cusip` above
+    inner_join(comp, by=c("cusip")) %>%
+    
+    # Change the storage format of the date after the above inner join to numeric
+    mutate(datenew=as.numeric(as.Date(date))) %>% 
+    
+    # Only select the data from 2014-03-13 to the next 90 days for preprocessing, and store these results in `Z`
+    filter(datenew >= as.numeric(as.Date(d)) &
+             datenew <= as.numeric(as.Date(d))+t) %>%
+    # Match the stock types, 1 for traditional industries, 2 for technology stocks, and 3 for financial stocks
+    merge(stocktype, by=c("cusip")) ->Z 
+  
+  # Save Z in the format of data.frame
+  Z=as.data.frame(Z[-4])
+  return(Z)
+}
+
+# Select 20 stocks with time span from 1996/1/4 to 2016/12/30
+# Now randomly select a day, such as 2007/12/31, extract the historical price data of all 20 stocks in the following 90 days and save it to Z
+Z <- mydate("2007-12-31",90)
+```
+
+-  Descriptive statistics for the 20 stocks after filtering
+
+```{r}
+ggplot(Z,aes(as.Date(date),stock_price,color=cusip))+
+  geom_line(aes(group=cusip))+
+  scale_x_date(date_breaks = "2 week")+
+  labs(x="Date",y="Stock Price",title="90-day chart of 50 constituents in Taiwan")+
+  theme_grey(base_family = "STHeiti")
+```
+
+-  To make time comparable, X is further normalized
+
+```{r}
+X <- Z[1:3]
+X %>%
+  
+  # group `X` by `cusip`
+  group_by(cusip) %>%
+  
+  # Update `stock_price` to normalized `stock_price` and save the result as `X`
+  mutate(stock_price=scale(stock_price))->X
+
+# Convert `X` to data.frame format
+X=as.data.frame(X)
+```
+
+-  Descriptive Statistical Chart Normalized for 20 Stocks
+
+```{r}
+ggplot(X,aes(as.Date(date),stock_price,color=cusip))+
+  geom_line(aes(group=cusip)) +
+  scale_x_date(date_breaks = "2 week")+
+  labs(x="Date",y="Stock Price",title="90-day chart of 50 constituents in Taiwan after normalization")+
+  theme_grey(base_family = "STHeiti")
+```
+
+-  Construct a matrix with time as rows and 20 stocks as columns, which is convenient for drawing the covariance map of these 20 stocks over a period of time
+```{r}
+# Turn X into a 62*20 matrix with `date` as row and `cusip` as column, and store as `X0`
+X0=array(X$stock_price, dim = c(length(unique(X$date)),length(unique(X$cusip))))
+```
+
+-  Descriptive Statistics Plot of 20 Stock Covariance Matrix
+
+```{r}
+ggcorrplot(cor(X0))+
+  labs(x="20 stocks",y="20 stocks",title="Covariance plot of 20 constituents after filtering")+
+  theme_grey(base_family = "STHeiti")
+```
+
+The covariance matrix diagonal tells us that for normalized time series, their covariance is equal to 1
+
+-  Descriptive Statistics Plots for Principal Component Analysis
+
+```{r}
+ggcorrplot(eigs(cor(X0), 5)$vector)+
+  labs(x="Eigenvalues for 20 stocks", y="5 PCA", title="PCA plot of 20 constituents after filtering")+
+  theme_grey(base_family = "STHeiti")
+```
+
+It shows that at least 19 out of 20 eigenvalues are negative, which indicates that Taiwan's stock market had largely fallen over the past 90 days. It supports traders to possess short positions in these stocks. Remarkably, the first principal component does not represent "price momentum" per se, it represents a latent variable commonly found in stock dynamics instead, i.e. potential artefacts in trading. The image above also gives an additional piece of information. All eigenvalues in the first principal component are significantly suppressed, and the eigenvalues of the remaining four principal components appear rather random. By inspection, this feature persisted for many years in our sample data. Therefore, we can focus our observations on the first principal component
+
+-  Grab the historical stock price of Taiwan Index 50 from yahoo server
+
+```{r}
+temp0 <- getSymbols("0050.TW",src="yahoo",from="2007-12-31",to="2011-12-31")
+
+# Because the stock numbers of Taiwan stocks are numbers, there will be problems in drawing with numbers, so use get to convert
+temp1<-get(temp0)  
+
+# Check `temp1` data type
+class(temp1)
+
+# Store it into TW50 in dataframe
+TW50 <- data.frame(date=index(temp1),stock_price=temp1[,6])
+
+# Change column names for `TW50`
+colnames(TW50) <- c("date","index_price")
+```
+
+
+## Model Construction
+
+-  Construct a model for the proportion of negative emotions
+
+For a time period $[d_1 , d_2]$, Select every the day after t day in this period, for instance, in $[d_1 , d_2]$， we take out the first principle component of these 20 stocks in this period, and calculate the percentage of the number of stocks whose eigenvalues are negative, which gives us a ratio of negative emotion. So in $[d_1 , d_2]$, we will have $d_2 - d_1+1$ ratio of negative emotion.
+
+```{r}
+myPCV <- function(d1,d2,t){
+  comp%>%
+    filter(!is.na(stock_price)) %>%
+    count(cusip) %>% 
+    filter(n==max(n)) %>%  
+    select(cusip) %>% 	
+    inner_join(comp, by=c("cusip")) %>%
+    mutate(datenew=as.numeric(as.Date(date)))%>% 
+    filter(datenew >= as.numeric(as.Date(d1)) &
+             datenew <= as.numeric(as.Date(d2)))->temp2
+  temp3 <- matrix(NA,nrow = nrow(unique(temp2[2])),ncol = 1)
+  result <- data.frame(unique(temp2[2]),temp3)
+  colnames(result) <- c("date","ratio")
+  
+  for(i in 1:nrow(result)){
+      comp%>%
+        filter(!is.na(stock_price)) %>%
+        count(cusip) %>% 
+        filter(n==max(n)) %>%  
+        select(cusip) %>% 	
+        inner_join(comp, by=c("cusip")) %>%
+        mutate(datenew=as.numeric(as.Date(date)))%>% 
+        filter(datenew >= as.numeric(as.Date(result[i,1])) &
+                 datenew <= as.numeric(as.Date(result[i,1]))+t)->Z 
+      Z=as.data.frame(Z[1:3])
+      X = Z 
+      X %>%
+        group_by(cusip) %>%
+        mutate(stock_price=scale(stock_price))->X
+      X=as.data.frame(X)
+      X0=array(X$stock_price, dim = c(length(unique(X$date)),length(unique(X$cusip))))
+      X1=eigs(cor(X0), 5)$vectors[,1]
+      X2 <- X1[X1<0]
+      ratio <- length(X2)/length(X1)
+      result[i,2] <- ratio
+  }
+ 
+  return(result)
+}
+
+```
+
+-  Select the stock data from 2007/12/31 to 2011/12/31 and run the model
+
+In order to reduce the running load of Rmarkdown, we choose to use Rstudio to run and export the data and then use Rmarkdown to read in.
+
+The original code in Rstudio is as follows:
+```{r,eval=FALSE}
+X1test <- myPCV("2007-12-31","2011-12-31",60)
+write.csv(X1test,file = "[FCU]Software_for_Data_Analysis//X1test.csv",row.names = FALSE,na="")
+```
+
+Read the data
+```{r}
+X1test <- read.csv("[FCU]Software_for_Data_Analysis/X1test.csv",header = T)
+```
+
+-  Construct a function to grab the Taiwan 50 index for a period of time
+
+```{r}
+myTW50 <- function(d1,d2){
+  TW50 %>%
+  mutate(datenew=as.numeric(as.Date(date)))%>% 
+    filter(datenew >= as.numeric(as.Date(d1)) &
+             datenew <= as.numeric(as.Date(d2)))->Z 
+  Z <- data.frame(Z[-4])
+  return(Z)
+}
+
+TW50new <- myTW50("2007-12-31","2011-12-31")
+```
+
+
+-  Construct a 30-day moving average model of negative sentiment ratio
+
+```{r}
+X2test <- data.frame(X1test$date,SMA(X1test$ratio,n=30))
+colnames(X2test) <- c("date","ratio")
+
+mutate(X1test,type=rep(1,times=nrow(X1test))) %>%
+  rbind(mutate(X2test,type=rep(2,times=nrow(X2test)))) ->X3test
+
+```
+
+
+## Comparison of negative sentiment ratios of constituents in Taiwan Index 50
+
+
+-  Construct a function that can compare multiple pictures in one interface
+
+```{r}
+multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) { 
+  library(grid) 
+  
+  # Make a list from the ... arguments and plotlist 
+  plots <- c(list(...), plotlist) 
+  
+  numPlots = length(plots) 
+  
+  # If layout is NULL, then use 'cols' to determine layout 
+  if (is.null(layout)) { 
+    # Make the panel 
+    # ncol: Number of columns of plots 
+    # nrow: Number of rows needed, calculated from # of cols 
+    layout <- matrix(seq(1, cols * ceiling(numPlots/cols)), 
+                     ncol = cols, nrow = ceiling(numPlots/cols)) 
+  } 
+  
+  if (numPlots==1) { 
+    print(plots[[1]]) 
+    
+  } else { 
+    # Set up the page 
+    grid.newpage() 
+    pushViewport(viewport(layout = grid.layout(nrow(layout), ncol(layout)))) 
+    
+    # Make each plot, in the correct location 
+    for (i in 1:numPlots) { 
+      # Get the i,j matrix positions of the regions that contain this subplot 
+      matchidx <- as.data.frame(which(layout == i, arr.ind = TRUE)) 
+      
+      print(plots[[i]], vp = viewport(layout.pos.row = matchidx$row, 
+                                      layout.pos.col = matchidx$col)) 
+    } 
+  } 
+}  
+```
+
+-  Compare the two pictures side by side
+
+Time period: from 2007-12-31 to 2011-12-31
+```{r}
+# Taiwan Index 50
+p1 <- ggplot(TW50new,aes(date,index_price))	+geom_line()
+
+# Negative Sentiment Ratio and 30-Day Moving Average Negative Sentiment Ratio
+p2 <- ggplot(X3test,aes(as.Date(date),ratio,color=type))	+
+  geom_line(aes(group=type)) +
+  scale_x_date(date_breaks = "6 month")+
+  labs(x="Date",y="Anxiety Ratio",title="30-day MA of negative sentiment ratio")+
+  theme_grey(base_family = "STHeiti")
+
+
+multiplot(p1,p2)
+```
+
+
+## Build the core model, that is, when the proportion of negative numbers in the first principal component increases for 5 consecutive days, we confirm anxiety
+
+```{r}
+X4test <- array(NA, dim = nrow(TW50new))
+
+for(i in 35:nrow(X2test)){
+  if(X2test[i,2]>X2test[i-1,2] & X2test[i-1,2]>X2test[i-2,2] & X2test[i-2,2]>X2test[i-3,2] & 
+     X2test[i-3,2]>X2test[i-4,2] & X2test[i-4,2]>X2test[i-5,2]){
+    X4test[i] <- TW50new[i,2]
+     }
+}
+
+X4test <- data.frame(date=TW50new$date,nervous=X4test)
+names(X4test) <- c("date","index_price")
+
+mutate(TW50new[-3],type=as.double(rep(1,times=nrow(TW50new)))) %>%
+  rbind(mutate(X4test,type=rep(2,times=nrow(X4test)))) ->X5test
+```
+
+## Mark anxiety on the historical stock price chart of the Taiwan Index 50
+
+```{r}
+ggplot(X5test,aes(as.Date(date),index_price,color=type))	+
+  geom_line(aes(group=type)) +
+  scale_x_date(date_breaks = "6 month")+
+  labs(x="Date",y="Anxiety",title="30-day MA of anxiety")+
+  theme_grey(base_family = "STHeiti")
+```
+
+Every time a stock has a big turning point, it is easy to generate the anxiety mentioned earlier. Because the definition of anxiety is based on previous studies. But with our model, we prefer to define this emotion as "dispute energy". We can observe such controversial energy when the momentum effect of a stock is interrupted.
+
+## Conclusion
+It led us into a potential latent variable: "dispute energy". First, it doesn't predict the future, but only comes with time. What it brings, however, is a re-examination of past market dynamics and the psychological movement of traders. The essence of stock price is a game of traders' different expectations for the future. Therefore, such a model of "dispute energy" might help us judge when the momentum effect has a trace of disappearance, thus it is hoped, better to buy low and sell high.
+
