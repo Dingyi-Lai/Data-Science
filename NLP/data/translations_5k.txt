@@ -1,0 +1,5000 @@
+Was ist das ?	What is it ?
+Was ist das ?	What 's that ?
+Was ist das ?	What is this ?
+Was ist das ?	What 's this ?
+Was ist das ?	What is that ?
+Ich vermisse dich .	I miss you .
+Das war mein Satz !	That 's MY line !
+Er tritt mich !	He 's kicking me !
+Er tritt mich !	He is kicking me !
+Er tritt mich !	He 's kicking me .
+Bist du sicher ?	Are you sure ?
+Bist du sicher ?	Are you sure about this ?
+Bist du sicher ?	Are you certain ?
+Beeil dich !	Hurry up .
+Beeil dich !	Hurry it up !
+Beeil dich !	Look sharp !
+Beeil dich !	Step on it !
+Ich bin so dick .	I 'm so fat .
+Na und ?	So what ?
+Na und ?	So fuckin ' what .
+Na und ?	Then what ?
+Na und ?	And then ?
+Na und ?	What 's your point ?
+Ich sag 's ja nur !	I 'm just saying !
+Warum fragst du ?	Why do you ask ?
+Warum fragst du ?	Why are you asking ?
+Was passierte ?	What happened ?
+Was passierte ?	What 's happened ?
+Ich bin neugierig .	I am curious .
+Ich bin neugierig .	I 'm curious .
+Ich hasse Chemie .	I hate chemistry .
+Du bist ein Engel !	You 're an angel !
+Du bist ein Engel !	You 're an angel .
+Vielen Dank !	Thank you very much !
+Vielen Dank !	Many thanks .
+Vielen Dank !	Thanks a lot !
+Vielen Dank !	Thank you very much .
+Ich nehme ihn .	I 'll take him .
+Oh , tut mir leid .	Oh , I 'm sorry .
+Ich heiße Jack .	My name is Jack .
+Ich heiße Jack .	My name 's Jack .
+Tanzt du mit mir ?	Will you dance with me ?
+Ist es schlimm ?	Is it bad ?
+Ist es schlimm ?	Is it that bad ?
+Er ist sehr sexy .	He 's very sexy .
+Lass mich in Ruhe !	Leave me alone !
+Lass mich in Ruhe !	Leave me alone .
+Lass mich in Ruhe !	Leave me in peace !
+Lass mich in Ruhe !	Do n't bother me .
+Lass mich in Ruhe !	Let me alone !
+Lass mich in Ruhe !	Stop embarrassing me .
+Wie alt bist du ?	How old are you ?
+Wie alt bist du ?	What age are you ?
+Ich habe Kopfweh .	I have a headache .
+Ich habe Kopfweh .	My head aches .
+Ich habe Kopfweh .	I 've got a headache .
+Das ist zu teuer !	It 's too expensive !
+Das ist zu teuer !	It 's too expensive .
+Das ist zu teuer !	This is too expensive !
+Das ist zu teuer !	It is too expensive .
+Es ist kalt .	It 's cold .
+Du hast Recht .	You 're right .
+Du hast Recht .	You are right .
+Du bist mein Typ .	You 're my type .
+Ich liebe Lasagne .	I love lasagna .
+Es regnet .	It is raining .
+Es regnet .	It 's raining .
+Zu spät .	Too late .
+Von was redest du ?	What are you talking about ?
+Von was redest du ?	What 're you talking about ?
+Wo bist du ?	Where are you ?
+Wo bist du ?	Where art thou ?
+Wo bist du ?	What 's your location ?
+Wohin gehst du ?	Where are you going to ?
+Wohin gehst du ?	Where are you going ?
+Wohin gehst du ?	Where are you heading ?
+Wohin gehst du ?	Where 're you going ?
+Unmöglich !	No way !
+Unmöglich !	This is impossible !
+Unmöglich !	Impossible !
+Vergiss uns nicht !	Do n't forget about us !
+Vergiss uns nicht !	Do n't forget us !
+Wem gehört das ?	Whose is this ?
+Wem gehört das ?	Who does this belong to ?
+Hände runter !	Put your hands down !
+Magst du Rap ?	Do you like rap ?
+Ich liebe Reisen .	I love trips .
+Wie alt sind Sie ?	How old are you ?
+Wie alt sind Sie ?	What age are you ?
+Guten Appetit !	Enjoy your meal !
+Guten Appetit !	Enjoy your food .
+Wem sagst du das !	Tell me about it !
+Wer kommt mit mir ?	Who is coming with me ?
+Wer kommt mit mir ?	Who will come with me ?
+Wer kommt mit mir ?	Who 's coming with me ?
+Wie schön du bist !	How beautiful you are !
+Bin gleich zurück .	I will be back soon .
+Ich bin sprachlos .	I 'm at a loss for words .
+Das hört nie auf !	This is never going to end .
+Das hört nie auf .	This is never going to end .
+Ich vermisse Sie .	I miss you .
+Ich vermisse euch .	I miss you .
+Du fehlst mir .	I miss you .
+Ich gehe .	I 'm going to go .
+Sind Sie sicher ?	Are you sure ?
+Beeil dich .	Hurry up .
+Mach hin !	Hurry up .
+Ich bin so fett .	I 'm so fat .
+Ja und ?	So what ?
+Warum fragt ihr ?	Why do you ask ?
+Ich liebe Sie .	I love you .
+Ich liebe dich !	I love you .
+Ich liebe euch .	I love you .
+Ich liebe dich .	I love you .
+Ich hab dich lieb !	I love you .
+Glückwunsch !	Congratulations !
+Bitte weine nicht .	Please do n't cry .
+Alan ist ein Poet .	Allen is a poet .
+Herzlichen Dank !	Thank you very much !
+Danke schön .	Thank you very much !
+Was willst du ?	What do you want ?
+Was wollen Sie ?	What do you want ?
+Was möchten Sie ?	What do you want ?
+Was möchtest du ?	What do you want ?
+Mach den Mund auf .	Open your mouth !
+Mach den Mund auf !	Open your mouth !
+Öffne den Mund !	Open your mouth !
+Es kam niemand .	Nobody came .
+Ich bin müde !	I 'm tired .
+Ich bin müde .	I 'm tired .
+Mein Kopf tut weh .	I have a headache .
+Rufe die Polizei !	Call the police !
+Frohe Weihnachten !	Merry Christmas !
+Ich verhungere .	I 'm starving !
+Ich habe Durst .	I 'm thirsty .
+Ich bin durstig .	I 'm thirsty .
+Das besagt nichts .	It does n't mean anything !
+Wovon redest du ?	What are you talking about ?
+Wo ist das Klo ?	Where is the bathroom ?
+Wo seid ihr ?	Where are you ?
+Wo sind Sie ?	Where are you ?
+Ausgeschlossen !	No way !
+In keinster Weise !	No way !
+Es ist mir egal .	I do n't care .
+Das ist mir egal .	I do n't care .
+Egal .	I do n't care .
+Feind hört mit .	The walls have ears .
+Was kostet das ?	How much is it ?
+Wo warst du ?	Where have you been ?
+Wo wart ihr ?	Where have you been ?
+Wo waren Sie ?	Where have you been ?
+Wo warst du ?	Where were you ?
+Wo warst du ?	Where 've you been ?
+Wer ist dran ?	Whose turn is it ?
+Du bist stinkfaul .	You are idle to the bone .
+Nur eine Minute .	Just a minute .
+Kannst du reiten ?	Can you ride a horse ?
+Leben Sie hier ?	Do you live here ?
+Lebt ihr hier ?	Do you live here ?
+Wohnt ihr hier ?	Do you live here ?
+Wohnst du hier ?	Do you live here ?
+Lebst du hier ?	Do you live here ?
+Wohnen Sie hier ?	Do you live here ?
+Du übertreibst !	You 're going too far .
+Du musst gehen .	You have to go .
+Bist du glücklich ?	Are you happy ?
+Bist du froh ?	Are you happy ?
+Du magst Obst .	You like fruit .
+Sie mögen Obst .	You like fruit .
+Wonach suchen Sie ?	What are you looking for ?
+Was suchst du ?	What are you looking for ?
+Was suchen Sie ?	What are you looking for ?
+Was sucht ihr ?	What are you looking for ?
+Was lernen Sie ?	What do you learn ?
+Was bekommst du ?	What will you have ?
+Was nimmst du ?	What are you going to have ?
+Was bekommen Sie ?	What are you going to have ?
+Was magst du ?	What do you like ?
+Was willst du nun ?	What do you want now ?
+Du hast es getan !	You 've done it !
+Ihr habt es getan !	You 've done it !
+Wie groß du bist !	How tall you are !
+Wie groß ihr seid !	How tall you are !
+Du bist aber groß !	How tall you are !
+Wie groß bist du ?	How tall are you ?
+Welches nimmst du ?	Which one do you take ?
+Welche nimmst du ?	Which one do you take ?
+Welchen nimmst du ?	Which one do you take ?
+Welche nehmen Sie ?	Which one do you take ?
+Welches nehmt ihr ?	Which one do you take ?
+Welchen nehmt ihr ?	Which one do you take ?
+Welche nehmt ihr ?	Which one do you take ?
+Wo wart ihr ?	Where were you ?
+Wo waren Sie ?	Where were you ?
+Was ist mit dir ?	How about you ?
+Was ist mit euch ?	How about you ?
+Was ist mit Ihnen ?	How about you ?
+Was machst du ?	What are you doing ?
+Was machen Sie ?	What are you doing ?
+Was machst du da ?	What are you doing ?
+Hast du eins ?	Do you have one ?
+Haben Sie einen ?	Do you have one ?
+Weißt du , warum ?	Do you know the reason ?
+Was glotzt du so ?	What are you staring at ?
+Du hast kein Geld .	You have n't any money .
+Hast du kein Geld ?	Have n't you got any money ?
+Du bist ungezogen .	You are naughty .
+Du bist am Zug .	It 's your move .
+Was machst du ?	What do you do ?
+Was machen Sie ?	What do you do ?
+Woher kommst du ?	Where do you come from ?
+Woher kommen Sie ?	Where do you come from ?
+Wo kommen Sie her ?	Where do you come from ?
+Wo kommst du her ?	Where do you come from ?
+Woher kommt ihr ?	Where do you come from ?
+Triff deine Wahl .	Make your choice .
+Deine Zeit ist um .	Your time is up .
+Schau dich um .	Look about you .
+Ich komme zu dir .	I 'll come to your place .
+Ich glaube euch .	I believe you .
+Ich glaube Ihnen .	I believe you .
+Ich glaube dir .	I believe you .
+Erwischt .	You got me !
+Grün steht dir .	Green suits you .
+Grün steht euch .	Green suits you .
+Grün steht Ihnen .	Green suits you .
+Was willst du ?	What is it that you want ?
+Was wollen Sie ?	What is it that you want ?
+Ich will dich .	I want you .
+Ich will dich !	I want you .
+Ich brauche dich .	I need you .
+Ich brauche Sie .	I need you .
+Ich brauche euch .	I need you .
+Du bist schuld .	You are to blame .
+Du zuerst .	You go first .
+Ich hatte Hunger .	I felt hungry .
+Hör auf zu murren .	Stop grumbling .
+Gib mir dein Geld .	Give me your money .
+Er wurde reich .	He became rich .
+Ich bin pleite .	I 'm broke .
+Mir ist schlecht .	I feel like vomiting .
+Mir ist übel .	I feel like vomiting .
+Bist du sauer ?	Are you mad ?
+Sind Sie wütend ?	Are you mad ?
+Bist du verrückt ?	Are you mad ?
+Hab keine Angst .	Do n't be afraid .
+Habe keine Angst .	Do n't be afraid .
+Fisch , bitte .	Fish , please .
+Magst du Fisch ?	Do you like fish ?
+Rindfleisch bitte .	Beef , please .
+Ich züchte Vieh .	I raise cattle .
+Eile mit Weile !	More haste , less speed .
+Eile mit Weile !	Haste makes waste .
+Beeil dich , Tom !	Hurry up , Tom .
+Bitte beeile dich .	Please hurry .
+Bitte beeilt euch .	Please hurry .
+Hast du es eilig ?	Are you in a hurry ?
+Habt ihr es eilig ?	Are you in a hurry ?
+Sind Sie in Eile ?	Are you in a hurry ?
+Schöne Ferien !	Enjoy your holidays .
+Schöne Ferien !	Enjoy your vacation .
+Wer fehlt ?	Who is absent ?
+Rührt euch !	Stand at ease !
+Bitte wenden !	Please turn over .
+Ohne Zweifel !	Without a doubt !
+Stehen Sie auf !	Get up !
+Steh auf !	Get up !
+Steht auf !	Get up !
+Stehe auf !	Get up !
+Du bist schön .	You are beautiful .
+Ihr seid Menschen .	You are human .
+Sie sind Ärzte .	You are doctors .
+Ihr seid Ärzte .	You are doctors .
+Du trinkst Tee .	You drink tea .
+Sie sind Arzt .	You are a doctor .
+Du bist Arzt .	You are a doctor .
+Geht 's dir gut ?	Are you feeling OK ?
+Nimm 's leicht !	Take it easy !
+Beruhige dich !	Take it easy .
+Mach 's gut .	Take care .
+Bist du verrückt ?	Are you crazy ?
+Keine Sorge .	Do n't worry about it !
+Das macht nichts .	Never mind .
+Vergiss es .	Never mind .
+Alles ist gut .	It 's all right .
+Vergiss es .	Forget it .
+Ich bin erschöpft .	I 'm exhausted .
+Ich bin kaputt .	I 'm exhausted .
+Er ist unleidlich .	He is cranky .
+Er ist stinkig .	He is cranky .
+Sehr gern .	I 'll be glad to .
+Ja , sehr gern .	I 'll be glad to .
+Vorsicht !	Look out !
+Ich versuche es .	I try .
+Ich probiere es .	I try .
+Das war knapp !	That was a close call .
+Ich fürchte nein .	I 'm afraid not .
+Leider nicht .	I 'm afraid not .
+Magst du Süßes ?	Do you care for sweets ?
+Kein Problem !	No problem at all !
+Mir ist kalt .	I have a chill .
+Mir ist kalt .	I feel cold .
+Ich friere .	I 'm freezing .
+Mir ist kalt .	I 'm freezing .
+Mich friert .	I 'm freezing .
+Viel Vergnügen !	Have fun .
+Viel Spaß !	Have fun .
+Feier schön !	Have fun .
+Viel Vergnügen !	Have a nice time .
+Viel Spaß !	Have a nice time .
+Viel Spaß !	Have a good time .
+Gefällt euch das ?	Are you enjoying it ?
+Gefällt Ihnen das ?	Are you enjoying it ?
+Viel Spaß !	Enjoy yourself !
+Feier schön !	Enjoy yourself !
+Hattest du Spaß ?	Did you enjoy yourself ?
+Schöne Reise !	Enjoy your trip .
+Guten Flug !	Have a nice flight .
+Schönen Flug !	Have a nice flight .
+Schönen Urlaub !	Have a nice vacation .
+Geh in die Schule .	Go to school .
+Erinnerst du dich ?	Do you remember ?
+Hör auf damit !	Come off it !
+Hast du Husten ?	Do you have any coughing ?
+Der Schein trügt .	Appearance is deceptive .
+Geh raus .	Get out .
+Geht raus !	Get out .
+Er spielt draußen .	He is playing outdoors .
+Alle Mann an Bord !	All aboard !
+Alle lachten .	Everybody laughed .
+Alle achten ihn .	Everybody looks up to him .
+Die See ist trübe .	The sea is not clear .
+Angenehm .	Nice seeing you !
+Ich heiße Hopkins .	My name is Hopkins .
+Die Blumen blühen .	Flowers bloom .
+Feuer ! Rennt !	Fire ! Run !
+Feuer ! Lauft !	Fire ! Run !
+Feuer ! Lauf !	Fire ! Run !
+Lösch das Feuer !	Put out the fire .
+Feuer brennt .	Fire burns .
+Das Feuer erlosch .	The fire went out .
+Singst du gerne ?	Do you like singing ?
+Singst du gern ?	Do you like singing ?
+Ich bin frei .	I 'm free .
+Mein Haus brannte .	My house was on fire .
+Das Haus brennt .	The house is on fire .
+Der Sommer ist da .	Summer has come .
+Was ist der Preis ?	What is the price ?
+Haben Sie CDs ?	Do you have any CDs ?
+Wie viele Leute ?	How many people ?
+Wann schließt es ?	What time does it close ?
+Wann fängt es an ?	What time does it start ?
+Wann beginnt es ?	What time does it start ?
+Um welche Zeit ?	About what time ?
+Nix passiert .	Nothing happened .
+Was liest du ?	What are you reading ?
+Was liest du da ?	What are you reading ?
+Worauf wartest du ?	What 're you waiting for ?
+Komm !	Come on !
+Kommt !	Come on !
+Mach schon !	Come on !
+Macht schon !	Come on !
+An was denkst du ?	What are you thinking about ?
+Woran denkst du ?	What are you thinking about ?
+Woran denken Sie ?	What are you thinking about ?
+Woran denkt ihr ?	What are you thinking about ?
+Was meinst du ?	What do you mean ?
+Was meint ihr ?	What do you mean ?
+Was willst du tun ?	What do you want to do ?
+Trotzdem danke !	Thank you all the same .
+Was habe ich ?	What do I have ?
+Wozu ?	For what ?
+Wozu ?	What for ?
+Wie gut sie singt !	How well she is singing !
+Schade .	What a pity !
+Wie schade !	What a pity !
+Tu etwas !	Do something !
+Tu was !	Do something !
+Warum ich ?	Why me ?
+Egal was .	Anything will do .
+Was war das ?	What was that ?
+Was war das denn ?	What was that ?
+Wie war das ?	Come again ?
+Heiliger Bimbam !	Holy cow !
+Was wirst du tun ?	What are you going to do ?
+Was gibt es Neues ?	What 's new ?
+Sammelst du etwas ?	Do you collect anything ?
+Haben Sie Fragen ?	Do you have any questions ?
+Habt ihr Fragen ?	Do you have any questions ?
+Hast du Fragen ?	Do you have any questions ?
+Was soll ich tun ?	What do you want me to do ?
+Was ist hier los ?	What 's going on ?
+Was ist los ?	What is going on ?
+Was ist los ?	What 's up ?
+Was geht ?	What 's up ?
+Na , wie geht 's ?	What 's up ?
+Was gibt 's ?	What 's up ?
+Was hast du ?	What is the matter with you ?
+Was erfand Bell ?	What was invented by Bell ?
+Hast du Haustiere ?	Do you have any pets ?
+Was fehlt ?	What is missing ?
+Gibt 's was Neues ?	Anything new ?
+Gibt ’s was Neues ?	Anything new ?
+Siehe unten .	See below .
+Ich höre Musik .	I listen to music .
+Mögen Sie Musik ?	Are you fond of music ?
+Ich höre Musik .	I hear music .
+Lärme nicht .	Do n't make a noise .
+Ich bin ein Held .	I 'm a hero .
+Das ist meine CD .	It 's my CD .
+Ich kann es nicht .	I ca n't do it .
+Ich fühle etwas .	I feel something .
+Dann los — rede !	Go ahead and talk .
+Hast du Feuer ?	Will you give me a light ?
+Ich war im Kino .	I was at a movie theater .
+War der Film gut ?	Was the movie good ?
+Magst du Filme ?	Do you like movies ?
+Du lügst .	You are lying .
+Lüge nie !	Never tell a lie !
+Lüge niemals !	Never tell a lie !
+Lügen Sie niemals !	Never tell a lie !
+Lügt nie !	Never tell a lie !
+Es regnete stark .	It rained heavily .
+Wird es regnen ?	Is it going to rain ?
+Es wird regnen .	It is going to rain .
+Es regnete .	It was raining .
+Es schüttet .	It is raining hard .
+Biege rechts ab !	Turn to the right .
+Es blitzte .	The lightning flashed .
+Was fällt dir ein ?	What 's the big idea ?
+Er arbeitete hart .	He worked hard .
+Suche eines aus .	Choose the one .
+Lass mich in Ruhe .	Leave me alone .
+Nimm mich mit .	Take me with you .
+Ich komme mit dir .	I 'm coming with you .
+Was hat er gesagt ?	What did he say ?
+Du musst zum Arzt .	You must see a doctor .
+Falsch .	Wrong .
+Ich verstehe .	I 'm catching on .
+Wirklich ?	You do n't say .
+Echt ?	You do n't say .
+Sag bloß !	You do n't say .
+Das ist alles ?	Is that all ?
+Ist das alles ?	Is that all ?
+Gute Reise !	Have a safe trip .
+Gute Fahrt !	Have a safe trip .
+Rührt euch !	At ease .
+Ich wurde krank .	I got sick .
+Wird es schlimmer ?	Is it getting worse ?
+Nicht schlecht .	Not bad .
+Nicht übel !	Not bad .
+Du bist schuld .	It is you who is to blame .
+Ihr seid schuld .	It is you who is to blame .
+Aoi tanzt gut .	Aoi dances well .
+Aoi tanzt .	Aoi dances .
+Liebe und Frieden .	Love and Peace .
+Ich liebe Pizza .	I like pizza very much .
+Ich bin zu Hause .	I am at home .
+Ich bin zuhause .	I am at home .
+Ich glaube an Ken .	I believe in Ken .
+Ich hole Gläser .	I 'll get some glasses .
+Lass das Seil los !	Let go of the rope .
+Halte das Seil .	Hold the rope .
+Haltet das Seil .	Hold the rope .
+Die Kerze erlosch .	The candle burned out .
+Magst du Äpfel ?	Do you like apples ?
+Mögen Sie Äpfel ?	Do you like apples ?
+Wo ist die Wäsche ?	Where is the laundry ?
+Letzte Runde !	Last call !
+Letzter Aufruf !	Last call !
+Ich höre Radio .	I 'm listening to the radio .
+Mach das Radio an .	Turn on the radio .
+Danke im Voraus !	Thank you in advance .
+Wie geht ’s ?	You all right ?
+In Ordnung .	Fair enough !
+Na schön !	Fair enough !
+Na gut !	Fair enough !
+Schön und gut .	Fair enough !
+Auch gut !	Fair enough !
+Hör gut zu !	Listen carefully .
+Ich niese oft .	I sneeze a lot .
+Träum süß !	Sweet dreams !
+Träum schön !	Sweet dreams !
+Süße Träume !	Sweet dreams !
+Schönen Tag !	Have a nice day .
+Einen schönen Tag .	Have a nice day .
+Geh langsam .	Walk slowly .
+Lass dir Zeit .	Take your time .
+Lasst euch Zeit .	Take your time .
+Arbeitet langsam .	Work slowly .
+Fahre langsam .	Drive slowly .
+Fahr langsam !	Drive slowly .
+Was ist ein Ufo ?	What is a UFO ?
+Sprich lauter .	Raise your voice .
+Lauter .	Louder .
+Lauter , bitte .	Louder , please .
+Sei flexibler .	Be more flexible .
+Seid flexibler .	Be more flexible .
+Geh langsamer .	Walk more slowly .
+Ja , natürlich .	Yes , of course .
+Ja klar .	Yes , of course .
+Auf jeden Fall !	Definitely !
+Warum nicht ?	Why not ?
+Bist du da ?	Are you there ?
+Ich bin so satt .	I 'm so full .
+Es ist spät .	It 's late .
+Ich gehe schlafen .	I will hit the sack .
+Die Zeit ist um .	Time is up .
+Nein , danke .	No , thank you .
+Wie bitte ?	Pardon me ?
+Keine Partys mehr .	No more parties .
+Beinahe .	Almost .
+Fast .	Almost .
+Ich bin bedient .	I have had it .
+Das ist zu viel .	That 's too much .
+Das ist zu viel !	That 's too much .
+Das ist genug .	That will do .
+Da ist nichts .	There 's nothing there .
+Bald ist Neujahr .	It will soon be New Year .
+Es ist fast drei .	It is almost three .
+Es ist schon um 7 .	It 's already seven .
+Das sind Melonen .	They are melons .
+Es sind Melonen .	They are melons .
+Meg redet zu viel .	Meg talks too much .
+Maria ist groß .	Mary is tall .
+Mary rannte .	Mary ran .
+Maria lief .	Mary ran .
+Wie geht es Mary ?	How is Mary ?
+Du bist ekelhaft !	You 're disgusting !
+Alles ausverkauft !	All sold out !
+Alle mögen Mac .	Everyone loves Mac .
+Trink deine Milch .	Drink up your milk .
+Ordnung , bitte .	Order , please .
+Achte auf Bienen .	Look out for bees .
+Mama weinte .	Mummy cried .
+Bis nächste Woche !	See you next week !
+Komm bitte wieder .	Please come again .
+Auf Wiedersehen !	See you again .
+Auf Wiederschauen !	See you again .
+Es regnet noch .	It 's still raining .
+Regnet es noch ?	Is it still raining ?
+Ach , komm schon !	Oh , come on .
+Bis bald !	See you soon !
+Bis nächstes Mal .	Until next time .
+Jederzeit .	Any time .
+Das ist alles .	That 's about it .
+Mike lächelte .	Mike smiled .
+Mike lacht .	Mike laughs .
+Oh mein Gott !	Oh , my God !
+Oh , mein Gott !	Oh , my God !
+Weißbrot , bitte .	White bread , please .
+Ich werde high .	I 'm getting high .
+Ich werd ' dicht .	I 'm getting high .
+Hier ist sie !	Here she is !
+Da kommt er !	Here he comes .
+Da kommt der Bus !	Here comes the bus !
+Schau , es regnet .	It is raining , you see .
+Da kommt der Zug .	Here comes the train .
+Da kommt sie .	There she comes .
+Jetzt geht 's los .	It 's starting now .
+Es fängt jetzt an .	It 's starting now .
+Hier ist mein Rad .	Here is my bicycle .
+Bob kann kochen .	Bob can cook .
+Hat Bob recht ?	Is Bob right ?
+Bob half mir .	Bob helped me .
+Es regnet kaum .	It is hardly raining .
+Es ist nervig .	It 's a pain in the neck .
+Magst du Schlager ?	Do you care for pop songs ?
+Ich mag Popmusik .	I like pop music .
+Ich weiß nur das .	I know only this .
+Ich will Geld .	I want some money .
+Ich brauche Geld .	I 'm in need of money .
+Heute ist es mild .	It 's balmy today .
+Bälle sind rund .	Balls are round .
+Ich habe Heimweh .	I feel homesick .
+Ein Boot kenterte .	A boat capsized .
+Gib mir den Stift .	Pass me the pen .
+Zweimal klingeln .	Press the bell twice .
+Hat es geläutet ?	Has the bell rung ?
+Die Glocke läutet .	The bell is ringing .
+Betty tötete sie .	Betty killed her .
+Betty tötete ihn .	Betty killed him .
+Mach dein Bett !	Make your bed .
+Stehen Sie auf !	Get out of bed !
+Steh auf !	Get out of bed !
+Gib dein Bestes .	Do your best .
+Peter liebt Jane .	Peter loves Jane .
+Peter liebt Hanna .	Peter loves Jane .
+Bitte umblättern !	Please turn over the page .
+Bitte wenden !	Please turn the page .
+Bitte umblättern !	Please turn the page .
+Komm , mach mit .	Come and join us .
+Eine Gabel fehlt .	There is a fork missing .
+Bill war in Japan .	Bill was in Japan .
+Du bist krank !	You 're sick !
+Es ist brandneu .	It 's brand new .
+Es ist nagelneu .	It 's brand new .
+Ein Bier bitte .	A beer , please .
+Zwei Bier , bitte !	Two beers , please .
+Wo ist Paris ?	Where is Paris ?
+Wo liegt Paris ?	Where is Paris ?
+Paris fiel 1940 .	Paris fell in 1940 .
+Harry ist erst 40 .	Harry is only 40 .
+Rosen duften süß .	Roses smell sweet .
+Zur Sache !	Get to the point !
+Sprich lauter !	Speak up !
+Nimm einen Bus .	Take a bus .
+Nehmt einen Bus .	Take a bus .
+Fahre mit dem Bus .	Take a bus .
+Lass den Quatsch !	Stop your nonsense !
+Sei nicht dumm .	Do n't be a fool .
+Ja , ich weiß .	Yes , I know .
+Hier ist es .	Here it is .
+Da sind wir .	Here we are .
+Ja , Bob half mir .	Yes , Bob helped me .
+Ja , zwei .	Yes , two .
+Hier sind 10,00 $ .	Here 's $ 10.00 .
+Wie war die Party ?	How did the party go ?
+Ich verdurste .	I 'm dying of thirst .
+Das war eine Maus .	It was a mouse .
+Es war eine Maus .	It was a mouse .
+Da ist eine Katze .	There is a cat .
+Bill , komm her !	Come on , Bill .
+Hab Erbarmen !	Oh , have a heart .
+Wie schön es ist !	How beautiful it is !
+Wie das bläst !	How it blows !
+Was für ein Spaß !	What fun !
+Wie nett von dir !	How kind of you !
+Wie nett von euch !	How kind of you !
+Was ?	What ?
+Wie dumm !	How foolish !
+Wie süß !	How cute !
+Wie dumm er ist !	How stupid he is !
+Nancy mag Musik .	Nancy likes music .
+Alles ist bereit .	Everything is ready .
+Alles ist fertig .	Everything is ready .
+Warum ist er hier ?	Why is he here ?
+Wieso weinst du ?	Why are you crying ?
+Warum weinst du ?	Why are you crying ?
+Warum weint ihr ?	Why are you crying ?
+Warum weinen Sie ?	Why are you crying ?
+Warum ?	Why ?
+Wieso ?	Why ?
+Weil es ihn gibt .	Because it is there .
+Ich glaube nicht .	I do n't think so .
+Ich denke nicht .	I do n't think so .
+Jedes Buch geht .	Any book will do .
+Das kann jeder .	Anybody can do that .
+Ich zähle auf Tom .	I count on Tom .
+Tom war auch da .	Tom was also there .
+Tom ist sehr nett .	Tom is very kind .
+Tom strickt gerne .	Tom likes to knit .
+Tom ist Schüler .	Tom is a student .
+Tom ist Student .	Tom is a student .
+Tom saß am Steuer .	Tom drove the car .
+Tom ist nicht da .	Tom is absent .
+Tom ist im Haus .	Tom is in the house .
+Tom schwimmt gern .	Tom likes swimming .
+Tom läuft langsam .	Tom walks slowly .
+Tom geht langsam .	Tom walks slowly .
+Mag Tom Tomaten ?	Does Tom like tomatoes ?
+Tom mag Käse .	Tom likes cheese .
+Bist du nicht Tom ?	Are n't you Tom ?
+Wo tut es weh ?	Where does it hurt ?
+Wie tief ?	How deep ?
+Wie hoch ist es ?	How high is it ?
+Wie groß ?	How big ?
+Esst und trinkt .	Eat and drink .
+Wie alt ist Tony ?	How old is Tony ?
+Ist Tony da ?	Is Tony there ?
+Was macht Tony ?	What does Tony do ?
+Wo ist Tony ?	Where 's Tony ?
+Es ist schön warm .	It 's nice and warm .
+Ich war gerührt .	I was moved .
+Es war so dunkel .	It was so dark .
+Mir ist hundekalt .	I feel very chilly .
+Es ist sehr gut .	It 's very good .
+Wer gewinnt ?	Who 's winning ?
+Das macht nichts .	It does n't matter .
+Es ist egal .	It does n't matter .
+Es macht nichts .	It does n't matter .
+Egal .	It does n't matter .
+Wer ist das bitte ?	Who is this , please ?
+Geh weg !	Beat it .
+Hau ab !	Beat it .
+Verschwinde !	Beat it .
+Verdufte !	Beat it .
+Mach dich fort !	Beat it .
+Zieh Leine !	Beat it .
+Verzieh dich !	Beat it .
+Verkrümele dich !	Beat it .
+Troll dich !	Beat it .
+Zisch ab !	Beat it .
+Pack dich !	Beat it .
+Mach ’ne Fliege !	Beat it .
+Schwirr ab !	Beat it .
+Mach die Sause !	Beat it .
+Scher dich weg !	Beat it .
+Scher dich fort !	Beat it .
+Welches ist meine ?	Which is mine ?
+Wen mag Toshio ?	Who does Toshio like ?
+Wo willst du hin ?	Where do you want to go ?
+Wo arbeitest du ?	Where do you work ?
+Wo arbeitet ihr ?	Where do you work ?
+Wo arbeiten Sie ?	Where do you work ?
+Woher kommst du ?	Where did you come from ?
+Wo kommst du her ?	Where did you come from ?
+Kannst du kommen ?	Can you come ?
+Könnt ihr kommen ?	Can you come ?
+Können Sie kommen ?	Can you come ?
+Wie geht es dir ?	How is it going ?
+Wie geht ’s ?	How is it going ?
+Wie kam er her ?	How did he come here ?
+Es tut mir leid .	I 'm sorry .
+Entschuldigung !	I 'm sorry .
+Erzähl weiter .	Go ahead with your story .
+Bitte ruf ihn an .	Please ring him up .
+Tritt bitte ein !	Please step inside .
+Bitte tritt ein !	Please step inside .
+Sei bitte ruhig !	Please keep quiet .
+Bitte versuche es .	Please have a try .
+Mach weiter !	Go ahead .
+Nehmt bitte Platz .	Sit down , please .
+Nehmt bitte Platz .	Please have a seat .
+Bitte sag es mir .	Please , tell me .
+Bitte sagt es mir .	Please , tell me .
+Bitte , tu es .	Yes , please do .
+Bitte , tut es .	Yes , please do .
+Nur zu !	Go ahead !
+Komm doch herein !	Why do n't you come in ?
+Warum tust du das ?	What are you doing that for ?
+Wie geht es dir ?	How are you doing ?
+Wie geht ’s ?	How are you doing ?
+Was ist los ?	What 's happening ?
+Wo ist das WC ?	Where is the toilet ?
+Lass die Tür zu .	Keep the door closed .
+Mach die Tür zu .	Shut the door .
+Mach die Türe zu .	Shut the door .
+Öffne die Tür .	Open the door .
+Mach die Tür auf .	Open the door .
+Macht die Tür auf .	Open the door .
+Die Tür ging auf .	The door opened .
+Ich sehe fern .	I watch television .
+Sieh nicht fern !	Do n't watch TV .
+Ist aber teuer .	It 's expensive though .
+Bis morgen !	See you again tomorrow .
+Du spielst Tennis ?	Do you play tennis ?
+Räum den Tisch ab .	Clear off the table .
+Stimmt so .	Keep the change !
+Bitte ausspucken .	Please spit .
+Endlich kam er .	At last , he came .
+Komm hierher .	Come here .
+Komm her !	Come here .
+Hilf mir mal kurz !	Give me a hand , will you ?
+Entschuldigung ...	Sorry ...
+Ich schaue nur .	I 'm just looking around .
+Geh zur Seite !	Step aside .
+Lassen wir das .	Let 's drop the subject .
+Hast du kurz Zeit ?	Do you have a minute ?
+Harre aus !	Sit tight .
+Hühnchen , bitte .	Chicken , please .
+Es wurde dunkel .	It was getting dark .
+Tanzt ihr gerne ?	Do you like dancing ?
+Tanzt du gerne ?	Do you like dancing ?
+Alle sind bereit .	Everyone is ready .
+Alle sind so weit .	Everyone is ready .
+Jeder liebt Musik .	Everybody loves music .
+Wen kümmert ’s ?	Who cares ?
+Glaub mir einfach .	Just take my word for it .
+Du bist zäh .	You 're tough .
+Sie sind zäh .	You 're tough .
+Ihr seid zäh .	You 're tough .
+Rauchst du nicht ?	Do n't you smoke ?
+Raucht ihr nicht ?	Do n't you smoke ?
+Rauchen Sie nicht ?	Do n't you smoke ?
+Ich rauche nicht .	I do n't smoke .
+Sie wohnen dort .	They live there .
+Das Taxi ist da .	The taxi has arrived .
+Ich möchte viel .	I want a lot .
+Das macht nichts .	That does n't matter .
+Rede nicht so .	Do n't talk like that .
+Redet nicht so .	Do n't talk like that .
+Das ist unmöglich .	That 's impossible .
+Es ist unmöglich .	That 's impossible .
+Sag das nicht so !	Do n't put it that way .
+Das ist einfach !	That 's a piece of pie .
+Sag das nicht .	Do n't say that .
+Gib es mir nicht .	Do n't give me that .
+Was soll das ?	What 's the point ?
+Es wird Zeit .	It 's about time .
+Es ist soweit .	It 's about time .
+Gehen wir jetzt !	Let 's be going now .
+Ich gehe jetzt .	I 'm taking off now .
+Ich hau jetzt ab .	I 'm taking off now .
+Hebe es auf .	Pick it up .
+Drehe es zu .	Turn it off .
+Mach das aus .	Turn it off .
+Mach ihn aus .	Turn it off .
+Mach sie aus .	Turn it off .
+Mach es aus .	Turn it off .
+Halbiere es .	Cut it in half .
+Sag es anders .	Say it in another way .
+Bring es mir .	Bring it to me .
+Bringt es mir .	Bring it to me .
+Lass mich sehen .	Let me have a look at it .
+Lasst mich sehen .	Let me have a look at it .
+Bitte faxe es mir .	Please send it to me by fax .
+Gib es mir bitte !	Give it to me , please .
+Lass mich sehen .	Let me see that .
+Lasst mich sehen .	Let me see that .
+Zeig mir das mal !	Let me see that .
+Stell es dorthin .	Set it down there .
+Leg es hin !	Put it down .
+Legen Sie es hin !	Put it down .
+Legt es hin !	Put it down .
+Trinken Sie 's !	Drink it down .
+Trinken Sie es !	Drink it down .
+Trink es !	Drink it down .
+Spül es herunter !	Drink it down .
+Lass es dort !	Leave it there .
+Lasst es dort !	Leave it there .
+Mach es sofort .	Do it at once .
+Bringe es her .	Bring it here .
+Bringt es her !	Bring it here .
+Wofür sind die ?	What are they for ?
+Kühl lagern !	Keep it in a cool place .
+Es ist umsonst .	It 's free of charge .
+Es kostet nichts .	It 's free of charge .
+Es muss wahr sein .	It has to be true .
+Kann es wahr sein ?	Can it be true ?
+Kann es stimmen ?	Can it be true ?
+Das ist ein Buch .	It is a book .
+Es ist ein Buch .	It is a book .
+Das geht auf mich !	It is on me .
+Das ist illegal .	That 's against the law .
+Es ist notwendig .	It is necessary .
+Das ist geheim .	It 's secret .
+Es ist geheim .	It 's secret .
+Wie schade !	What a shame !
+Bellt er sie an ?	Does it bark at her ?
+Frag ihn danach .	Ask him about it .
+Fragt ihn danach .	Ask him about it .
+Er ist es .	It is he .
+Es ist weiß .	It 's white .
+Jeder weiß das .	Anybody knows it .
+Jeder weiß es .	Anybody knows it .
+Das geht .	That is all right .
+Schon gut !	That is all right .
+Es ist neu .	It 's new .
+Ist das gebraten ?	Is it baked ?
+Das ist mir neu .	That 's news to me .
+Weg war 's .	Off it went .
+Ist es deins ?	Is it yours ?
+Ist es Ihres ?	Is it yours ?
+Ist das deins ?	Is it yours ?
+Ist das eures ?	Is it yours ?
+Ich bin 's .	It 's me .
+Das ist zu teuer .	That 's too expensive .
+Das geht zu weit !	That is going too far .
+Das ist ungerecht .	This is n't fair .
+Das ist kein Witz .	It is no joke .
+Es schmeckte süß .	It tasted sweet .
+Es ging kaputt .	It came apart .
+Was für ein Tier !	What an animal it is !
+Es war steinhart .	It was hard as rock .
+Das ist furchtbar .	That 's terrible .
+So war es .	It was like this .
+So ist es gewesen .	It was like this .
+Wann fängt es an ?	When does it begin ?
+Das ist mir egal .	It 's the same to me .
+Was gibt es ?	What is it ?
+Es ist rot .	Its color is red .
+Zähl mich dazu .	Count me in .
+Ich bin dabei !	Count me in .
+Ich mache mit !	Count me in .
+Hand drauf !	Let 's shake on it .
+Bleib weg davon !	Keep away from that .
+Bleibt weg davon !	Keep away from that .
+Man muss es üben .	It needs exercise .
+Das erklärt es .	It accounts for the fact .
+Das wäre gut so .	That would be fine .
+Das wäre genug .	That would be sufficient .
+Das ist alles .	That 's all .
+Ich möchte es .	I do want it .
+Das ist der Punkt .	That 's the point .
+So ist es .	That 's the way it is .
+Was bedeutet das ?	What does it mean ?
+Da ist der Bus .	Here 's the bus .
+Da ! Sie kommt !	There ! She comes !
+Gib mir das Buch .	Give me the book .
+Wo ist das Buch ?	Where is the book ?
+Das steht dir gut !	That looks smart on you .
+Du hast ihn dort .	You have him there .
+Ihr habt ihn dort .	You have him there .
+Nicht nachlassen !	Keep it up !
+Das ist so .	That 's the way .
+Nicht nachlassen !	Keep it up .
+Die Stadt zerfiel .	The town fell into ruin .
+Die Stadt verfiel .	The town fell into ruin .
+Der Mann erötete .	The man blushed .
+Ist es groß genug ?	Is it large enough ?
+Das Baby schläft .	The baby is asleep .
+Sie plaudern .	They are having a chat .
+Bis dann !	See you then .
+Der Junge schwieg .	The boy remained silent .
+Er weinte nur .	He did nothing but cry .
+Der Hund ging weg .	The dog went away .
+Der Hund war tot .	The dog was dead .
+Ich mag den Hund .	I like the dog .
+Die Polizei sucht .	The police are searching .
+Wo ist die Bank ?	Where is the bank ?
+Wie geht das Lied ?	How does the song go ?
+Der Film war gut !	The movie was good .
+Das ist mir neu .	It 's news to me .
+Wer steht da ?	Who is standing there ?
+Es war niemand da .	There was nobody there .
+Wer da ?	Who 's there ?
+Wer ist da ?	Who 's there ?
+Hier bitte .	There you are .
+Meinst du nicht ?	Do n't you think so ?
+Glaubst du das ?	Do you think so ?
+Glaubt ihr das ?	Do you think so ?
+Glauben Sie das ?	Do you think so ?
+Ich nehme es an .	I suppose so .
+Ich hoffe nicht .	I hope not .
+Ja und nein .	Yes and no .
+Jein .	Yes and no .
+Das hoffe ich .	I hope so .
+Ich hoffe es .	I hope so .
+Guter Junge !	That a boy !
+Ganz genau !	You said it !
+Schreib mir bald !	Do write to me soon !
+Bitte geh ran .	Please answer the phone .
+Ich mag Sport .	I like sport .
+Alles ist gut .	Everything is OK .
+Tut es sehr weh ?	Does it hurt a lot ?
+Das ist viel !	That 's a lot !
+Hervorragend !	Terrific !
+Sagenhaft !	Terrific !
+Wunderbar !	Terrific !
+Das ist zu viel !	That 's too much !
+Toll !	Wow !
+Potzdonner !	Wow !
+Donnerwetter !	Wow !
+Geh jetzt !	Leave now .
+Geht jetzt !	Leave now .
+Ich komme .	I 'm coming .
+Ich bin gleich da .	I 'm coming .
+Komm bald zurück .	Come back soon .
+Ruf sofort Tom an .	Call up Tom right away .
+Ruf Tom sofort an .	Call up Tom right away .
+Susanne kocht gut .	Susan is a good cook .
+Susan hatte Angst .	Susan was terrified .
+Hans ist schlau .	John is clever .
+Wo wohnt John ?	Where does John live ?
+John mag Schach .	John likes chess .
+Judy tanzt gern .	Judy is fond of dancing .
+Judith mag ihn .	Judy likes him .
+Darf ich duschen ?	May I take a shower ?
+Wo ist Jim ?	Where is Jim ?
+Jim mag den Arzt .	Jim likes the doctor .
+Jim ist Kanadier .	Jim is Canadian .
+Lerne fleißig !	Study hard .
+Jane war zornig .	Jane was boiling .
+Wird Jane singen ?	Will Jane sing ?
+Jane war wütend .	Jane was fuming .
+Sam , tu 's nicht !	Sam , do n't !
+Da sind wir !	Here we are !
+Komm schon , Ken !	Come on , Ken .
+Los , beeilt euch !	Hurry up , you lot !
+Da kommt der Bus .	Here comes the bus .
+Komm doch rein !	Do come in !
+Komm mit .	Come along .
+Kommt mit .	Come along .
+Komm rein !	Come on in !
+Komm doch herein !	Come on in !
+Das ist es .	This is it .
+Los geht 's .	Here we go .
+Jetzt geht 's los !	Here we go .
+Die Frauen zuerst .	Ladies first .
+Haben Sie Reis ?	Do you have rice ?
+Hast du Reis ?	Do you have rice ?
+Habt ihr Reis ?	Do you have rice ?
+Ebenso .	The same to you .
+Bedien dich .	Help yourself .
+Bedienen Sie sich .	Help yourself .
+Hallo , Tom .	Hello , Tom .
+Das ist gratis .	This is for free .
+Das ist umsonst .	This is for free .
+Es ist wahr .	It 's true .
+Ich nehme es .	I 'll take it .
+Trag das für mich .	Carry this for me .
+Ich nehme dieses .	I 'll take this one .
+Sind das Ihre ?	Are these yours ?
+Kein Durchgang !	No passage this way .
+So weit , so gut .	So far , so good .
+Das ist ein Buch .	This is a book .
+Das ist ihr Buch .	This is her book .
+Das ist ihr Haus .	This is their house .
+Tut das weh ?	Does this hurt ?
+Dies ist zu lang .	This is too long .
+Das ist zu kurz .	This is too short .
+Das ist zu groß .	This is too big .
+Das ist zu teuer .	That is too expensive .
+Das ist ein Hund .	This is a dog .
+Dies ist ein Hund .	This is a dog .
+Das ist für dich .	This is for you .
+Das ist für Sie .	This is for you .
+Den mag ich nicht .	I do n't like this one .
+Die mag ich nicht .	I do n't like this one .
+Das mag ich nicht .	I do n't like this one .
+Ich mag das nicht .	I do n't like this .
+Dies ist ein Bild .	This is a picture .
+Das ist kaputt .	This is broken .
+Wozu dienen diese ?	What are these for ?
+Ist das ein Radio ?	Is this a radio ?
+Das ist ein Kuli .	This is a pen .
+Das ist sehr gut .	This is very good .
+Ist das dein Auto ?	Is this your car ?
+Ist das Ihr Auto ?	Is this your car ?
+Ist das dein Buch ?	Is this your book ?
+Ist das euer Buch ?	Is this your book ?
+Ist das Ihr Buch ?	Is this your book ?
+Das ist dein Buch .	This is your book .
+Was kostet das ?	What is the price for this ?
+Das ist das Ende .	This is the end .
+Alles ist gut .	Everything is fine .
+Das ist Steno .	This is shorthand .
+Das ist mein Auto .	This is my car .
+So machen wir das .	This is how we do it .
+Ist das ein Fluss ?	Is this a river ?
+Ist dies ein Fluß ?	Is this a river ?
+Das ist der Junge .	This is the boy .
+Lies dieses Buch .	Read this book .
+Das Buch war neu .	This book was new .
+Das Buch ist dünn .	This book is small .
+Ist das dein Buch ?	Is this book yours ?
+Ist das Ihr Buch ?	Is this book yours ?
+Das ist mein Hut .	This hat is mine .
+Ist das Ihr Hut ?	Is this hat yours ?
+Bleib nicht hier !	Do n't stay around here .
+Bleibt nicht hier !	Do n't stay around here .
+Trägt das Eis ?	Will the ice bear ?
+Wie lang ist dies ?	How long is this ?
+Dieser Lärm stört .	This noise is annoying .
+Das ist mein Auto .	This car is mine .
+Merke dir das !	Keep this in mind .
+Das ist ihre CD .	This CD belongs to her .
+Zum Hieressen ?	Is it for here ?
+Komm her , John .	Come here , John .
+Hier ist ein Buch .	Here is a book .
+Spiel nicht hier .	Do n't play here .
+Bitte warte hier .	Please wait here .
+Halte hier nicht !	Do n't stop here .
+Was ist hier los ?	What 's going on here ?
+Hau ab !	Get away from here .
+Verdufte !	Get away from here .
+Mach dich fort !	Get away from here .
+Raus hier !	Get out of here .
+Mach Kaffee .	Make coffee .
+Ich mache Kaffee .	I will make some coffee .
+Wollen Sie Kaffee ?	Would you like some coffee ?
+Wo ist das Café ?	Where is the coffee shop ?
+Eine Cola , bitte !	A coke , please .
+Ken zog sich an .	Ken put on his clothes .
+Ken rief um Hilfe .	Ken cried for help .
+Ken rannte nicht .	Ken was n't running .
+Ken ist glücklich .	Ken is happy .
+Was isst Ken ?	What is Ken eating ?
+Spielt Ken Tennis ?	Does Ken play tennis ?
+Ich rülpse viel .	I burp a lot .
+Heute ist Sonntag .	Today is Sunday .
+Kim lebte noch .	Kim was still alive .
+Kim lächelte süß .	Kim smiled sweetly .
+Sitz aufrecht .	Sit up straight .
+Sitz gerade !	Sit up straight .
+Carlos wendete .	Carlos turned round .
+Mir tut alles weh .	I ache all over .
+Ich hasse Karaoke .	I hate karaoke .
+Kopf hoch !	Do n't lose heart .
+Stell das Gas ab .	Turn off the gas .
+Stellt das Gas ab .	Turn off the gas .
+Das ist Karl .	That 's Carl .
+Mit Karte , bitte .	Charge it , please .
+Können wir reden ?	Can we talk ?
+Gern geschehen .	Do n't mention it .
+Keine Ursache .	Do n't mention it .
+Nichts zu danken .	Do n't mention it .
+Mama , beeil dich !	Mom ! Hurry !
+Wo ist Vater ?	Where is Father ?
+Koch etwas Wasser .	Boil some water .
+Kennt ihr euch ?	Do you know each other ?
+Kennen Sie sich ?	Do you know each other ?
+Pass auf dich auf .	Take care of yourself .
+Du lügst mich an .	You are lying to me .
+Du singst immer .	You always sing .
+Lass es !	Leave it alone !
+Ich zähle auf Sie .	I 'm counting on you .
+Du irrst dich .	You are wrong .
+Ihr irrt euch .	You are wrong .
+Sie irren sich .	You are wrong .
+Du bist besoffen !	You are drunk !
+Du bist betrunken !	You are drunk !
+Wo ist eure Mütze ?	Where is your cap ?
+Wo ist Ihre Mütze ?	Where is your cap ?
+Hast du Zeit ?	Do you have the time ?
+Zum Mitnehmen ?	Is it to go ?
+Habt ihr Kinder ?	Do you have any children ?
+Haben Sie Kinder ?	Do you have any children ?
+Hast du Kinder ?	Do you have any children ?
+Benimm dich .	Behave yourself .
+Benehmt euch .	Behave yourself .
+Benehmen Sie sich .	Behave yourself .
+Pass auf dich auf .	Watch yourself .
+Danke fürs Kommen .	Thank you for coming .
+Da kommen sie .	Here they come .
+Ich will Geld .	I want money .
+Bitte beeil dich !	Please hurry up !
+Bitte beeilt euch !	Please hurry up !
+Ich sehe nichts .	I do n't see anything .
+Gute Nacht , Mama .	Good night , Mom .
+Du bist gefeuert .	You 're fired .
+Du bist entlassen !	You 're fired .
+Wie faul du bist !	How lazy you are !
+Ich habe Bauchweh .	I have a stomachache .
+Ich war hungrig .	I was hungry .
+Der Motor erstarb .	The engine died .
+Wo ist der Aufzug ?	Where is the elevator ?
+Wo ist der Lift ?	Where is the elevator ?
+Wer ist Emily ?	Who 's Emily ?
+Lass mich sehen .	Let me see .
+Lasst mich sehen .	Let me see .
+Ja , komm bitte .	Yes , please come .
+Wie sah Amy aus ?	How did Amy look ?
+Wünsch mir Glück .	Please wish me luck .
+Lügt nie !	Never tell lies .
+Ich bin dagegen .	I oppose it .
+Ich komme sofort .	I am coming .
+Ein Hund rannte .	A dog was running .
+Wir sind Cousins .	We are cousins .
+Wann arbeitest du ?	When do you work ?
+Wann gehst du los ?	When will you leave ?
+Wann geht ihr los ?	When will you leave ?
+Wann endet es ?	When does it end ?
+Wann endet er ?	When does it end ?
+Wann endet sie ?	When does it end ?
+Er lacht immer .	He is always laughing .
+Wann passt es dir ?	When is a good time for you ?
+Jesus weinte .	Jesus wept .
+Den wären wir los !	Good riddance !
+Den sind wir los !	Good riddance !
+Die sind wir los !	Good riddance !
+Es riecht gut !	It smells good !
+Er riecht gut !	It smells good !
+Sie riecht gut !	It smells good !
+Er ist nett .	He is nice .
+Das klingt prima !	It sounds great !
+Frohe Ostern !	Happy Easter !
+Fröhliche Ostern !	Happy Easter !
+Gib mir das nicht !	Do n't give me that !
+Sei nett zu Ann .	Be nice to Ann .
+Seid nett zu Ann .	Be nice to Ann .
+Das ist ihr Haus .	That is her house .
+Das ist sein Haus .	That is his house .
+Das ist sein Auto .	That is his car .
+Das ist mein Hund .	This is my dog .
+Das ist ein Tisch .	That is a table .
+Es ist ein Fasan .	It 's a pheasant .
+Das ist dein Buch .	That is your book .
+Das ist Ihr Buch .	That is your book .
+Das ist euer Buch .	That is your book .
+Frag Alex .	Ask Alex .
+Das ist meins .	That is mine .
+Mir kam eine Idee .	An idea came to me .
+Alice lächelte .	Alice smiled .
+Nein , danke .	Thanks , but no thanks .
+Danke , Yukina .	Thanks , Yukina .
+Geht es ihr gut ?	Is she all right ?
+Fragen wir ihn !	Let 's ask him .
+Was geschah ihm ?	What happened to him ?
+Geht diese Uhr ?	Is that clock working ?
+Sie lächelt immer .	She is always smiling .
+Das Haus ist groß .	That house is big .
+Im Haus spukt es .	The house is haunted .
+Lernen Sie morgen ?	Will you study tomorrow ?
+Hast du zu tun ?	Are you busy ?
+Habt ihr zu tun ?	Are you busy ?
+Haben Sie zu tun ?	Are you busy ?
+Studierst du ?	Are you studying ?
+Lernst du gerade ?	Are you studying ?
+Ihre Nase blutet .	Your nose is bleeding .
+Deine Nase blutet .	Your nose is bleeding .
+Kennen Sie ihn ?	Do you know him ?
+Hörst du ihm zu ?	Are you listening to him ?
+Sie sind klug .	You are sharp .
+Mit wem redest du ?	Who are you talking with ?
+Du bist Lehrer .	You are a teacher .
+Du bist Lehrerin .	You are a teacher .
+Hast du recht ?	Are you correct ?
+Können Sie kochen ?	Can you cook a meal ?
+Kannst du kochen ?	Can you cook a meal ?
+Hast du Geld ?	Do you have any money ?
+Bist du zehn ?	Are you ten years old ?
+Hast du ein Auto ?	Do you have a car ?
+Habt ihr ein Auto ?	Do you have a car ?
+Können Sie fahren ?	Can you drive ?
+Kommst du mit uns ?	Will you go with us ?
+Kommt ihr mit uns ?	Will you go with us ?
+Kennen Sie mich ?	Do you know me ?
+Kennst du mich ?	Do you know me ?
+Kennst du sie ?	Do you know them ?
+Du hast kein Herz .	You have no heart .
+Möchtest du gehen ?	Would you like to go ?
+Du bist dumm .	You are stupid .
+Du bist verrückt .	You are crazy .
+Du bist bekloppt .	You are crazy .
+Bist du Student ?	Are you a student ?
+Sind Sie Student ?	Are you a student ?
+Bist du Schüler ?	Are you a student ?
+Wirst du singen ?	Are you going to sing ?
+Was hast du nicht ?	What do n't you have ?
+Was hast du ?	What do you have ?
+Was habt ihr ?	What do you have ?
+Was haben Sie ?	What do you have ?
+Du hast alles .	You have everything .
+Sie haben alles .	You have everything .
+Ihr habt alles .	You have everything .
+Magst du Englisch ?	Do you like English ?
+Du bist noch jung .	You 're still young .
+Sie sind so gütig .	You are so kind .
+Sehen Sie fern ?	Do you watch television ?
+Seht ihr fern ?	Do you watch television ?
+Siehst du fern ?	Do you watch television ?
+Hast du viel Zeit ?	Do you have a lot of time ?
+Magst du Sport ?	Do you like sports ?
+Kannst du skaten ?	Can you skate ?
+Wann lernst du ?	When do you study ?
+Wann lernt ihr ?	When do you study ?
+Wann lernen Sie ?	When do you study ?
+Wann laufen Sie ?	When do you run ?
+Hast du Äpfel ?	Do you have any apples ?
+Habt ihr Äpfel ?	Do you have any apples ?
+Haben Sie Äpfel ?	Do you have any apples ?
+Bist du gläubig ?	Are you a believer ?
+Wo ist Ihr Zimmer ?	Where is your room ?
+Wie heißen Sie ?	What is your name ?
+Wie ist Ihr Name ?	What is your name ?
+Wie heißt du ?	What is your name ?
+Wie ist dein Name ?	What is your name ?
+Was ist dein Name ?	What is your name ?
+Was meinst du ?	What 's your opinion ?
+Was meinen Sie ?	What 's your opinion ?
+Deins ist dort .	Yours is over there .
+Tu was du willst .	Do whatever you want .
+Wie du willst .	Whatever you say .
+Du hast Humor .	You have a sense of humor .
+Sie haben Humor .	You have a sense of humor .
+Mach es selbst .	Do it yourself .
+Mach es selber .	Do it yourself .
+Er ist hier !	Here he is !
+Alles ist ruhig .	All is quiet .
+Ich kenne ihn .	I know him .
+Leider regnete es .	Unfortunately , it rained .
+Er ist so herzlos .	He is so heartless .
+Au ! Mein Fuß !	Ouch ! My foot !
+Zwei Eis , bitte .	Two ice creams , please .
+Schrecklich !	How awful !
+Ja , ich komme !	Yes , I 'm coming .
+Ich muss los .	Well , I have to go now .
+Der Zug kommt !	Here comes the train !
+Wofür steht UN ?	What does UN stand for ?
+Wofür steht UNO ?	What does UN stand for ?
+Weck mich um acht .	Get me up at eight .
+Das ist Raum 839 .	This is Room 839 .
+Warte bis sechs .	Wait till six .
+Gib mir fünf Tage .	Give me five days .
+5 plus 2 ergibt 7 .	Add 5 and 2 , and you get 7 .
+Ich gehe um vier .	I am leaving at four .
+Um drei geht .	I can come at three .
+Ich komme um 10 .	I 'll come by 10 .
+Wo ist Zimmer 105 ?	Where is Room 105 ?
+Eintritt verboten !	No Trespassing .
+Eisen ist hart .	Iron is hard .
+Ich bin Hausfrau .	I am a housewife .
+Ich bin Hausfrau .	I 'm a housewife .
+Frohes neues Jahr !	Happy New Year !
+Willkommen !	Welcome .
+Was macht das ?	What does this do ?
+Was macht das ?	What does that do ?
+Ich mag Mathe .	I like maths .
+Ich mag Mathe .	I love math .
+Ich mag Mathe .	I like math .
+Ich mag Mathe .	I like mathematics .
+Ich bin ein Mann .	I am a man .
+Ich bin ein Mann .	I 'm a man .
+Wieso weinst du ?	What are you crying for ?
+Ich gehe schlafen !	I 'm going to bed .
+Ich gehe zu Bett .	I 'm going to bed .
+Sie mag Wein .	She likes wine .
+Ich gehe zu Fuß .	I will go on foot .
+Ich gehe zu Fuß .	I 'll walk .
+Ich gehe zu Fuß .	I go on foot .
+Du hast Grippe .	You 're ill with flu .
+Du möchtest gehen ?	You want to go ?
+Machst du mit ?	Will you join us ?
+Ich zähle auf Sie .	I am counting on you .
+Es liegt bei dir .	It 's up to you .
+Du bist ruhig !	You be quiet .
+Keiko singt .	Keiko sings .
+Wie läuft 's ?	How goes it ?
+Jeder liebt Kunst .	Art is loved by everybody .
+Lüge niemals !	Never tell a lie .
+Lügen Sie niemals !	Never tell a lie .
+Lügt nie !	Never tell a lie .
+Es ist Montag .	It 's Monday .
+Da bellt ein Hund .	A dog is barking .
+Ein Hund bellt .	A dog is barking .
+Schwimmt der Hund ?	Is the dog swimming ?
+Sehen ist glauben .	To see is to believe .
+Du siehst gut aus !	You 're looking good !
+Ihr seht gut aus !	You 're looking good !
+Sie sehen gut aus !	You 're looking good !
+Viel Glück .	Good luck .
+Viel Glück !	Good luck .
+Mir geht 's gut .	I 'm doing fine .
+Mir geht es gut .	I 'm doing fine .
+Es geht mir gut .	I 'm doing fine .
+Kopf hoch !	Cheer up !
+Ich mag Sprachen !	I like languages .
+Ich bin sprachlos .	I am at a loss for words .
+Atmet er ?	Is he breathing ?
+Schau nach hinten !	Look back !
+Achtung , bitte !	Attention please !
+Bitte aufpassen !	Attention please !
+Geh in den Park .	Go to the park .
+Mach den Mund auf .	Open your mouth .
+Halt dich da raus !	You keep out of this .
+Halt den Mund !	Shut your mouth .
+Halt deinen Mund !	Shut your mouth .
+Halte den Mund !	Shut your mouth .
+Geh weg !	Get away !
+Verpiss dich !	Get away !
+Hau ab !	Get away !
+Verschwinde !	Get away !
+Verdufte !	Get away !
+Mach dich fort !	Get away !
+Zieh Leine !	Get away !
+Verzieh dich !	Get away !
+Verkrümele dich !	Get away !
+Troll dich !	Get away !
+Zisch ab !	Get away !
+Pack dich !	Get away !
+Mach ’ne Fliege !	Get away !
+Schwirr ab !	Get away !
+Mach die Sause !	Get away !
+Scher dich weg !	Get away !
+Scher dich fort !	Get away !
+Tu was du willst .	Suit yourself .
+Wie du willst .	Suit yourself .
+Du denkst zu viel .	You think too much .
+Denk darüber nach .	Think about it .
+Überleg es dir !	Think about it .
+Überlegt es euch !	Think about it .
+Luftpost , bitte .	Airmail , please .
+Ich muss gehen .	I 've got to go .
+Muss ich gehen ?	Ought I to go ?
+Lass uns gehen !	Let 's go !
+Auf geht 's !	Let 's go !
+Gehen wir !	Let 's go !
+Lasst uns gehen .	Let 's go !
+Lass uns losgehen .	Let 's go !
+Auf , auf !	Let 's go !
+Gehen wir ?	Shall we go ?
+Bist du fertig ?	Are you ready to go ?
+Du darfst gehen .	You are allowed to go .
+Ich gebe auf .	I give up .
+Gib nicht auf .	Do n't throw in the towel .
+Der Pfiff ertönte .	The whistle blew .
+Es ist 7:45 Uhr .	It 's quarter to eight now .
+Jetzt schneit es .	It is snowing now .
+Es schneit gerade .	It is snowing now .
+Jetzt oder nie !	It 's now or never .
+Ich bin auf Diät .	I 'm on a diet .
+Es wird schneien .	It is going to snow .
+Du wirst sehen .	You 'll see .
+Ich gehe jetzt .	I 'm leaving now .
+Du hast Aufschlag .	Now it 's your serve .
+Danke für heute .	Thank you for today .
+Heute ist es kalt .	It 's cold today .
+Es ist kalt heute !	It 's cold today .
+Heute ist Montag .	It is Monday today .
+Es ist heute heiß .	It 's hot today .
+Heute ist es heiß .	It 's hot today .
+Es ist warm heute .	It 's hot today .
+Es ist heute warm .	It 's hot today .
+Heute ist Samstag .	It 's Saturday today .
+Ich fand dich .	I found you .
+Ich koche gerade .	I am cooking now .
+Halte dich links .	Keep to the left .
+Ist Zucker da ?	Is there any sugar ?
+Setz dich , Kate .	Sit down , Kate .
+Gib dein Bestes !	Do your best !
+Gebt euer Bestes !	Do your best !
+Das war knapp .	I had a close shave .
+Ich fürchte , ja .	I 'm afraid so .
+Ich fürchte , ja .	I fear so .
+Arbeitest du ?	Are you working ?
+Arbeiten Sie ?	Are you working ?
+Bitte stirb nicht !	Please do n't die !
+Tote reden nicht .	Dead men tell no tales .
+Tot ?	Dead ?
+Gib dein Bestes .	Do your very best .
+Lass mich los !	Let go of me !
+Wir kaufen CDs .	We buy CDs .
+Wir sind Ärzte .	We are doctors .
+Wir mögen Musik .	We like music .
+Wir mögen Kinder .	We like children .
+Wir sind Menschen .	We are human .
+Wir brauchen Geld .	We need some money .
+Wir lieben uns .	We love each other .
+Wir sind hungrig .	We are hungry .
+Wir sehen fern .	We are watching TV .
+Wir hören Radio .	We listen to the radio .
+Wir sind Schüler .	We are students .
+Wir waren in Eile .	We were in a hurry .
+Wir weinen .	We are crying .
+Wir fürchten uns .	We are afraid .
+Wir haben Angst .	We are afraid .
+Wir achten ihn .	We look up to him .
+Ich bin gelassen .	I 'm easygoing .
+Du sagst es .	Speaking .
+Setz dich zu mir .	Sit down with me .
+Komm mit mir mit .	Come along with me .
+Spiel mir Chopin .	Play Chopin for me .
+Hol mir das Buch .	Get that book for me .
+Überlass das mir .	Let me do it .
+Lese es nach mir .	Read after me .
+Es geht mir gut .	All is well with me .
+Lass mich gehen !	Let me go !
+Folge mir .	Follow me .
+Gib mir ein paar .	Give me a few .
+Ich denke anders .	I think otherwise .
+Hör mir gut zu .	Listen to me carefully .
+Sprich mir nach !	Repeat after me .
+Antworten Sie mir .	Answer me .
+Wo ist mein Auto ?	Where is my car ?
+Stör mich nicht !	Do n't interfere with me .
+Folge meinem Rat !	Take my advice !
+Ich bin größer .	I am taller .
+Wo ist mein Buch ?	Where 's my book ?
+Ich heiße Yamada .	My name is Yamada .
+Ich bin sehr müde .	I 'm very tired .
+Ich mag Hunde .	I like dogs .
+Ich habe ein Auto .	I have a car .
+Ich mag Schlösser .	I like castles .
+Ich bin Student .	I am a student .
+Ich bin Japaner .	I am a Japanese .
+Ich bin Japanerin .	I am a Japanese .
+Ich ließ ihn los .	I let him go .
+Ich mag die Kälte .	I like the cold .
+Ich heiße Hisashi .	My name is Hisashi .
+Ich bedanke mich .	I thank you .
+Ich achte Sie .	I look up to you .
+Ich suche dich .	I 'm looking for you .
+Ich suche euch .	I 'm looking for you .
+Ich suche Sie .	I 'm looking for you .
+Ich kenne dich .	I know you .
+Elke ist mir egal .	I do n't care for Alice .
+Ich mag Tee .	I like tea .
+Ich bade gerade .	I am taking a bath now .
+Ich mag Kuchen .	I like cake .
+Ich bin ein Koch .	I am a cook .
+Ich fahre oft Ski .	I often ski .
+Ich mag Jazzmusik .	I like jazz music .
+Ich mag Jazz .	I like jazz music .
+Ich spiele Chopin .	I play Chopin .
+Ich heiße John .	I am called John .
+Ich stimme dem zu .	I think so .
+Ich habe es satt .	I am fed up with it .
+Ich hab 's satt .	I am fed up with it .
+Ich werde es tun .	I am going to do it .
+Ich benutze es .	I use it .
+Ich weiß es nicht .	I do n't know that .
+Ich bezweifle das .	I doubt if it will .
+Ich mag Tennis .	I like tennis .
+Ich spiele Tennis .	I play tennis .
+Wo bin ich ?	Where am I ?
+Ich mag beide .	I like both .
+Ich mag beides .	I like both .
+Ich war sehr froh .	I felt very happy .
+Ich bin einsam .	I 'm lonely .
+Ich bin sehr groß .	I am very tall .
+Ich mochte Tony .	I liked Tony .
+Ich half Tony .	I helped Tony .
+Ich rief Tom an .	I called Tom up .
+Wie dumm von mir !	How silly of me !
+Wie dumm von mir !	How stupid of me !
+Ich will einen PC .	I want a personal computer .
+Ich war in Paris .	I have been in Paris .
+Ich bin Bäcker .	I 'm a baker .
+Ich war todmüde .	I was tired to death .
+Ich reiste allein .	I traveled by myself .
+Ich klatschte .	I clapped my hands .
+Ich höre Radio .	I am listening to the radio .
+Ich mag R & B .	I like R & B .
+Ich mag Rock .	I love rock .
+Ich liebe Rock .	I love rock .
+Ich bin Arzt .	I 'm a doctor .
+Glück gehabt !	I was lucky .
+Ich bin Verkäufer .	I 'm a salesman .
+Ich bin Vertreter .	I 'm a salesman .
+Ich schwimme gern .	I like to swim .
+Ich kann Englisch .	I can speak English .
+Ich höre etwas .	I can hear something .
+Ich sah nichts .	I saw nothing .
+Ich bin im Haus .	I am in the house .
+Ich singe gerne .	I like to sing .
+Ich singe gern .	I like to sing .
+Ich singe gerne .	I like singing .
+Ich singe gern .	I like singing .
+Ich singe gerne .	I like to sing songs .
+Ich singe gern .	I like to sing songs .
+Ich zeichne gern .	I like to draw pictures .
+Mir war kalt .	I felt cold .
+Ich bin Lehrer .	I 'm a teacher .
+Ich bin Lehrerin .	I 'm a teacher .
+Ich bin Professor .	I am a professor .
+Ich gehe zur Bank .	I 'm going to the bank .
+Ich stimme dir zu .	I agree with you .
+Ich mag dich sehr .	I like you very much .
+Ich denke an dich .	I 'm thinking about you .
+Ich denke an euch .	I 'm thinking about you .
+Ich denke an Sie .	I 'm thinking about you .
+Ich mag dein Auto .	I like your car .
+Mir geht 's gut .	I 'm fine .
+Mir geht es gut .	I 'm fine .
+Es geht mir gut .	I 'm fine .
+Ich werde folgen .	I 'll follow .
+Ich komme nach .	I 'll join you later .
+Ich bin glücklich .	I feel happy .
+Das ist mir egal .	I do n't mind .
+Ich bin Schüler .	I 'm a high school student .
+Ich bin Schülerin .	I 'm a high school student .
+Ich habe Ferien .	I 'm on vacation .
+Ich lerne gerade .	I am studying now .
+Ich schämte mich .	I was embarrassed .
+Ich suche Arbeit .	I 'm looking for work .
+Ich sehe schlecht .	I have weak sight .
+Ich war ganz Ohr .	I was all ears .
+Ich bog rechts ab .	I turned right .
+Ich will fahren .	I want to drive .
+Ich fange an .	I 'm going to start .
+Ich lachte .	I laughed .
+Ich muss lachen .	I cannot help laughing .
+Ich ging an Bord .	I went aboard .
+Ich gehe voraus .	I will go on ahead .
+Ich bin Lehrer .	I am a teacher .
+Ich bin Lehrerin .	I am a teacher .
+Ich renne .	I run .
+Ich laufe .	I run .
+Ich kann laufen .	I 'm able to run .
+Ich kann rennen .	I 'm able to run .
+Ich laufe gern .	I like to run .
+Ich bin gesund .	I 'm healthy .
+Ich will abnehmen .	I want to lose weight .
+Wer bin ich ?	Who am I ?
+Ich mag Winter .	I like winter .
+Ich bin aus Tokio .	I 'm from Tokyo .
+Ich arbeite gerne .	I like to work .
+Ich liebe Hitomi .	I love Hitomi .
+Ich ging allein .	I walked alone .
+Ich lebe in Japan .	I live in Japan .
+Ich bin schwanger .	I am pregnant .
+Ich kann reiten .	I can ride a horse .
+Ich beneide ihn .	I envy him .
+Ich mag ihn nicht .	I do n't care for him .
+Er ist mir egal .	I do n't care for him .
+Ich mag ihn nicht .	I do not care for him .
+Ich stimme ihm zu .	I agree with him .
+Ich rief ihn an .	I gave him a call .
+Ich folgte ihm .	I followed him .
+Ich kenne sie .	I know them .
+Ich helfe ihm .	I help him .
+Ich glaube an ihn .	I believe in him .
+Ich vertraue ihm .	I have trust in him .
+Ich warte auf ihn .	I 'm waiting for him .
+Ich mag sie nicht .	I do n't like her .
+Ich liebe sie .	I love her .
+Ich saß neben ihr .	I sat beside her .
+Ich kenne sie gut .	I know her well .
+Sie ist mir fremd .	She is a stranger to me .
+Ich war müde .	I was tired .
+Ich war sehr müde .	I was very tired .
+Ich kann springen .	I can jump .
+Ich bin arm .	I 'm poor .
+Ich lerne .	I am studying .
+Muss ich lernen ?	Do I have to study ?
+Ich muss lernen .	I have to study .
+Ich habe zu tun .	I 'm busy .
+Ich will ein Buch .	I want a book .
+Ich lese gerne .	I am fond of reading .
+Ich las ein Buch .	I was reading a book .
+Ich lese Comics .	I read comic books .
+Ruhm ist mir egal .	I do not care for fame .
+Ich will leben .	I want to live .
+Ich mag Baseball .	I like baseball .
+Ich mag Eiweiß .	I like the white of an egg .
+Ich habe ein Ei .	I have an egg .
+Ich reise gerne .	I like traveling .
+Ich mag Äpfel .	I like apples .
+Ich genauso wenig .	I do n't , either .
+Ich auch nicht .	Nor am I .
+Ich denke es auch .	I think so , too .
+Ich ging auch .	I also went .
+Sieh mich an .	Look at me .
+Hilf mir , bitte .	Please help me .
+Wir kennen ihn .	We know him .
+Wir sind in Eile .	We 're in a hurry .
+Wir suchten sie .	We looked for her .
+Wir gingen los .	We started to walk .
+Papier brennt gut .	Paper burns quickly .
+Ich sehe schlecht .	I have poor eyesight .
+Kühe geben Milch .	Cows supply milk .
+Putzt eure Zähne .	Brush your teeth .
+Das ist der Fall .	This is the case .
+Pack deine Sachen !	Get your things together .
+Die Zeit fliegt .	Time flies .
+Komm schon , Jiro !	Come on , Jiro .
+Eigenlob stinkt .	Proper praise stinks .
+Löse das Problem !	Solve the problem .
+Versuch es selbst .	Try it out yourself .
+Was ist vor dir ?	What 's in front of you ?
+Feg mein Zimmer .	Sweep my room .
+Es war halb acht .	It was seven thirty .
+Es fehlt nichts .	Nothing is missing .
+Behalte den Mut .	Keep up your courage .
+Behaltet den Mut .	Keep up your courage .
+Darf ich gehen ?	Can I be excused ?
+Stell deine Frage .	Ask your question .
+Stellt eure Frage .	Ask your question .
+Da kommt ein Auto .	There 's a car coming .
+Ich fahre euch .	I 'll give you a ride .
+Ich fahre Sie .	I 'll give you a ride .
+Fahr vorsichtig .	Drive carefully .
+Fahre vorsichtig .	Drive carefully .
+Sie sind im Weg .	They are in the way .
+Hände hoch !	Put your hands up !
+Nicht berühren .	Do n't touch .
+Hände weg !	Take your hands off me .
+Lass nicht los !	Do n't let go .
+Zieh es auf .	Pull it open .
+Kann ich helfen ?	Can I help ?
+Hilf mir .	Help me .
+Magst du Sushi ?	Do you like sushi ?
+Mögen Sie Sushi ?	Do you like sushi ?
+Der Herbst ist da .	Autumn is here .
+Lass mich raus !	Let me out !
+Raus !	Get out !
+Geht raus !	Get out !
+Ich blute stark .	I 'm bleeding badly .
+Es ist zu heiß .	It 's too hot .
+Er ist zu heiß .	It 's too hot .
+Sie ist zu heiß .	It 's too hot .
+Hilf mir , bitte .	Help me , please .
+Die Wunde eiterte .	The wound discharged pus .
+Es ist zu klein .	It 's too small .
+Runter !	Get down !
+Hinlegen !	Get down !
+In Deckung !	Get down !
+In Ordnung .	All right .
+Lass es aus .	Leave it off .
+Du amüsierst mich .	You amuse me .
+Ihr amüsiert mich .	You amuse me .
+Sei mal ernst !	Get serious .
+Du machst Witze !	You must be joking !
+Von wegen !	You must be joking !
+Pflanzen wachsen .	Plants grow .
+Gieß die Pflanzen !	Water the plants .
+Sie ist ein Fuchs .	She is a fox .
+Hände weg !	Hands off .
+Wo ist das Café ?	Where is the cafeteria ?
+Gut kauen !	Chew your food well .
+Glaubst du mir ?	Do you believe me ?
+Unglaublich !	Unbelievable !
+Nicht zu glauben !	Unbelievable !
+Die Ampel war rot .	The signal was red .
+Ich schlafe gerne .	I like sleeping .
+Geh geradeaus .	Go straight ahead .
+Gott segne dich !	God bless you !
+Gott segne Sie !	God bless you !
+Das weiß nur Gott .	Only God knows .
+Gott ist .	God is .
+Gott , höre mich !	God , hear me !
+Gott bewahre uns !	God preserve us !
+Es ist eiskalt .	It is freezing cold .
+Es ist bitterkalt .	It 's bitter cold .
+Du scherzt wohl !	Are you kidding ?
+Machst du Scherze ?	Are you kidding ?
+Ist es beliebt ?	Is it popular ?
+Das war 's .	That 's it .
+Ich will Wasser .	I want some water .
+Das Wasser gefror .	The water turned to ice .
+Es ist schön .	It 's nice .
+Es klart auf .	It is clearing up .
+So ist das Leben !	This is life !
+Lies es vor .	Read it aloud .
+Lesen Sie es vor .	Read it aloud .
+Lies das Buch vor .	Read the book aloud .
+Bleibt ruhig .	Keep quiet .
+Bleib ruhig !	Keep quiet !
+Wirf keine Steine .	Do n't throw stones .
+Das Baby weint .	The baby is crying .
+Wo ist die Kasse ?	Where is the ticket office ?
+Es war sehr knapp .	It was really close .
+Es schneit .	Snow is falling .
+Es ist schneeweiß .	It is white as snow .
+Keineswegs .	No way .
+Auf keinen Fall .	No way .
+Niemals .	No way .
+Das Schiff sinkt .	The ship is sinking .
+Danke im Voraus !	Thanks in advance .
+Siehe oben .	See above .
+Das hoffe ich .	I do hope so .
+Natürlich .	Certainly .
+Zweifellos .	Certainly .
+Alles ging glatt .	Everything went smoothly .
+Alle sind da .	All are present .
+Seid alle ruhig !	Be quiet , all of you .
+Ich bin ganz Ohr .	I am all ears .
+Ich weiß nicht .	I have no idea .
+Keine Ahnung .	I have no idea .
+Iss alles .	Eat everything .
+Esst alles .	Eat everything .
+Essen Sie alles .	Eat everything .
+Schönen Urlaub !	Have a nice holiday .
+Komm bald hierher .	Come here soon .
+Geh schnell heim !	Go home quickly .
+Öffne das Fenster !	Open the window .
+Wasch deine Füße .	Wash your feet .
+Wasche deine Füße .	Wash your feet .
+Bleiben Sie dünn .	Stay thin .
+Bleib dünn .	Stay thin .
+Ich nehme ab .	I 'm losing weight .
+Ich nehme zu .	I 'm gaining weight .
+Ich bin hundemüde .	I am exhausted .
+Ich bin erschöpft .	I am exhausted .
+Ich bin kaputt .	I am exhausted .
+Groß oder klein ?	Large or small ?
+Es ist zu laut .	It 's too loud .
+Ich bin Student .	I am a university student .
+Studierst du ?	Are you a college student ?
+Er lebt in Osaka .	He lives in Osaka .
+Geht es dir gut ?	Are you all right ?
+Geht 's dir gut ?	Are you all right ?
+Geht es Ihnen gut ?	Are you all right ?
+Ist hier jemand ?	Is anybody here ?
+Ist da jemand ?	Is somebody there ?
+Ist da wer ?	Is somebody there ?
+Ist jemand da ?	Is somebody there ?
+Wer hat es getan ?	Who did it ?
+Wer tat das ?	Who did it ?
+Wer mag Tony ?	Who likes Tony ?
+Wer hat es erbaut ?	Who built it ?
+Wer hat es gebaut ?	Who built it ?
+Wer mag Sachiko ?	Who likes Sachiko ?
+Wer weiß das ?	Who knows that ?
+Wer weiß ?	Who knows ?
+Kennt ihn jemand ?	Does anybody know him ?
+Wer hilft ihr ?	Who helps her ?
+Egal wer .	Anybody will do .
+Das kann jeder .	Anyone can do it .
+Alle sagen es .	Everyone 's saying it .
+Jeder sagt es .	Everyone 's saying it .
+Alle achteten ihn .	Everybody looked up to him .
+Niemand half mir .	No one helped me .
+Niemand kommt .	No one is coming .
+Es kommt keiner .	No one is coming .
+Frauen zuerst !	Ladies before gentlemen .
+Es ist zu teuer .	It 's too expensive .
+Die Erde ist rund .	The earth is round .
+Wie peinlich !	How embarrassing !
+Schäme dich !	Shame on you !
+Schäm dich !	Shame on you !
+Schäm dich !	For shame !
+Schämt euch !	For shame !
+Schämen Sie sich !	For shame !
+Der Teich fror zu .	The pond froze over .
+Du bist zu spät .	You are late .
+Lass mich herein .	Let me in .
+Isst du zu Mittag ?	Are you eating lunch ?
+Wie geht ’s ?	How 's it going ?
+Die Vögel sangen .	The birds sang .
+Die Vögel singen .	The birds are singing .
+Vögel singen .	Birds sing .
+Fütter den Vogel !	Feed the bird !
+Füttere den Vogel !	Feed the bird !
+Vögel fliegen .	Birds fly .
+Lass ihn alleine .	Leave him alone .
+Gib es auf !	Give it up .
+Gib es nicht auf !	Do n't give up !
+Gib nicht auf .	Do n't give up !
+Es ist schön kühl .	It 's nice and cool .
+Das Licht ist aus .	The light is out .
+Geh ans Telefon !	Answer the phone .
+Ist dort 223-1374 ?	Is this 223-1374 ?
+Ich könnte kotzen .	I feel like throwing up .
+Ich hustete Blut .	I coughed up blood .
+Es ist Samstag .	It is Saturday .
+Sei nicht sauer .	Do n't be angry .
+Das Licht ging an .	The light went on .
+Wann kommt es an ?	When does it arrive ?
+Kopf runter .	Keep your head down .
+Reg dich ab !	Cool off !
+Hast du Kopfweh ?	Do you have a headache ?
+Zur Seite , bitte .	Make way , please .
+Macht bitte Platz .	Make way , please .
+Mach bitte Platz .	Make way , please .
+Bist du Single ?	Are you single ?
+Ich las weiter .	I went on reading .
+Es ist bewölkt .	It 's cloudy .
+Wolken ziehen auf .	It 's getting cloudy .
+Es wird bewölkt .	It 's getting cloudy .
+Es zieht sich zu .	It 's getting cloudy .
+Kenne dich selbst !	Know thyself .
+Nicht knicken !	Do not fold !
+Sie hassten sich .	They hated each other .
+Fleisch , bitte .	Meat , please .
+Es ist besetzt .	It 's occupied .
+Vertrau mir !	Trust me !
+Vertraue mir !	Trust me !
+Ich bin schwanger .	I 'm expecting .
+Wie weit bist du ?	How far along are you ?
+Ich habe Fieber .	I have a fever .
+Jahre vergingen .	Years passed .
+Ich bin 18 .	I am eighteen years old .
+Unsinn !	Nonsense !
+Quatsch !	Nonsense !
+Sei nicht dumm .	Do n't be silly .
+So ein Unsinn !	This is silly !
+Richte dich auf .	Straighten up .
+Ist es weiß ?	Is it white ?
+Kämm dich einfach .	Just brush your hair .
+Ist er Ihr Lehrer ?	Is he your teacher ?
+Er sang ein Lied .	He sang a song .
+Ich mag ihn .	I like him .
+Wie ist er ?	What is he like ?
+Er ist mein Typ !	He is my type !
+Möchtest du ihn ?	Do you want him ?
+Möchten Sie ihn ?	Do you want him ?
+Überlass ihm das .	Let him do it .
+Überlass es ihm .	Let him do it .
+Er soll es haben !	He shall have it .
+Hat er Kinder ?	Does he have any children ?
+Hat er Kinder ?	Has he any children ?
+Siehst du ihn oft ?	Do you see him often ?
+Bitte ruf ihn an .	Please call him up .
+Bitte ruft ihn an .	Please call him up .
+Greif ihn dir !	Grab him .
+Lass ihn kommen .	Have him come .
+Glaubst du ihm ?	Do you believe him ?
+Er macht es gut .	He is doing well .
+Er starb an Krebs .	He died of cancer .
+Vergessen Sie ihn .	Forget him .
+Wir stören ihn .	We are disturbing him .
+Wie groß ist er ?	How tall is he ?
+So ist er eben .	That 's the way he is .
+So ist er halt .	That 's the way he is .
+Wie alt ist er ?	What is his age ?
+Wie heißt er ?	What is his name ?
+Ist er Amerikaner ?	Is he American ?
+Er war Engländer .	He was English .
+Er schaut fern .	He is watching TV .
+Er sieht fern .	He is watching TV .
+Er hat einen Hund .	He has a dog .
+Er versucht es .	He tries .
+Er ist ein Mensch .	He is human .
+Er ist pleite .	He is out of pocket .
+Er kocht vor Wut .	He is furious with anger .
+Er ist acht .	He is eight .
+Er ist ein DJ .	He is a DJ .
+Er ist DJ .	He is a DJ .
+Er isst gerne Eis .	He enjoys eating ice cream .
+Er trinkt zu viel .	He drinks too much .
+Er säuft zu viel .	He drinks too much .
+Er war in Amerika .	He has been to America .
+Er ist Amerikaner .	He is an American .
+Er heiratete Ann .	He married Ann .
+Wie alt ist er ?	How old is he ?
+Er ist Italiener .	He is an Italian .
+Wann kam er her ?	When did he come here ?
+Er weinte weiter .	He kept on crying .
+Er liest ständig .	He is always reading .
+Er lügt .	He tells a lie .
+Er bat um Geld .	He asked for money .
+Er hat kein Geld .	He has no money .
+Er ist erkältet .	He has a cold .
+Er kocht vor Wut .	He is boiling with rage .
+Er hat Krebs .	He has got cancer .
+Er macht Kekse .	He is making cookies .
+Er hasst Spinnen .	He hates spiders .
+Er sollte kommen .	He was supposed to come .
+Er drehte sich um .	He turned around .
+Er wendete .	He turned around .
+Er spielt hier .	He is playing here .
+Er hat zugenommen .	He has been gaining weight .
+Er kann kommen .	He can come .
+Er spielt Golf .	He is playing golf .
+Er mag Fußball .	He likes soccer .
+Er spielt Fußball .	He plays soccer .
+Er ist Fußballer .	He is a soccer player .
+Er ging sofort .	He left immediately .
+Er ermüdete bald .	He got tired soon .
+Er skatet .	He is skating .
+Er blieb still .	He remained silent .
+Er blieb im Hotel .	He stayed in the hotel .
+Er biss nicht an .	He avoided the bait .
+Er hat es erwähnt .	He mentioned it .
+Er entschied das .	He decided on that .
+Er war sehr alt .	He was very old .
+Er ist sehr mutig .	He is very brave .
+Er liest viel .	He reads a great deal .
+Er isst viel .	He eats a lot .
+Er ist mächtig .	He is powerful .
+Er zweifelte kurz .	He hesitated for a moment .
+Er ist asozial .	He is unsociable .
+Er ist ungesellig .	He is unsociable .
+Er spielte Tennis .	He played tennis .
+Was hat er ?	What is the matter with him ?
+Wo ist er geboren ?	Where was he born ?
+Wo wohnt er ?	Where does he live ?
+Wo kommt er her ?	Where does he come from ?
+Woher kommt er ?	Where does he come from ?
+Wo ging er hin ?	Where was he going ?
+Er ist sehr krank .	He 's very ill .
+Er war sehr froh .	He was very happy .
+Er ist sehr groß .	He is very tall .
+Er ging schnell .	He walked rapidly .
+Er liest viel .	He reads a good deal .
+Er hasst Nancy .	He hates Nancy .
+Wie groß er ist !	How tall he is !
+Wie alt er ist !	How old he is !
+Er ist Busfahrer .	He is a bus driver .
+Er wurde Pianist .	He became a pianist .
+Spielt er Klavier ?	Does he play the piano ?
+Er war sehr arm .	He was very poor .
+Er bekam den Ball .	He got the ball .
+Er holte den Ball .	He got the ball .
+Er warf den Ball .	He threw the ball .
+Er stand abseits .	He stood aloof .
+Er arbeitet kaum .	He hardly works .
+Er ist noch jung .	He is still young .
+Er steht noch .	He is still standing .
+Er ist ein Götze .	He is a tin god .
+Er ist schon weg .	He 's already left .
+Ist er schon da ?	Has he arrived yet ?
+Er ist schon da ?	Has he arrived already ?
+Er ist ehrgeizig .	He is driven .
+Er läuft langsam .	He walks slowly .
+Er spricht gut .	He talks well .
+Er hält sein Wort .	He is a man of his word .
+Er will Zuneigung .	He wants affection .
+Er ist ein Arzt .	He is a doctor .
+Er ist Arzt .	He is a doctor .
+Ist er ein Arzt ?	Is he a doctor ?
+Ist er Arzt ?	Is he a doctor ?
+Er ist kein Arzt .	He is not a doctor .
+Er ist alleine .	He is alone .
+Er war alleine .	He was alone .
+Er war allein .	He was alone .
+Er gibt sich Mühe .	He tries hard .
+Er bemüht sich .	He tries hard .
+Er fährt gut .	He is good at driving .
+Er schwimmt gerne .	He is fond of swimming .
+Er kann schwimmen .	He can swim .
+Er lehrt Englisch .	He teaches English .
+Kann er Englisch ?	Can he speak English ?
+Er sprach .	He was speaking .
+Er raucht nicht .	He does not smoke .
+Er mag Musik sehr .	He likes music very much .
+Er mag Musik sehr .	He is very fond of music .
+Musik mag er sehr .	He is very fond of music .
+Er spielt Musik .	He is playing music .
+Er hörte Musik .	He was listening to music .
+Was hat er vor ?	What is he up to ?
+Er sagte nichts .	He did n't say anything .
+Was will er tun ?	What does he want to do ?
+Was macht er ?	What is he doing ?
+Was hatte er vor ?	What was he up to ?
+Er war zuhause .	He was at home .
+Er war zu Hause .	He was at home .
+Ist er daheim ?	Is he at home ?
+Er sang weiter .	He kept singing .
+Er sang und sang .	He sang and sang .
+Er wohnt nebenan .	He lives next door to us .
+Er ist Maler .	He is a painter .
+Alle hassen ihn .	He is hated by all .
+Er räusperte sich .	He cleared his throat .
+Er ist Student .	He is a student .
+Er hat einen Bart .	He has a beard .
+Er wurde wütend .	He fell into a rage .
+Er hat zehn Kühe .	He has ten cows .
+Er schlief ein .	He dozed off .
+Er wohnt in Kyoto .	He lives in Kyoto .
+Er ist stark .	He 's strong .
+Er ist Lehrer .	He is a teacher .
+Er bat um Geld .	He asked for the money .
+Er sah den Himmel .	He looked up at the sky .
+Er ist Detektiv .	He is a detective .
+Hat er Brüder ?	Does he have any brothers ?
+Er lügt nie .	He never tells a lie .
+Er lügt nie .	He never lies .
+Er genas wieder .	He got well again .
+Er hat zwei Hunde .	He has two dogs .
+Hat er einen Hund ?	Does he have a dog ?
+Er sah gut aus .	He looked well .
+Er ist glücklich .	He is happy .
+Er gab auf .	He gave in .
+Er trug schwarz .	He was dressed in black .
+Lernt er gerade ?	Is he studying now ?
+Wo rennt er jetzt ?	Where is he running now ?
+Er isst zu Mittag .	He is having lunch .
+Er liest ein Buch .	He is reading a book .
+Er tut Buße .	He is doing penance .
+Er starb gestern .	He died yesterday .
+Er nickte mir zu .	He nodded to me .
+Er gab es mir .	He gave it to me .
+Er kam zu mir .	He came to see me .
+Er ist mein Onkel .	He is my uncle .
+Er saß vor mir .	He sat in front of me .
+Er läuft vor mir .	He is running ahead of me .
+Er ist mein Vater .	He is my father .
+Kennt er mich ?	Does he know me ?
+Er sieht schlecht .	He has poor eyesight .
+Er ist Dichter .	He is a poet .
+Er ist pünktlich .	He is punctual .
+Er lernt schnell .	He is quick to learn .
+Er fährt Fahrrad .	He is riding a bicycle .
+Er nahm sein Buch .	He took his book .
+Er sah jung aus .	He appeared young .
+Er sieht jung aus .	He looks young .
+Er hob seinen Arm .	He raised his arm .
+Er jagt gerne .	He likes to hunt .
+Er erhängte sich .	He hanged himself .
+Er hat abgenommen .	He picked up the phone .
+Er rief um Hilfe .	He called for help .
+Er lachte .	He laughed .
+Er isst .	He is eating .
+Er speist .	He is eating .
+Er ist faul .	He is lazy .
+Er ging ins Bett .	He went to bed .
+Schläft er ?	Is he sleeping ?
+Er verschlief .	He overslept himself .
+Er ist gutherzig .	He is kind at heart .
+Er seufzte tief .	He gave a deep sigh .
+Er schaffte es .	He made it .
+Hat er recht ?	Is he right ?
+Er ist das Recht .	He is justice .
+Er ging still .	He walked quietly .
+Ist er ein Lehrer ?	Is he a teacher ?
+Ist er Lehrer ?	Is he a teacher ?
+Er ist zierlich .	He is delicate .
+Er rannte .	He did run .
+Er lief .	He did run .
+Er kam angelaufen .	He came running .
+Er rennt .	He does run .
+Er war außer Atem .	He was out of breath .
+Er ist gut gebaut .	He 's well built .
+Er nimmt zu .	He is putting on weight .
+Er ist Dramatiker .	He is a dramatist .
+Er war ehrgeizig .	He had ambition .
+Er war strebsam .	He had ambition .
+Er angelt gern .	He is fond of fishing .
+Er ist ein Dieb .	He is a thief .
+Er ist ein Genie .	He is a genius .
+Er gilt als Genie .	He is said to be a genius .
+Er legte auf .	He hung up .
+Er hat aufgelegt .	He hung up .
+Er ist erfroren .	He was frozen to death .
+Er ist in Tokyo .	He is in Tokyo .
+Er zog nach Tokio .	He moved to Tokyo .
+Er hatte Kopfweh .	His head ached .
+Er ist tierlieb .	He loves animals .
+Er führt Tagebuch .	He keeps a diary .
+Er ist alt .	He is old .
+Er ist pleite .	He is bankrupt .
+Er fiel vom Pferd .	He fell off the horse .
+Er ist nicht dumm .	He is not stupid .
+Ist er groß ?	Is he tall ?
+Er saß aufrecht .	He was sitting up straight .
+Er steht ihr nahe .	He is close with her .
+Er hilft ihr .	He helps her .
+Er sieht müde aus .	He looks tired .
+Er sieht müde aus .	He seems tired .
+Er betrog .	He was cheating .
+Er ist erkältet .	He is suffering from a cold .
+Er macht Physik .	He is doing physics .
+Er ist Physiker .	He is a physicist .
+Er isst zu Mittag .	He has a lunch .
+Er wird laufen .	He will walk .
+Er mag Abenteuer .	He likes adventure .
+Er hat ein Buch .	He has a book .
+Er las weiter .	He kept reading a book .
+Er schläft .	He is asleep .
+Ich schlief ein .	I fell asleep .
+Er kommt morgen .	He will come tomorrow .
+Er ist erblindet .	He went blind .
+Er erblindete .	He went blind .
+Er wird kommen .	He will come .
+Er übte Verrat .	He turned traitor .
+Er ging zur Armee .	He entered the army .
+Er sprach weiter .	He kept talking .
+Er lebt im Luxus .	He lives in luxury .
+Lass ihn in Ruhe .	Get off his back .
+Er wird alt .	He is getting old .
+Ich mag sie alle .	I like all of them .
+Lacht mit ihnen .	Laugh with them .
+Sie sind Ärzte .	They are doctors .
+Sie sind Sänger .	They are singers .
+Das sind Sänger .	They are singers .
+Sie sind Künstler .	They are artists .
+Sie gingen angeln .	They went fishing .
+Sie mögen Äpfel .	They like apples .
+Sie liefen herum .	They walked around .
+Sie liefen umher .	They walked around .
+Lieben sie sich ?	Do they love each other ?
+Sie jagten Füchse .	They hunted foxes .
+Sie sind Christen .	They are Christians .
+Sie gaben es mir .	They gave it to me .
+Sie hassten Tom .	They hated Tom .
+Sie sind Piloten .	They are pilots .
+Sie sind Ringer .	They are wrestlers .
+Sie schwammen .	They were swimming .
+Was machen sie ?	What are they doing ?
+Was möchten sie ?	What are they after ?
+Sie sind alle tot .	They are all dead .
+Sie haben Hunger .	They feel hungry .
+Sie lügen nie .	They never tell a lie .
+Sie rennen jetzt .	They are running now .
+Sie kennen uns .	They know us .
+Sie sind Lehrer .	They are teachers .
+Sie krochen voran .	They crept forward .
+Wer sind sie ?	Who are they ?
+Wohnten Sie hier ?	Did they live here ?
+Sind sie Japaner ?	Are they Japanese ?
+Man nennt ihn Jim .	They call him Jim .
+Sie achten ihn .	They respect him .
+Sie sammeln Nüsse .	They are gathering nuts .
+Kommen die auch ?	Are they coming as well ?
+Kanntest du ihn ?	Did you know him ?
+Vertrau ihm nicht .	Do n't trust him .
+Kenne ich ihn ?	Do I know him ?
+Bring ihn herein .	Show him in .
+Bringe ihn herein .	Bring him in .
+Gib ihm Zeit .	Give him time .
+Sie tut mir leid .	I feel sorry for her .
+Sei nett zu ihr .	Be nice to her .
+Seid nett zu ihr .	Be nice to her .
+Sie hat unrecht .	She is wrong .
+Sie irrt sich .	She is wrong .
+Hör nicht auf sie !	Do n't listen to her .
+Hör nicht auf sie .	Do n't listen to her .
+Lies es nach ihr .	Read it after her .
+Lest es nach ihr .	Read it after her .
+Sie ist beruhigt .	Her mind is at peace .
+Sie ist unhöflich .	She has a rude manner .
+Ihre Augen lachen .	Her eyes are laughing .
+Sie ist die Botin .	She is the messenger .
+Sie ist siebzehn .	She is aged seventeen .
+Sie starb 1960 .	She died in 1960 .
+Sie weinte allein .	She was weeping alone .
+Sie ist acht .	She is eight .
+Sie benutzt dich .	She is making use of you .
+Sie verdient gut .	She makes a good living .
+Sie gab Geld .	She gave money .
+Sie ist nicht arm .	She is n't poor .
+Sie mag Kuchen .	She is fond of cake .
+Sie braucht Hilfe .	She needs help .
+Sie blieb still .	She kept quiet .
+Sie tippt gut .	She types well .
+Sie hat viel Geld .	She has a lot of money .
+Wie ist sie so ?	What is she like ?
+Sie liebt Tom .	She loves Tom .
+Sie weint .	She is crying .
+Sie sagte nichts .	She did not say anything .
+Was macht sie ?	What does she do ?
+Wie jung sie ist !	How young she is !
+Wie schön sie ist !	How beautiful she is !
+Sie lächelte .	She smiled .
+Sie hat gelächelt .	She smiled .
+Sie liebt Katzen .	She adores cats .
+Sie ist lässig .	She is easygoing .
+Sie ist Pianistin .	She is a pianist .
+Sie ist Betty .	She is Betty .
+Sie fiel mir auf .	She caught my eye .
+Sie aß kaum etwas .	She hardly ate anything .
+Ist sie schon da ?	Is she here yet ?
+Sie ist überaktiv .	She 's hyperactive .
+Sie redet viel .	She talks a lot .
+Ist sie Ärztin ?	Is she a doctor ?
+Sie kam allein .	She came alone .
+Sie hörte Musik .	She was listening to music .
+Hat sie ein Hobby ?	Does she have a hobby ?
+Was hat sie denn ?	What 's eating her ?
+Was hat sie ?	What does she have ?
+Ist sie zu Hause ?	Is she at home ?
+Sie singt gut .	She sings well .
+Sie ging raus .	She went out .
+Sie ist Studentin .	She is a student .
+Sie ist Schülerin .	She is a student .
+Sie hat unrecht .	She is in the wrong .
+Sie irrt sich .	She is in the wrong .
+Sie ist aggressiv .	She is aggressive .
+Sie weinte .	She cried .
+Sie weinte weiter .	She kept on crying .
+Sie ist stur .	She is obstinate .
+Kennt sie dich ?	Does she know you ?
+Kennt sie euch ?	Does she know you ?
+Kennt sie Sie ?	Does she know you ?
+Sie atmete schwer .	She was breathing hard .
+Sie ist glücklich .	She is happy .
+Sie ist aktiv .	She is active .
+Sie trug Schwarz .	She was dressed in black .
+Sie bückte sich .	She bent down .
+Sie läuft nicht .	She is n't running .
+Sie rennt nicht .	She is n't running .
+Sie wurde Letzte .	She came last .
+Sie wohnt nebenan .	She lives next door to us .
+Sie ist mein Typ .	She 's my type .
+Sie saß neben mir .	She sat next to me .
+Sie kennt mich .	She knows me .
+Sie winkte uns zu .	She waved her hand to us .
+Sie nahm ihr Buch .	She took her book .
+Sie hat ein Bild .	She has a picture .
+Sie hob die Hand .	She raised her hand .
+Sie braucht Hilfe .	She is in need of help .
+Sie ist auf Diät .	She is on a diet .
+Sie ist nett .	She is kind .
+Sie ist gutmütig .	She is good-natured .
+Sie ist still .	She is quiet .
+Sie ist Lehrerin .	She is a teacher .
+Sie ist Läuferin .	She is a runner .
+Sie wird geachtet .	She is looked up to .
+Ihr tat alles weh .	She was aching all over .
+Sie ist Studentin .	She is a college student .
+Sie rief um Hilfe .	She called for help .
+Wer ist sie ?	Who is she ?
+Sie singt schief .	She sings out of tune .
+Sie wurde wütend .	She got angry .
+Sie ist verrückt .	She is out of her mind .
+Sie ist tierlieb .	She is fond of animals .
+Sie macht weiter .	She is getting on .
+Sie heiratete ihn .	She married him .
+Sie gab es ihm .	She gave it to him .
+Sie hielt zu ihm .	She stood by him .
+Sie ohrfeigte ihn .	She slapped him in the face .
+Sie geht .	She walks .
+Sie ist echt süß .	She is really cute .
+Sie ist attraktiv .	She is attractive .
+Sie erblindete .	She went blind .
+Sie wurde blind .	She went blind .
+Sie fiel vom Baum .	She fell from the tree .
+Sie ist elegant .	She is graceful .
+Sie war tapfer .	She was brave .
+Wird sie kommen ?	Will she come ?
+Sie kocht gut .	She cooks well .
+Sie sprach weiter .	She went on speaking .
+Kommt sie auch ?	Is she coming , too ?
+Sie sind hübsch .	They are pretty .
+Du kennst sie ?	Do you know her ?
+Kennt ihr sie ?	Do you know her ?
+Kennen Sie sie ?	Do you know her ?
+Er hat sie umarmt .	He hugged her .
+Er umarmte sie .	He hugged her .
+Du wirkst krank .	You look sick .
+Er kam persönlich .	He came in person .
+Ich bin traurig .	I 'm sad .
+Sei nicht traurig .	Do n't be sad .
+Gräme dich nicht .	Do n't be sad .
+Er muss müde sein .	He must be tired .
+Sind Sie müde ?	Are you tired ?
+Bist du müde ?	Are you tired ?
+Seid ihr müde ?	Are you tired ?
+Immer lächeln .	Keep on smiling .
+Wo ist das Museum ?	Where 's the museum ?
+Deine Nase läuft .	Your nose is running .
+Meine Nase juckt .	My nose is itchy .
+Meine Nase läuft .	My nose is running .
+Das Eis schmilzt .	The ice is melting .
+Das Eis taut ab .	The ice is melting .
+Möchtest du Eis ?	Would you like ice ?
+Möchtet ihr Eis ?	Would you like ice ?
+Möchten Sie Eis ?	Would you like ice ?
+Nichts verraten !	Do n't spill the beans .
+Mein Vater raucht .	My father smokes .
+Gib nicht auf !	Do n't give in .
+Komm ins Zimmer .	Come into the room .
+Kommt ins Zimmer .	Come into the room .
+Der Wind weht .	The wind is blowing .
+Hast du gebadet ?	Did you take a bath ?
+Wie breit ist es ?	How wide is it ?
+Zieh dich um .	Change your clothes .
+Er wurde gereizt .	He became irritated .
+Ärgere dich nicht .	Do n't get angry .
+Der Preis stieg .	The price rose .
+Hörst du mich ?	Do you hear me ?
+Ich weiß .	I know .
+Keine Ahnung .	Beats me .
+Hör dir das an !	Listen to this !
+Hört euch das an !	Listen to this !
+Frag nicht .	Do n't ask .
+Ich bin ganz Ohr .	I 'm all ears .
+Ich höre es nicht .	I ca n't hear it .
+Bitte anstellen !	Wait in line , please .
+Das ist seltsam .	That 's strange .
+Das ist seltsam .	That 's weird .
+Sprich mit mir !	Talk to me !
+Hast du alles ?	Do you have everything ?
+Habt ihr alles ?	Do you have everything ?
+Haben Sie alles ?	Do you have everything ?
+Ich habe recht .	I 'm right .
+Ich habe Recht .	I 'm right .
+Überlasse das mir .	Leave it to me .
+Liebst du mich ?	Do you love me ?
+Liebt ihr mich ?	Do you love me ?
+Lieben Sie mich ?	Do you love me ?
+Wo ist meine Uhr ?	Where is my watch ?
+Lauf vor mir her .	Walk ahead of me .
+Lauf vor mir .	Walk ahead of me .
+Lauft vor mir her .	Walk ahead of me .
+Es geht mir gut .	I feel fine .
+Ich mag Jazzmusik .	I like jazz .
+Ich mag Jazz .	I like jazz .
+Ich sang weiter .	I carried on singing .
+Ich bin geduldig .	I 'm patient .
+Ich bin in London .	I am in London .
+Ich gedulde mich .	I 'm being patient .
+Ich bin jung .	I 'm young .
+Ich will schlafen .	I want to sleep .
+Ich bin erkältet .	I have a cold .
+Ich auch .	Me , too .
+Er mag uns nicht .	He does n't like us .
+Ich lese ein Buch .	I am reading a book .
+Ich meine es so !	I mean it !
+Ist das wahr ?	Is that true ?
+Stimmt das ?	Is that true ?
+Ich glaube schon .	I do think so .
+Danke sehr !	Many thanks .
+Ich mag Mahjong .	I like mahjong .
+Alles ist gut .	All is well .
+Alles ist gut .	Everything is all right .
+Volltanken bitte .	Fill it up , please .
+Volltanken .	Fill it up .
+Ich bin müde !	I 'm sleepy !
+Ich bin schläfrig .	I 'm sleepy !
+Bist du schläfrig ?	Are you sleepy ?
+Schläfst du , Tom ?	Are you sleeping , Tom ?
+Ist es kostenlos ?	Is it free ?
+Das Licht ist an .	The light is on .
+Hast du Decken ?	Do you have blankets ?
+Habt ihr Decken ?	Do you have blankets ?
+Haben Sie Decken ?	Do you have blankets ?
+Holz brennt .	Wood burns .
+Die Bäume knospen .	The trees are in bud .
+Hüte deine Zunge !	Hold your tongue !
+Ich bin wach .	I 'm awake .
+Öffnet eure Augen .	Open your eyes .
+Öffne die Augen .	Open your eyes .
+Wach auf !	Wake up !
+Wachen Sie auf !	Wake up !
+Die Frage ist die .	The question is this .
+Der Tag dämmerte .	Day began to break .
+Der Tag brach an .	Day began to break .
+Es wurde Tag .	Day began to break .
+Der Tag bricht an .	Day is breaking .
+Es wird Tag .	Day is breaking .
+Der Tag bricht an .	Day breaks .
+Es war Nacht .	It was night .
+Magst du Baseball ?	Are you fond of baseball ?
+Mögt ihr Baseball ?	Are you fond of baseball ?
+Nimm Medizin !	Take medicine .
+Genieß den Sommer !	Have fun this summer !
+Er ist nett .	He is kind .
+Er ist freundlich .	He is kind .
+Lass uns spielen .	Let 's play .
+Die Post ist da !	The mail has arrived .
+Wo ist die Post ?	Where is the post office ?
+Der Abend nahte .	Evening was drawing near .
+Iss nicht zu viel .	Do n't eat too much .
+Pass auf dich auf !	Take care !
+Zigarre gefällig ?	Have a cigar ?
+Komm bitte .	Please come .
+Kommt bitte .	Please come .
+Kommen Sie bitte .	Please come .
+Komm und hilf uns .	Come and help us .
+Bis nächste Woche !	Until next week .
+Ich flehe dich an .	I 'm begging you .
+Ich flehe euch an .	I 'm begging you .
+Ich flehe Sie an .	I 'm begging you .
+Nimm es gelassen .	Play it cool .
+Nehmt es gelassen .	Play it cool .
+Schlag die Eier .	Beat the eggs .
+Kocht ein Ei !	Boil one egg .
+Koche ein Ei !	Boil one egg .
+Kochen Sie ein Ei !	Boil one egg .
+Brat mir ein Ei .	Fry an egg for me .
+Bratet mir ein Ei .	Fry an egg for me .
+Stehen Sie auf !	Stand up !
+Steh auf !	Stand up !
+Steht auf !	Stand up !
+Stehe auf !	Stand up !
+Aufstehen !	Stand up !
+Steh nicht auf .	Do n't stand up .
+Steht nicht auf .	Do n't stand up .
+Nicht aufstehen .	Do n't stand up .
+Komm nicht herein .	Keep out .
+Kein Zutritt .	Keep out .
+Eintritt verboten !	Keep out !
+Steh bitte auf .	Stand up , please .
+Es ist großartig .	It 's magnificent .
+Es ist wunderbar .	It 's magnificent .
+Reist du gern ?	Do you like to travel ?
+Reist ihr gern ?	Do you like to travel ?
+Reisen Sie gern ?	Do you like to travel ?
+Reisen macht Spaß .	It 's fun to travel .
+Hände hoch !	Hands up !
+Schön für dich .	Good for you .
+Schön für euch .	Good for you .
+Schön für Sie .	Good for you .
+Besser .	That 's better .
+Das ist besser .	That 's better .
+Benimm dich .	Mind your manners .
+Ist das Liebe ?	Is this love ?
+Nicht reden !	Do n't talk !
+Sag nichts !	Do n't talk !
+Wir reden gern .	We enjoy talking .
+Er sieht gut aus .	He 's looking good .
+Gibt kein Aber !	There 's no but about it !
+Mach lauter .	Turn the volume up .
+Macht lauter .	Turn the volume up .
+Machen Sie lauter .	Turn the volume up .
+Mach es selber !	Do it by yourself .
+Mache das selbst !	Do it by yourself .
+Er schlug ein Rad .	He did a cartwheel .
+Er hat Mumm .	He has guts .
+Gib mal Gas !	Get a move on !
+Sie spielt Bach .	She plays Bach .
+Alles ist vorbei .	It 's all over .
+Fick dich !	Fuck you !
+Verpiss dich !	Fuck you !
+Komm ! Beeil dich !	Come on ! Quickly !
+He , du da !	Hey , you there !
+Woher kommst du ?	Which country are you from ?
+Guten Morgen !	Good morning !
+Ich höre Musik .	I 'm listening to music .
+Ich höre Musik .	I hear the music .
+Mögen Sie Musik ?	Do you like music ?
+Du bist gefeuert .	You 're fired !
+Mein Ohr juckt .	My ear is itching .
+Ich tanze gerne .	I love to dance .
+Guten Abend !	Good evening .
+Ich arbeite nicht .	I do not work .
+Ich arbeite nicht .	I am not working .
+Ich arbeite nicht .	I 'm not working .
+Ich arbeite nicht .	I do n't work .
+Ich arbeite .	I am working .
+Ich arbeite .	I work .
+Ich arbeite .	I 'm working .
+Ich bin Franzose .	I am French .
+Ich bin Franzose .	I 'm French .
+Ich esse Reis .	I am eating rice .
+Ich bin Chinese .	I am Chinese .
+Ich bin Chinesin .	I am Chinese .
+Wo arbeitet er ?	Where does he work ?
+Gute Frage .	Good question !
+Was fehlt ?	What 's missing ?
+Es ist spät .	It 's already late .
+Es ist heute heiß .	It 's warm today .
+Komm schnell !	Come quickly .
+Komm schnell !	Come quickly !
+Gute Reise !	Have a nice trip !
+Gute Fahrt !	Have a nice trip !
+Beißt dein Hund ?	Does your dog bite ?
+Das hoffe ich .	That 's what I 'm hoping .
+Das hoffe ich .	That 's what I hope .
+Das hoffe ich .	I hope so !
+Gute Reise !	Bon voyage !
+Gute Reise !	Safe journey .
+Gute Reise !	Have a good trip !
+Gute Reise !	Godspeed !
+Ich bin bereit .	I am ready .
+Bist du bereit ?	Are you ready ?
+Mir geht 's gut .	I 'm OK .
+Mir geht 's gut .	I 'm good .
+Magst du Musik ?	Do you like music ?
+Das Licht ist aus .	The lights are out .
+Das Licht ist aus .	The light is off .
+Ich mag Sport .	I like sports .
+Gib dein Bestes !	Do the best you can !
+Das ist mein Auto .	That 's my car .
+Das ist mein Auto .	This car 's mine .
+Das ist ihr Haus .	This is her house .
+Das ist sein Haus .	This is his house .
+Das ist sein Haus .	That 's his house .
+Regnet es morgen ?	Will it rain tomorrow ?
+Hab Erbarmen !	Have mercy !
+Ich vertraue ihm .	I trust him .
+Lebt er hier ?	Does he live here ?
+Hast du Fieber ?	Do you have a fever ?
+Hast du Fieber ?	Do you have a temperature ?
+Sie ist auf Diät .	She is dieting .
+Sie ist auf Diät .	She 's on a diet .
+Sie ist auf Diät .	She 's dieting .
+Ich esse Reis .	I eat rice .
+Er mag Orangen .	He likes oranges .
+Wie groß du bist !	How big you are !
+Er ist engstirnig .	He 's closed-minded .
+Es regnet wieder !	It 's raining again !
+Er jagt gerne .	He likes hunting .
+Was macht Tony ?	What 's Tony doing ?
+Heute ist Montag .	It 's Monday today .
+Heute ist Montag .	Today is Monday .
+Du bist ungezogen .	You 're naughty .
+Das ist zu teuer .	This is too expensive .
+Was wirst du tun ?	What will you do ?
+Was wirst du tun ?	What 'll you do ?
+Was wirst du tun ?	What 're you going to do ?
+Er schläft noch .	He is still sleeping .
+Ich bin traurig .	I feel blue .
+Es ist fünf Uhr .	It 's five o'clock .
+Wer ist er ?	Who is he ?
+Komm herein .	Come in .
+Herein !	Come in .
+Komm herein .	Come on in .
+Wann fängt es an ?	When will it begin ?
+Ich bin Jorge .	I am Jorge .
+Hast du Kondome ?	Do you have any condoms ?
+Haben Sie Kondome ?	Do you have any condoms ?
+Ich bin schwanger .	I 'm pregnant .
+Ich weiß nicht .	I do n't know .
+Ich weiß es nicht .	I do n't know .
+Keine Ahnung .	I do n't know .
+Weiß ich nicht .	I do n't know .
+Er liest ein Buch .	He reads a book .
+Ich fange an .	I start .
+Jedem das Seine .	To each his own .
+Geschmackssache .	It 's a question of taste .
+Taten statt Worte .	Actions , not words .
+Wo ist dein Vater ?	Where is your father ?
+Wo ist dein Vater ?	Where 's your dad ?
+Wo ist dein Vater ?	Where 's your father ?
+Ist da jemand ?	Is someone there ?
+Ich gehe .	I 'm leaving .
+Ich verschwinde .	I 'm leaving .
+Mach schnell !	Make it quick .
+Mach hin !	Hurry it up !
+Der Bus war voll .	The bus was full .
+Beruhige dich !	Calm down .
+Beruhige dich !	Quiet down .
+Beruhige dich !	Calm down !
+Beruhige dich !	Cool down .
+Ich weiß nicht .	I could n't say .
+Ich weiß nicht .	I do not know .
+Ich weiß nicht .	I do nʼt know .
+Das ist alles .	That is all .
+Ich bade täglich .	I take a bath every day .
+Mein Magen knurrt .	My stomach is grumbling .
+Er rächte sich .	He took revenge .
+Wie heißt er ?	What 's his name ?
+Bald ist Frühling .	Spring will be here soon .
+Bald ist Frühling .	It will be spring soon .
+Bald ist Frühling .	It 'll be spring soon .
+Ich mag Katzen .	I like cats .
+Es ist zu heiß .	It is too hot .
+Heute ist es heiß .	It 's warm today .
+Heute ist es kalt .	It is cold today .
+Heute ist es kalt .	Today it is cold .
+Trink deine Milch .	Drink your milk .
+Wie war dein Flug ?	How was your flight ?
+So ein Unsinn !	What a load of rubbish !
+Erwischt .	Gotcha .
+Sein Name ist Ken .	His name is Ken .
+Er ist ihr Freund .	He 's her friend .
+Er ist ihr Freund .	He is her friend .
+Bis morgen !	See you tomorrow .
+Bis morgen !	See you tomorrow !
+Bis morgen !	Until tomorrow .
+Kommt mit uns .	Come along with us .
+Ich bin schön .	I 'm beautiful .
+Er ist mein Vater .	He 's my father .
+Ich mag ihn nicht .	I do n't like him .
+Ich will Geld .	I want the money .
+Wovon spricht er ?	What 's he talking about ?
+Wach auf !	Wake up .
+Ich denke an dich .	I 'm thinking of you .
+Was kochst du ?	What are you cooking ?
+Was kochen Sie ?	What are you cooking ?
+Was kocht ihr ?	What are you cooking ?
+Was liest du ?	What 're you reading ?
+Das ist sehr gut .	That 's very good .
+Das ist ein Tisch .	That 's a table .
+Wer bist du ?	Who are you ?
+Wer sind Sie ?	Who are you ?
+Wer seid ihr ?	Who are you ?
+Er ist hier !	He is here !
+So ist es .	That 's right .
+Ich bin 's .	It is I .
+Ich bin 's .	It 's me !
+Esst und trinkt .	Drink and eat .
+Wer ist sie ?	Who 's she ?
+Stimmt so .	Keep the change .
+Hast du ein Auto ?	Have you got a car ?
+Es sah billig aus .	It looked cheap .
+Er ist kein Arzt .	He is not a physician .
+Er ist kein Arzt .	He 's no doctor .
+Sie ist nicht arm .	She 's not poor .
+Ich lebe in Kobe .	I live in Kobe .
+Er ist in Tokyo .	He 's in Tokyo .
+Wie geht es dir ?	How are you ?
+Wie geht es dir ?	How do you do ?
+Wie geht es dir ?	How are you going ?
+Wie geht es dir ?	How 're you doing ?
+Was werden wir ?	What will we become ?
+Alle mögen sie .	Everyone likes her .
+Alle mögen sie .	Everybody likes her .
+Alle mögen sie .	Everyone likes them .
+Alle mögen sie .	Everybody likes them .
+Alle mögen ihn .	Everybody likes him .
+Alle mögen ihn .	Everyone loves him .
+Er stand auf .	He stood up .
+Nein , danke .	No , thanks .
+Lass mich in Ruhe .	Let me be .
+Lass mich in Ruhe .	Get off me .
+Ich weiß .	I know !
+Komm hierher .	Come hither .
+Er kann schwimmen .	He knows how to swim .
+Er muss sterben .	He must die .
+Bis später !	See you later !
+Deine Zeit ist um .	Your time 's up .
+Herein bitte .	Please come in .
+Ich mag sie alle .	I like them all .
+Was ist los ?	What 's the matter ?
+Was ist los ?	What is the problem ?
+Was ist los ?	How 's that going ?
+Was ist los ?	What 's on ?
+Was ist los ?	What gives ?
+Ich bin ein Junge .	I am a boy .
+Ich habe Ferien .	I 'm on holiday .
+Ich bin Student .	I 'm a student .
+Ich bin Student .	I 'm a college student .
+Ich bin Student .	I 'm a university student .
+Ich bin Student .	I am a college student .
+Ich bin fertig .	I am ready .
+Ich bin fertig .	I 'm finished .
+Ich bin fertig .	I have finished .
+Ich bin Arzt .	I am a doctor .
+Ich bin sehr groß .	I 'm very tall .
+Es ist 7:50 Uhr .	It 's 7:50 .
+Folge meinem Rat !	Follow my advice .
+Ich kenne dich .	I know about you .
+Ich mag euch .	I love you guys .
+Ich gehe jetzt .	I 'm going .
+Ich kenne sie .	I know her .
+Gott , höre mich !	God , listen to me !
+Ich bin pappsatt .	I 'm stuffed !
+Guten Rutsch !	Happy New Year !
+Prosit Neujahr !	Happy New Year !
+Ist das dein Buch ?	Is that your book ?
+Hatschi !	Achoo !
+Komm herein .	Come on in here .
+Wer ist er ?	Who 's he ?
+Ich liebe sie .	I love them .
+Los geht 's .	Let 's start !
+Ich spiele Geige .	I play the violin .
+Ich spiele Geige .	I play violin .
+Willkommen !	Welcome !
+Ich arbeite gerne .	I like working .
+Ich bin dagegen .	I 'm against it .
+Was machen sie ?	What do they do ?
+Was machen sie ?	What 're they doing ?
+Drei Eis , bitte .	Three ice-creams , please .
+Falsch .	False .
+Stirb !	Die !
+Verrecke !	Die !
+Krepier !	Die !
+Verreck doch !	Die !
+Er hat ein Auto .	He has a car .
+Wie geht ’s ?	How are you ?
+Wie geht ’s ?	How are things ?
+Wie geht ’s ?	How 're you doing ?
+Fantastisch !	Fantastic !
+Fantastisch !	Awesome !
+Bis später !	I 'll catch you later .
+Bis später !	So long .
+Sei nicht dumm .	Do n't be stupid .
+Rauchen Sie ?	Do you smoke ?
+Raucht ihr ?	Do you smoke ?
+Raucht ihr ?	Do you guys smoke ?
+Er raucht nicht .	He does n't smoke .
+Ich sehe schlecht .	I have bad eyesight .
+Tanzen Sie gerne ?	Do you like to dance ?
+Tanzt ihr gerne ?	Do you like to dance ?
+Ich koche gerade .	I 'm cooking now .
+Ich bin Veganer .	I am vegan .
+Ich bin Veganerin .	I am vegan .
+Ja , manchmal .	Yes , sometimes .
+Gut , und du ?	Fine . And you ?
+Er ist sehr krank .	He is very sick .
+Jedem das Seine .	Each to their own .
+Es ist eiskalt .	It 's as cold as ice .
+Ich komme sofort .	I 'm coming right away .
+Ich las ein Buch .	I read a book .
+Denk darüber nach .	Think about that .
+Denk darüber nach .	Think about this .
+Habt ihr Kinder ?	Do you have children ?
+Habt ihr Kinder ?	Do you have kids ?
+Haben Sie Kinder ?	Do you have children ?
+Haben Sie Kinder ?	Do you have kids ?
+Liebe macht blind .	Love is blind .
+Der Weg ist lang .	The road is long .
+Kirschen sind rot .	Cherries are red .
+Wir sind Araber .	We are Arabs .
+Er ist klug .	He is smart .
+Er ist elegant .	He is smart .
+Das stimmt nicht .	This is not true .
+Gott sei Dank .	Thank God .
+Ich weiß nichts .	I do n't know anything .
+Er hob seine Hand .	He raised his hand .
+Er zeigte auf .	He raised his hand .
+Er hob die Hand .	He raised his hand .
+Was für ein Satz !	What a sentence !
+Die Tür ist auf .	The door is open .
+Wo ist der Junge ?	Where is the boy ?
+Wer ist im Haus ?	Who is in the house ?
+Was isst du gerne ?	What do you like to eat ?
+Woher kommst du ?	Where are you from ?
+Woher kommen Sie ?	Where are you from ?
+Wo bist du her ?	Where are you from ?
+Wo seid ihr her ?	Where are you from ?
+Wo sind Sie her ?	Where are you from ?
+Wo kommt ihr her ?	Where are you from ?
+Woher kommt ihr ?	Where are you from ?
+Wo ist dein Haus ?	Where is your house ?
+Wo ist euer Haus ?	Where is your house ?
+Wo ist Ihr Haus ?	Where is your house ?
+Wo lebst du ?	Where do you live ?
+Wo wohnst du ?	Where do you live ?
+Wo wohnen Sie ?	Where do you live ?
+Wo wohnt ihr ?	Where do you live ?
+Ich sah 5 Männer .	I saw five men .
+Du bist reich .	You are rich .
+Sie sind reich .	You are rich .
+Ihr seid reich .	You are rich .
+Ich bin betrunken .	I 'm drunk .
+Ich bin betrunken .	I am drunk .
+Du bist dran .	It 's your turn .
+Du bist am Zug .	It 's your turn .
+Ihr seid dran .	It 's your turn .
+Sie sind dran .	It 's your turn .
+Er ist krank .	He is ill .
+Er ist krank .	He is sick .
+Sie isst zu Abend .	She is having dinner .
+Er ging zum Laden .	He went to the shop .
+Wo gehst du hin ?	Where are you going to ?
+Wohin gehen Sie ?	Where are you going to ?
+Wohin geht ihr ?	Where are you going to ?
+Wo geht ihr hin ?	Where are you going to ?
+Ich angle gern .	I like fishing .
+Ich fische gern .	I like fishing .
+Sind Sie fertig ?	Are you ready ?
+Sind Sie fertig ?	Have you finished ?
+Er war beharrlich .	He was tenacious .
+Ich werde Arzt .	I am going to be a doctor .
+Sie liebt Kinder .	She loves children .
+Sie liebt Kinder .	She loves the children .
+Die Sonne scheint .	The sun is shining .
+Ich bin müde !	I 'm tired !
+Ich bin müde !	I am tired !
+Ich bin sehr müde .	I am very tired .
+Sie weint ständig .	She keeps on crying .
+Sie weint ständig .	She cries all the time .
+Sie weint ständig .	She 's always crying .
+Sie weint ständig .	She cries constantly .
+Es schneit .	It is snowing .
+Es schneit .	It 's snowing .
+Wirklich ?	Really ?
+Echt ?	Really ?
+Im Ernst ?	Really ?
+Wie schade !	Too bad .
+Schande !	Too bad .
+Wir werden sehen .	We shall see .
+Schauen wir mal .	Let 's take a look .
+Wie geht es Ihnen ?	How are you ?
+Wie geht 's dir ?	How are you ?
+Wie gehts dir ?	How are you ?
+Wie geht es euch ?	How are you ?
+Ich kann lieben .	I can love .
+Hallo !	Hello !
+Wirklich ?	Seriously ?
+Wirklich ?	No kidding ?
+Er wohnt in Tokio .	He lives in Tokyo .
+Er ist faul .	He 's lazy .
+Perfekt !	Perfect !
+Danke !	Thank you !
+Danke .	Thank you !
+Ich heiße Wang .	My name is Wang .
+Ich bin zu Hause .	I 'm at home .
+Ich bin zu Hause .	I 'm home .
+Er lebt allein .	He lives alone .
+Was ist passiert ?	What happened ?
+Was ist geschehen ?	What happened ?
+Was war los ?	What happened ?
+Was ist passiert ?	What 's happened ?
+Pass auf !	Watch out !
+Pass auf !	Be careful .
+Was ist neu ?	What is new ?
+Was machst du ?	What do you make ?
+Was machst du ?	What 're you doing ?
+Ich liebe dich !	I love you !
+Ich habe Hunger !	I feel hungry .
+Es geht mir gut .	I am okay .
+Das war ein Spaß .	That was fun .
+Seid ihr bereit ?	Are you ready ?
+Gut . Und dir ?	Fine . And you ?
+Gut . Und Ihnen ?	Fine . And you ?
+Wo ist der Junge ?	Where 's the boy ?
+Wo lebst du ?	Where are you living ?
+Ich trank Milch .	I drank milk .
+Ich heiße Andrea .	My name is Andrea .
+Ich habe Hunger !	I 'm hungry !
+Ich habe Hunger !	I am hungry .
+Ich habe Hunger !	I 'm hungry .
+Willst du gehen ?	Do you want to go ?
+Sie können angeln .	They can fish .
+Sie waren hungrig .	They were hungry .
+Ich bin Atheist .	I 'm an atheist .
+Magst du mich ?	Do you like me ?
+Er ist Li Ying .	He is Li Ying .
+Du bist ein Idiot .	You are an idiot !
+Hallo !	Hi .
+Hallo !	Hello .
+Hast du Hunger ?	Are you hungry ?
+Willst du gehen ?	Do you wish to go ?
+Willst du gehen ?	Do you want to leave ?
+Das ist kein Witz .	I am not kidding .
+Das ist kein Witz .	It 's not a joke .
+Das ist kein Witz .	This is no joke .
+Das ist kein Witz .	This is n't a joke .
+Guten Morgen !	Good morning .
+Er braucht Geld .	He needs money .
+Wir sind Männer .	We are men .
+Wir sind Menschen .	We are people .
+Ich renne .	I am running .
+Es schüttet .	It 's raining cats and dogs .
+Es schifft .	It 's raining cats and dogs .
+Sie saß neben mir .	She sat by my side .
+Ich vermisse euch .	I miss you guys .
+Du bist so schön !	You 're so beautiful !
+Du bist so hübsch !	You 're so beautiful !
+Genau !	That 's right !
+Genau !	Precisely !
+Genau !	Exactly !
+Niemand mag Krieg .	Nobody likes war .
+Fangen wir an !	Let 's begin .
+Lass uns anfangen !	Let 's begin .
+Fangen wir an !	Let 's start !
+Frohe Weihnachten !	Have a good Christmas .
+Er ist Student .	He is in college .
+Er ist Amerikaner .	He is American .
+Sie ist mir fremd .	I do n't know her .
+Herzlichen Dank !	Heartfelt thanks !
+Sie ohrfeigte ihn .	She slapped his face .
+Sie hasste ihn .	She hated him .
+Ich habe Fieber .	I have a high temperature .
+Sie war in Eile .	She was in a hurry .
+Sie kann kommen .	She may come .
+Mary kam herein .	Mary came in .
+Er belog uns .	He told us a lie .
+Grün steht Alice .	Green suits Alice .
+Grün steht Elke .	Green looks good on Alice .
+Was macht sie ?	What 's she doing ?
+Er kann gut lesen .	He can read well .
+Er kann lesen .	He can read .
+Hab keine Angst .	Do n't be scared .
+Er ist klug .	He is intelligent .
+Was ist denn das ?	What is this ?
+Was ist das hier ?	What is this ?
+Das ist eine DVD .	This is a DVD .
+Ist das deine DVD ?	Is this your DVD ?
+Endlich !	Finally !
+Ich weiß alles .	I know everything .
+Die Frau liest .	The woman is reading .
+Du musst gehen .	You must go .
+Du musst gehen .	You 'll have to go .
+Du musst gehen .	You need to leave .
+Du musst gehen .	You need to go .
+Was lernst du ?	What are you learning ?
+Bitte .	Please .
+Überlass das mir .	Leave this to me .
+Ich kann es nicht .	I ca n't .
+Das geht nicht !	That wo n't work !
+Er liebt sie .	He loves her .
+Gehst du auch ?	Are you going , too ?
+Gehst du auch ?	Will you go , too ?
+Das ärgert mich .	This annoys me .
+Das nervt mich .	This annoys me .
+Das stört mich .	This annoys me .
+Er wurde blass .	His face turned pale .
+Großartig !	Great !
+Prima !	Great !
+Lüg mich nicht an !	Do n't lie to me .
+Sie dürfen gehen .	You may go .
+Sie dürfen gehen .	You 're free to go .
+Ich mag dein Auto .	I love your car .
+Er sang weiter .	He kept on singing .
+Er sang weiter .	He went on singing .
+Er sang weiter .	He continued singing .
+Hör mir genau zu .	Listen well to what I say .
+Wo ist meine Uhr ?	Where is my clock ?
+Wo ist meine Uhr ?	Where 's my watch ?
+Ich sang weiter .	I continued singing .
+Er mag uns nicht .	He does not like us .
+Du bist sehr nett .	You 're very nice .
+Kühe geben Milch .	Cows give milk .
+Dies ist ein Satz .	This is a sentence .
+Das ist ein Satz .	This is a sentence .
+Du kannst gehen .	You may go .
+Sie können gehen .	You may go .
+Sie können gehen .	They may go .
+Das ist für dich .	That 's for you .
+Das ist für dich .	It 's for you .
+Du bist dumm .	You 're stupid .
+Er hatte Kopfweh .	He had a headache .
+Singst du gerne ?	You like to sing ?
+Singst du gerne ?	Do you like to sing ?
+Das ist ihr Buch .	That book is theirs .
+Das ist meine CD .	This is my CD .
+Bitte .	You 're welcome .
+Danke !	Thanks !
+Danke !	Thank you .
+Danke !	Thanks .
+Warum ist er hier ?	Why is it here ?
+Und jetzt ?	And now ?
+Und nun ?	And now ?
+Ich bin Ingenieur .	I 'm an engineer .
+Ich bin müde .	I am tired .
+Kommt mit .	Come with me .
+Es tut mir leid .	Excuse me .
+Entschuldigung !	Excuse me .
+Entschuldigung !	I 'm sorry !
+Das ist mir recht .	It 's fine with me .
+Ich bin Atheist .	I am an atheist .
+Hallo , Welt !	Hello , world !
+Ein Gruß der Welt !	Hello , world !
+Wie langweilig !	How boring .
+Ich bin sicher .	I am sure .
+Ich bin sicher .	I 'm positive .
+Ich bin sicher .	I 'm safe .
+Er ist klug .	He 's smart .
+Er ist elegant .	He 's smart .
+Er ist klug .	He 's intelligent .
+Sie ist Ärztin .	She 's a doctor .
+Bist du alleine ?	Are you alone ?
+Er hält sein Wort .	He keeps his word .
+Sie schon wieder ?	You again ?
+Ich muss lernen .	I must study .
+Gib mir das Buch .	Give me that book .
+Kennst du uns ?	Do you know us ?
+Kennt ihr uns ?	Do you know us ?
+Kennen Sie uns ?	Do you know us ?
+Ich mache Judo .	I 'm practising judo .
+Bitte iss etwas !	Please eat something .
+Schade .	It 's a pity .
+Verstehst du mich ?	Do you understand me ?
+Versteht ihr mich ?	Do you understand me ?
+Wie bitte ?	Excuse me ?
+Verstehen Sie ?	Do you understand ?
+Verstehst du ?	Do you understand ?
+Bitte schön .	You 're welcome .
+Gern geschehen .	You 're welcome .
+Nichts zu danken .	You 're welcome .
+Gerne !	You 're welcome .
+Er ist dort links .	It 's there to the left .
+Was ist das da ?	What 's that there ?
+Das ist das Hotel .	That 's the hotel .
+Dort , geradeaus .	There , straight ahead .
+Gern . Wie viele ?	All right . How many ?
+Was kostet das ?	How much does that cost ?
+Möchten Sie essen ?	Would you like to eat ?
+Möchten Sie essen ?	Do you want to eat ?
+Ist die Milch gut ?	Is the milk good ?
+Wo tut es weh ?	Where is the pain ?
+Ich bin hungrig !	I 'm hungry !
+Sie spricht laut .	She speaks loudly .
+Was ist Glück ?	What is happiness ?
+Mach die Tür zu .	Close the door .
+Mach die Türe zu .	Close the door .
+Bist du zuhause ?	Are you at home ?
+Bist du zu Hause ?	Are you at home ?
+Seid ihr zu Hause ?	Are you at home ?
+Sie essen Äpfel .	They 're eating apples .
+Wir essen Äpfel .	We 're eating apples .
+Bist du zuhause ?	Are you home ?
+Wir brauchen Geld .	We need money .
+Wir brauchen Geld .	We need that money .
+Du bist mutig .	You 're courageous .
+Wo ist mein Auto ?	Where 's my car ?
+Tom kocht gut .	Tom is good at cooking .
+Tom ist ein Guter .	Tom is a good person .
+Ich weiß nichts .	I know nothing .
+Hallo , Tom .	Hi , Tom !
+Ich heiße John .	My name is John .
+Ich heiße John .	My name 's John .
+Noch ein bisschen ?	A little more ?
+Noch ein bisschen ?	A little bit more ?
+Vielleicht später .	Maybe later .
+Was noch ?	What else ?
+Wir sind Cousins .	We 're cousins .
+Er ist ein Genie .	He 's a genius .
+Öffne dein Herz .	Open your heart .
+Nichts Besonderes .	Nothing special .
+Wie ist Ihr Name ?	What 's your name ?
+Wie heißt du ?	What 's your name ?
+Wie ist dein Name ?	What 's your name ?
+Was ist dein Name ?	What 's your name ?
+Fick dich !	Go screw yourself !
+Fick dich !	Go fuck yourself !
+Gott will …	God willing ...
+Hast du kein Geld ?	Do n't you have any money ?
+Schneller !	Faster !
+Auf Wiedersehen !	Goodbye !
+Das stimmt nicht .	That 's not true .
+Das stimmt nicht .	It 's not right .
+Das stimmt nicht .	This is incorrect .
+Das stimmt nicht .	This is n't correct .
+Das stimmt nicht .	This is n't right .
+Das stimmt nicht .	It 's not true .
+Das stimmt nicht .	That 's untrue .
+Das stimmt nicht .	That is n't true .
+Das stimmt nicht .	That 's not right .
+Das stimmt nicht .	This is not correct .
+Ich bin hungrig !	I am hungry .
+Ich habe Hunger .	I am hungry .
+Entschuldigung .	Excuse me .
+Das ist ein Buch .	That 's a book .
+Das ist ein Buch .	That is a book .
+Sie ist schön .	She is beautiful .
+Wo arbeitest du ?	Where are you working ?
+Sie mag Orangen .	She likes oranges .
+Mag sie Orangen ?	Does she like oranges ?
+Wir sind da .	We 've arrived .
+Warte mal kurz .	Wait a moment .
+Wartet mal kurz .	Wait a moment .
+Warte mal .	Wait a moment .
+Du gefällst mir .	I like you .
+Ich mag dich .	I like you .
+Ich gehe mit ihr .	I 'm walking with her .
+Irre ich mich ?	Am I wrong ?
+Hab ich unrecht ?	Am I wrong ?
+Ich werde zahlen .	I 'll pay .
+Warum warst du da ?	Why were you there ?
+Ich sehe Dan .	I see Dan .
+Ich sehe Dana .	I see Dana .
+Sie sehen Dan .	They see Dan .
+Lüg mich nicht an .	Do n't lie to me .
+Sicher ist sicher .	Better safe than sorry .
+Er versucht es .	He 's giving it a go .
+Woher kommen Sie ?	Where have you come from ?
+Kein Problem !	No problem !
+Es ist in Ordnung .	It 's OK .
+Kommt heim !	Come home .
+Komm heim !	Come home .
+Versuchen wir es .	Let 's try it .
+Was ist das hier ?	What 's this ?
+Fortsetzung folgt .	To be continued .
+Ich sehe nichts .	I ca n't see anything .
+Woher kommen Sie ?	Where are you coming from ?
+Ich bin Linker .	I 'm a lefty .
+Aber warum ?	But why ?
+Bitte setz dich !	Please sit down .
+Wo gehst du hin ?	Where are you going ?
+Wohin gehen Sie ?	Where are you going ?
+Wohin geht ihr ?	Where are you going ?
+Stirb endlich !	Die already !
+Ich aß den Käse .	I ate the cheese .
+Wir störten ihn .	We disturbed him .
+Mögen Sie Tennis ?	Do you like tennis ?
+Du brauchst das .	You need this .
+Er ist Student .	He 's a student .
+Ich habe Halsweh .	I have a sore throat .
+Du Idiot !	You idiot !
+„ Alter ?“ „ 16 . “	" Age ? " " 16 . "
+Ist das dein Auto ?	Is that your car ?
+Ist das dein Auto ?	Is that car yours ?
+Wir haben nur Tee .	We only have tea .
+Was ist Glück ?	What is luck ?
+Es ist heiß .	It 's hot .
+Marie tanzt gut .	Mary dances well .
+Sie braucht Hilfe .	She needs assistance .
+Magst du es ?	You like it ?
+Gefällt 's dir ?	You like it ?
+Alles klar , Chef !	All 's clear , Boss !
+Stimmt genau !	Exactly !
+Lass mal sehen !	Let me have a look .
+Ist das klar ?	Is that clear ?
+Ich gebe auf .	I give in .
+Ich gebe auf .	I 'm giving up .
+Das war eine Lüge .	That was a lie .
+Essen Sie Paprika ?	Do you eat bell peppers ?
+Das war eine Lüge .	This was a lie .
+Bis bald !	See you soon .
+Bis bald !	See you next time !
+Gute Nacht !	Good night !
+Ich schaue nur .	I 'm just looking .
+Ich habe gekotzt .	I threw up .
+Isst du Fleisch ?	Do you eat meat ?
+Essen Sie Fleisch ?	Do you eat meat ?
+Esst ihr Fleisch ?	Do you eat meat ?
+Wo ist der Koch ?	Where 's the cook ?
+Wie spät ist es ?	What time is it ?
+Sie wurde rot .	She blushed .
+Nimm meine Brille .	Take my glasses .
+Viel Glück !	Good luck !
+Toi toi toi !	Good luck !
+Augenblick ...	Just a moment ...
+Er ist fotogen .	He 's photogenic .
+Bist du neu ?	Are you new ?
+Er ist fotogen .	He is photogenic .
+Schon so spät ?	Is it already so late ?
+Äpfel sind rot .	Apples are red .
+Ruhe !	Be quiet !
+Das ist mein Büro .	This is my office .
+Hast du Papier ?	Do you have paper ?
+Lern Uigurisch !	Learn Uyghur !
+Ich mag Löffel .	I like spoons .
+Er hat drei Söhne .	He has three sons .
+Sie ist tot .	She is dead .
+Sie ist tot .	She 's dead .
+Was kostet das ?	How much does this cost ?
+Was kostet das ?	How much does it cost ?
+Was kostet das ?	How much is this ?
+Was kostet das ?	How much is that ?
+Ist das echt ?	Is this real ?
+Mach es doch !	Just do it .
+Habt ihr Hunger ?	Are you hungry ?
+Habt ihr Hunger ?	Are you guys hungry ?
+Besser als nichts .	Better than nothing .
+Ich war Lehrer .	I was a teacher .
+Ich war Lehrerin .	I was a teacher .
+Weiche , Satan !	Go back , Satan !
+Weiche , Satan !	Step back , Satan !
+Brot und Spiele .	Bread and games .
+Nutze den Tag .	Seize the day .
+Pflücke den Tag .	Seize the day .
+Ich sah den Hügel .	I saw the hill .
+Was geht ?	What 's shaking ?
+Was sagtest du ?	What did you say ?
+Was sagten Sie ?	What did you say ?
+Gott existiert .	God exists .
+Es ist unmöglich .	It 's impossible .
+Ich verstehe .	I understand .
+Ich hab 's .	I got it .
+Ich werde es tun .	I 'll do it .
+Das stimmt !	That 's right !
+Das ist richtig !	That 's right !
+Geh weg !	Go away .
+Verpiss dich !	Go away .
+Hau ab !	Go away .
+Verschwinde !	Go away .
+Verdufte !	Go away .
+Mach dich fort !	Go away .
+Zieh Leine !	Go away .
+Verzieh dich !	Go away .
+Verkrümele dich !	Go away .
+Troll dich !	Go away .
+Zisch ab !	Go away .
+Pack dich !	Go away .
+Mach ’ne Fliege !	Go away .
+Schwirr ab !	Go away .
+Mach die Sause !	Go away .
+Scher dich weg !	Go away .
+Scher dich fort !	Go away .
+Gehen Sie weg .	Go away .
+Natürlich .	Of course .
+Verkleinere es .	Make it smaller .
+Mach es kleiner .	Make it smaller .
+Was sagst du ?	What 're you saying ?
+Was sagen Sie ?	What 're you saying ?
+Was sagt ihr ?	What 're you saying ?
+Magst du es ?	Do you like it ?
+Bewegt euch nicht .	Do n't move .
+Nicht bewegen !	Do n't move .
+Entschuldigen Sie !	Excuse me .
+Wunderbar !	Wonderful !
+Herrlich !	Wonderful !
+Ganz toll !	Fantastic !
+Geh weg !	Go away !
+Hau ab !	Go away !
+Verschwinde !	Go away !
+Verdufte !	Go away !
+Mach dich fort !	Go away !
+Zieh Leine !	Go away !
+Verzieh dich !	Go away !
+Verkrümele dich !	Go away !
+Troll dich !	Go away !
+Zisch ab !	Go away !
+Pack dich !	Go away !
+Mach ’ne Fliege !	Go away !
+Schwirr ab !	Go away !
+Mach die Sause !	Go away !
+Scher dich weg !	Go away !
+Scher dich fort !	Go away !
+Es ist Arbeit .	It 's work .
+Es ist mein Job .	It 's my job .
+Das stimmt .	This is true .
+Bitte geh ' jetzt .	Please leave right away .
+Prost !	Cheers !
+Wo ist mein Buch ?	Where is my book ?
+Ja , ich weiß es .	Yes , I know it .
+Schau hinter dich .	Look behind you .
+Fass es nicht an .	Do n't touch it .
+Werd nicht fett .	Do n't get fat .
+Werd nicht dick .	Do n't get fat .
+Haben Sie Fieber ?	Do you have a fever ?
+Bitte frage nicht .	Please do n't ask .
+Fragt bitte nicht .	Please do n't ask .
+Es ist mein Ernst .	I 'm serious .
+Es reicht !	That 's enough .
+Das reicht .	That 's enough .
+Das ist genug .	That 's enough .
+Es reicht .	That 's enough .
+Hast du gerufen ?	Did you call ?
+Komm mit uns !	Come along with us .
+Komm mit uns .	Come along with us .
+Komm mit uns .	Come with us .
+Ist es das ?	Is that it ?
+Natürlich !	Of course !
+Auf jeden Fall !	Of course !
+Na klar !	Of course !
+Aber sicher doch !	Of course !
+Folge ihm !	Follow him .
+Diesmal zahle ich .	It 's my treat .
+Es geht mir gut .	I 'm OK .
+Sprich deutlich !	Speak clearly .
+Mir reicht ’s !	I 've had enough .
+Ich hatte genug .	I 've had enough .
+Ich bin bedient .	I 've had enough .
+Ich bin satt .	I 'm full .
+Worüber ?	About what ?
+Bin ich schwanger ?	Am I pregnant ?
+Und danach ?	And afterward ?
+Sonst noch etwas ?	Anything else ?
+Sind sie neu ?	Are they new ?
+Hast du Zeit ?	Are you free ?
+Bist du frei ?	Are you free ?
+Bist du von hier ?	Are you from here ?
+Haben Sie Hunger ?	Are you hungry ?
+Bist du hungrig ?	Are you hungry ?
+Seid ihr krank ?	Are you sick ?
+Bist du krank ?	Are you sick ?
+Hast du Durst ?	Are you thirsty ?
+Bist du durstig ?	Are you thirsty ?
+Was für ein Arsch !	What an asshole !
+Wann schließt es ?	At what time does it close ?
+Gesundheit !	Bless you !
+Ruf mich an !	Call me !
+Mach die Augen zu .	Close your eyes .
+Komm bald wieder .	Come back later .
+Komm mit !	Come with me .
+Komm mit mir !	Come with me .
+Komm mit mir .	Come with me .
+Hast du Tesafilm ?	Do you have any tape ?
+Hast du Klebeband ?	Do you have any tape ?
+Hast du Kinder ?	Do you have children ?
+Hast du Thunfisch ?	Do you have tuna fish ?
+Magst du Regen ?	Do you like rain ?
+Magst du Weißwein ?	Do you like white wine ?
+Passt der Hut ?	Does the hat fit well ?
+Hunde bellen .	Dogs are barking .
+Lass den Stunk !	Do n't fuck with me !
+Es reicht !	Enough !
+Genug !	Enough !
+Alles in Ordnung ?	Everything okay ?
+Zu verkaufen .	For sale .
+Fick deine Mutter .	Fuck your mom .
+Verfickte Hure .	Fucking whore .
+Es ist halb neun .	It 's half past eight .
+Es ist 8:30 Uhr .	It 's half past eight .
+Bist du fertig ?	Have you finished ?
+Seid ihr fertig ?	Have you finished ?
+Er lehrt Arabisch .	He is teaching Arabic .
+Er ist dreißig .	He is thirty years old .
+Er kocht gern .	He likes to cook .
+Er schwimmt gerne .	He likes to swim .
+Er verkauft Autos .	He sells cars .
+Er verkauft Obst .	He sells fruit .
+Er wäscht sich .	He washes himself .
+Hilf !	Help !
+Hilfe !	Help !
+Zu Hülf !	Help !
+Ich liebe Sport .	I like sports .
+Gute Fahrt !	Bon voyage !
+Du hast recht .	You are right .
+Das ist zu groß .	It 's too big .
+Er ist zu groß .	It 's too big .
+Sie ist zu groß .	It 's too big .
+Das ist zu groß .	It 's too large .
+Ich hasse Kaffee .	I hate coffee .
+Groß , nicht wahr ?	Large , is n't it ?
+Woran denkst du ?	What 's in your mind ?
+Woran denkt ihr ?	What 's in your mind ?
+Der Staat bin ich !	I am the state .
+Die Dose ist leer .	The box is empty .
+Es ist sehr kalt .	It 's very cold .
+Ich liebe Partys .	I love parties .
+Mach es jetzt !	Do it now .
+Es ist frei .	It 's free .
+Ich bin Anton .	I am Antonio .
+Wie alt seid ihr ?	How old are you ?
+Ich bin klein .	I am short .
+Ich bin groß .	I am tall .
+Ich heiße Sara .	I am called Sara .
+Mir ist kalt .	I am cold .
+Ich ziehe mich an .	I am going to get dressed .
+Ich bin glücklich .	I am happy .
+Ich bin froh .	I am happy .
+Mir ist heiß .	I am hot .
+Ich bin in Eile .	I am in a hurry .
+Ich bin Lin .	I am Lin .
+Ich bin online .	I am online .
+Ich bin im Netz .	I am online .
+Ich bin soweit .	I am ready .
+Ich bin krank .	I am sick .
+Ich bin zu klein .	I am too short .
+Mir wird übel .	I feel dizzy .
+Ich bin seekrank .	I feel seasick .
+Es geht mir gut .	I feel well .
+Ich habe Zahnweh .	I have a toothache .
+Ich töte dich .	I 'll kill you .
+Ich mag dieses .	I like this one .
+Ich brauche Geld .	I need money .
+Gott sei mit uns .	May God be with us .
+Fenster oder Gang ?	Window or aisle ?
+Sei du selbst !	Be yourself !
+Dies ist Essen .	This is food .
+Dies ist Nahrung .	This is food .
+Sehr romantisch !	Very romantic !
+Guten Abend !	Good evening !
+Gute Nacht !	Goodnight !
+Gute Nacht !	Good night .
+Leb wohl !	Bye !
+Wie sagt man ... ?	How do you say ... ?
+Du musst hingehen .	You must go .
+Ich gehe .	I 'll go .
+Ich gehe .	I will go .
+Ich gehe .	I 'm taking off .
+Ich bin hungrig !	I 'm hungry .
+Sie sind der Chef .	You 're the boss .
+Herein !	Enter !
+Ich mag Mangas .	I like mangas .
+Darf ich ?	May I ?
+Lass das !	Leave it !
+Lass das !	Stop that !
+Lass das !	Stop it !
+Sie ist kein Kind .	She 's not a child .
+Der Hund ist weiß .	The dog is white .
+Sie ist glücklich .	She 's happy .
+Der Strom ist aus .	The power 's out .
+Er wohnt über mir .	He lives above me .
+Er ist herzkrank .	He has a heart condition .
+Ich habe es satt .	I 'm fed up with it .
+Wer ist schuld ?	Who 's at fault ?
+Bitte mach das !	Please do that .
+Ich muss es malen .	I have to paint it .
+Wähle eine Person .	Choose one person .
+Das ist eiskalt .	It 's as cold as ice .
+Ich bin 19 .	I 'm 19 .
+Alles lief gut ab .	Everything went well .
+Das steht dir gut .	That looks good on you .
+Rück ' ein wenig !	Move a little !
+Atme tief durch .	Take a deep breath .
+Du hast gut reden !	You can talk well !
+Lass uns anfangen .	Let 's get started .
+Fangen wir an !	Let 's get started .
+Das ist ungerecht .	That 's not fair .
+Das ist ungerecht .	That is n't fair .
+Bitte einpacken .	Please wrap it up .
+Lass uns anfangen .	Let us begin .
+Es ist zu ruhig .	It 's too quiet .
+Er las echt viel .	He used to read a lot .
+Sie wachte auf .	She woke up .
+Alles ist gut .	Everything is alright .
+Sie liebt Katzen .	She loves cats .
+Ich bin auf Diät .	I 'm dieting .
+Lass es gut sein !	Let it go !
+Lass es gut sein !	Leave it alone .
+Bist du Arzt ?	Are you a doctor ?
+Sag das nicht .	Stop saying that .
+Sag das nicht .	Do n't say that word .
+Ich wohne hier .	I live here .
+Ich lebe hier .	I live here .
+Geh schlafen .	Go to sleep .
+Wo wart ihr ?	Where 've you been ?
+Wo wart ihr ?	Where 've you guys been ?
+Sie ist aggressiv .	She 's aggressive .
+Wo ist der Zoll ?	Where is Customs ?
+Lass es uns tun .	Yes , let 's .
+Meine Brüder !	My brothers !
+Ich bin krank .	I 'm ill .
+Ich bin krank .	I 'm sick .
+Ich bin krank !	I 'm sick !
+Ich bin krank !	I 'm sick .
+Stopp !	Stop !
+Halt !	Stop !
+Er wurde berühmt .	He became famous .
+Danke .	Thanks !
+Das weiß niemand .	No one knows .
+Bitte sei ruhig .	Please be quiet .
+Gib bitte Ruhe .	Please be quiet .
+Sei leise , bitte .	Please be quiet .
+Trinkst du Kaffee ?	Do you drink coffee ?
+Trinkt ihr Kaffee ?	Do you drink coffee ?
+Ich esse hier .	I eat here .
+Jeder weiß das .	Everybody knows that .
+Alle wissen das .	Everybody knows that .
+Was soll ich tun ?	What should I do ?
+Das macht nichts .	It does not matter .
+Es ist sehr groß .	It 's very big .
+Das ist enorm .	That 's very big .
+Das ist sehr groß .	That 's very big .
+Was bedeutet das ?	What does this mean ?
+Was bedeutet das ?	What does that mean ?
+Was bedeutet das ?	What does this say ?
+Sie essen Äpfel .	They 're eating the apples .
+Steigst du aus ?	Are you getting off ?
+Steigen Sie aus ?	Are you getting off ?
+Jim zeigte auf .	Jim raised his hand .
+Gut . Und dir ?	Good . And you ?
+Wie heißt du ?	What are you called ?
+Was muss ich tun ?	What do I have to do ?
+Was muss ich tun ?	What do I need to do ?
+Er kam gerade an .	He just arrived .
+Er ist blond .	He has blond hair .
+Er ist blond .	He 's blond .
+Das ist unmöglich .	This is impossible .
+Also , Feierabend !	All right , I 'm outta here .
+Nicht eintreten !	Do n't enter .
+Was soll ich tun ?	What am I supposed to do ?
+Was soll ich tun ?	What am I going to do ?
+Wer ist dieser ?	Who 's this ?
+Komm nicht herein .	Do n't come in .
+Liebe ist blind .	Love is blind .
+Hier ist Japan .	Here is Japan .
+Er lehrt Arabisch .	He teaches Arabic .
+Geh schlafen !	Go to sleep .
+Gehe schlafen !	Go to sleep .
+Ich gehe um zehn .	I will go at 10 .
+Es regnet wieder .	It 's raining again !
+Es regnet wieder .	It 's raining again .
+Bitte beeil dich !	Please hurry !
+Wirklich ? Warum ?	Really ? Why ?
+Ich gebe nach .	I give in .
+Ich füge mich .	I give in .
+Wohnst du hier ?	Is this where you live ?
+Dumm gelaufen .	Shit happens .
+Wie spät ist es ?	What time is it now ?
+Sie ist kein Arzt .	She 's not a doctor .
+Ist das wahr ?	Is this true ?
+Ist das wahr ?	Is this correct ?
+Kapiert ?	Got it ?
+Verstanden ?	Got it ?
+Einverstanden ?	Got it ?
+Kapiert ?	Understood ?
+Ich bin weg .	I 'm out of here .
+Ich bin draußen .	I 'm out of here .
+Mir ist kalt .	I 'm cold .
+Mir ist heiß .	I 'm hot .
+Ist es bewölkt ?	Is it cloudy ?
+Ist es neblig ?	Is it foggy ?
+Ist es heiß ?	Is it hot ?
+Ist es windig ?	Is it windy ?
+Es tut hier weh .	It hurts here .
+Es ist 7:45 Uhr .	It is 7:45 .
+Es ist neblig .	It is foggy .
+Es ist Nebel .	It is foggy .
+Es ist zu spät .	It is too late .
+Es ist sehr teuer .	It is very expensive .
+Es ist halb vier .	It 's 3:30 .
+Es ist früh .	It 's early .
+Es ist kalt heute !	It 's cold today !
+Es hagelt .	It 's hailing .
+Es regnet gerade .	It 's raining .
+Es ist Frühling .	It 's spring .
+Darf ich rauchen ?	May I smoke ?
+Ich auch nicht .	Me neither .
+Mein Zahn tut weh .	My tooth hurts .
+Nicht zu scharf .	Not too spicy .
+Nicht sehr süß .	Not too sweet .
+Hebe deine Hand .	Raise your hand .
+Sie läuft gerne .	She likes to run .
+Hungrig ?	Hungry ?
+Was willst du ?	What 're you after ?
+Was willst du ?	What are you after ?
+Was wollt ihr ?	What do you guys want ?
+Was wollen Sie ?	What is it you want ?
+Gut , nimm es .	Well , take it .
+Du bist schuld .	You 're to blame .
+Nimm Aspirin .	Take some aspirin .
+Nehmt Aspirin .	Take some aspirin .
+Verrückt !	Crazy !
+Was sagte sie ?	What did she say ?
+Er braucht Geld .	He needs that money .
+Ich habe Durst .	I am thirsty .
+Unglaublich !	Incredible !
+Es ist nicht kalt .	It 's not cold .
+Sie errötet .	She blushes .
+Sie errötete .	She blushed .
+Wo ist dein Hund ?	Where is your dog ?
+Das ist dein Hund .	This is your dog .
+Das ist euer Hund .	This is your dog .
+Das ist Ihr Hund .	This is your dog .
+Du bist ein Idiot .	You 're an idiot .
+Er sahnt ab .	He 's raking it in .
+Scheiße !	Shit .
+Halt den Mund !	Shut up !
+Halt die Schnauze !	Shut up !
+Halt 's Maul !	Shut up !
+Tee ohne Eis .	Tea without ice .
+Das tut weh .	That hurts .
+Das ist großartig .	That 's great .
+Der Fisch stinkt .	The fish smells bad .
+Der Mond scheint .	The moon is shining .
+Der Tee ist heiß .	The tea is hot .
+Der Tee ist warm .	The tea is hot .
+Es bläst der Wind .	The wind blows .
+Das sind Tiere .	These are animals .
+Sie sind grau .	They are gray .
+Sie werden nervös .	They become nervous .
+Das ist köstlich .	This is delicious .
+Das ist mein Buch .	This is my book .
+Das ist ekelhaft .	This is ugly .
+Das ist grauslich .	This is ugly .
+Das duftet gut .	This smells good .
+Nach Süden .	To the south .
+Ins Schwimmbad !	To the swimming pool !
+Dreh um .	Turn around .
+Dreh dich um .	Turn around .
+Rechts abbiegen !	Turn right .
+Sehr gut , danke .	Very good , thank you .
+Warte auf mich !	Wait for me !
+Wartet auf mich !	Wait for me !
+Bedienung gesucht .	Waiter needed .
+Uns ist heiß .	We 're hot .
+Gut gemacht !	Well done !
+Woran denkst du ?	What are you thinking of ?
+Was brauchen Sie ?	What do you need ?
+Was brauchst du ?	What do you need ?
+Was braucht ihr ?	What do you need ?
+Was ist da drin ?	What does it contain ?
+Was enthält es ?	What does it contain ?
+Was heißt das ?	What does this mean ?
+Woraus besteht es ?	What is it made of ?
+Betrüge ihn nicht .	Do n't deceive him .
+Geh und weck Mary .	Go and wake Mary up .
+Herr Smith kam .	Mr. Smith came .
+Betrüge ihn nicht .	Do n't cheat him .
+Ich reise oft .	I travel often .
+Er ist Schweizer .	He 's Swiss .
+Wohin gehen wir ?	Where are we going ?
+Wo ist euer Vater ?	Where is your father ?
+Alle lieben sie .	Everybody loves her .
+Er ist betrunken .	He 's drunk .
+Wir trinken alles .	We drink everything .
+Ich bin ein Koch .	I 'm a cook .
+Jeder liebt sie .	Everybody loves her .
+Ich hatte unrecht .	I was wrong .
+Mein Fehler .	My mistake .
+Komm hierher !	Come over !
+Von wem redest du ?	Who are you talking about ?
+Keine Leiche .	No body .
+Er ist so schwul .	He is so gay .
+Gekühlt servieren .	Best served chilled .
+Wirklich ? Wieso ?	Really ? Why ?
+Mein Fehler .	My fault .
+Fasle nicht .	Do n't ramble .
+Ich mag sie sehr .	I like her very much .
+Redest du mit mir ?	Are you speaking to me ?
+Reden Sie mit mir ?	Are you speaking to me ?
+Redet ihr mit mir ?	Are you speaking to me ?
+Ich bin hundemüde .	I am as tired as a dog .
+Ich bin todmüde .	I 'm dead tired .
+Ich bin todmüde .	I 'm shattered .
+Ich bin todmüde .	I am shattered .
+Ich bin todmüde .	I 'm knackered .
+Ich bin todmüde .	I am knackered .
+Er war mutig .	He was brave .
+Ich trage bei .	I 'm contributing .
+Nein .	No .
+Nö .	No .
+Mach keinen Lärm .	Do n't make noise .
+Lärme nicht .	Do n't make noise .
+Macht keinen Lärm .	Do n't make noise .
+Ja .	Yes .
+Die Sonne ist rot .	The sun is red .
+Auch du , Brutus ?	You too , Brutus ?
+Wie spät ist es ?	What 's the time ?
+Wie spät ist es ?	How late is it ?
+Ist dir das egal ?	Do you even care ?
+Ich vermisse ihn .	I miss him .
+Er fehlt mir .	I miss him .
+Du lügst mich an .	You 're lying to me .
+Er ist sehr nett .	He is very kind .
+Es ist Monsunzeit .	This is the monsoon season .
+Er hat viel Geld .	He has a lot of money .
+Mein Knie blutet .	My knee is bleeding .
+Ich höre etwas .	I hear something .
+Mach keinen Lärm !	Do n't make noise !
+Was zur Hölle ?	What the fuck ?
+Ich fand sie süß .	I thought she was cute .
+Er ist gemein .	He is mean .
+Er ist fies .	He is mean .
+Er ist Franzose .	He is French .
+Fahr sicher !	Drive safely .
+Danke trotzdem .	Thanks anyway .
+Zum Wohl !	Cheers !
+Es ist etwas kalt .	It is a little cold .
+Apfelwein , bitte .	Cider please .
+Der Hut ist Ihrer .	The hat is yours .
+Er liebt Züge .	He loves trains .
+Draußen regnet es .	It 's raining outside .
+Es regnet draußen .	It 's raining outside .
+Egal !	Whatever !
+Er sollte kommen .	He should come .
+Ich war sprachlos .	I was speechless .
+Ich mag Züge .	I like trains .
+Seife , bitte .	Soap , please .
+Ich bin durstig .	I am thirsty .
+Sie ist sehr klug .	She is very clever .
+Kommst du mit ?	Will you come with us ?
+Wohnt er hier ?	Does he live here ?
+Hallo zusammen .	Hi everyone .
+Er stand .	He was standing .
+Guten Tag !	Good afternoon .
+Sie singt gerne .	She loves singing .
+Er singt gerne .	He loves singing .
+Er singt gern .	He loves singing .
+Sprich lauter !	Speak louder .
+Sie singt gerne .	She likes to sing .
+Sind Sie Arzt ?	Are you a doctor ?
+Bist du neu hier ?	Are you new here ?
+Sind Sie neu hier ?	Are you new here ?
+Ich verstehe dich .	I understand you .
+So ist es eben .	That 's how it is .
+Sie schwammen .	They swam .
+Feierabend .	Let 's call it a day .
+Es läuft prima !	It 's going nicely !
+Ich bin erschöpft .	I 'm shattered .
+Ich bin erschöpft .	I am shattered .
+Ich bin erschöpft .	I 'm knackered .
+Ich bin erschöpft .	I am knackered .
+Wo ist die Bank ?	Where 's the bank ?
+Jeder liebt ihn .	Everybody loves him .
+Alle lieben ihn .	Everybody loves him .
+Ist nur ein Traum .	It 's just a dream .
+Nach Ihnen .	After you .
+Echt ? Warum ?	Really ? Why ?
+Es sollte so sein .	It should be like this .
+Ich saß neben ihm .	I sat next to him .
+Jeder liebt ihn .	Everyone loves him .
+Das ist unmöglich !	This is impossible !
+Keine Sorge .	Do n't worry .
+Rauchst du ?	Do you smoke ?
+Er wurde wütend .	He got angry .
+Ich bin sauer .	I 'm angry .
+Ich habe es eilig .	I 'm in a hurry .
+Das ist unmöglich !	That 's impossible !
+Der Hund ist tot .	The dog is dead .
+Das ist irre .	That 's crazy .
+Wir sind Nachbarn .	We 're neighbors .
+Wir sind Nachbarn .	We 're neighbours .
+Ich bin verblüfft .	I am dumbfounded .
+Wenn du willst .	If you want .
+Was ist Liebe ?	What is love ?
+Ich heiße Farshad .	My name is Farshad .
+Er wurde Polizist .	He became a police officer .
+Es ist unmöglich .	It is impossible .
+Es ist unmöglich .	This is impossible .
+Ich bin in Rente .	I 'm retired .
+Achtung !	Attention !
+Es ist genug !	It 's enough !
+Ich bin Tourist .	I am a tourist .
+Langsam bitte .	Slowly , please .
+Ich bin Tourist .	I 'm a tourist .
+So ist das Leben .	That 's life .
+Hier ist ein Buch .	There 's a book here .
+Das ist dein Buch .	It 's your book .
+Sind Sie Japaner ?	Are you Japanese ?
+Seid ihr Japaner ?	Are you Japanese ?
+Bist du Japaner ?	Are you Japanese ?
+Ich bin Japaner .	I am Japanese .
+Geht es dir gut ?	Are you OK ?
+Oh ! Ernsthaft ?	Oh ! Seriously ?
+Ach , wirklich ?	Oh ! Really ?
+Er ist arm .	He is poor .
+Was hast du vor ?	What are you up to ?
+Tschüss !	Goodbye !
+Tschau !	Goodbye !
+Du bist schön .	You 're pretty .
+Ich kann nicht .	I ca n't .
+Wo sind wir ?	Where are we ?
+Was geht , Alter ?	What 's up , dawg ?
+Du darfst gehen .	You may go .
+Ihr könnt gehen .	You may go .
+Du solltest gehen .	You should go .
+Ihr solltet gehen .	You should go .
+Sie sollten gehen .	You should go .
+Ich komme gleich .	I 'll be there right away .
+Ärgere dich nicht .	Do n't get angry !
+Du bist sehr klug .	You 're quite smart .
+Ich habe ein Buch .	I 've got a book .
+Ich habe ein Buch .	I have a book .
+Wissen ist Stärke .	Knowing is power .
+Komm , wir gehen .	Come on , let 's go !
+Wir saßen vorne .	We sat in the front .
+Ich will mehr .	I want more .
+Viel Spaß !	Have fun !
+Ich mag Filme .	I like movies .
+Ich liebe Filme .	I love movies .
+Er hat wenig Geld .	He has little money .
+Und du ?	And you ?
+Kommst du mit mir ?	Are you coming with me ?
+Die Masken fallen .	The masks are falling .
+Keine Ahnung .	No idea .
+Er ist nicht dumm .	He 's not stupid .
+Er ist nicht doof .	He 's not stupid .
+Das ist sein Auto .	This is his car .
+Sie isst gerade .	She is eating .
+Tanzt du gerne ?	Do you like to dance ?
+Holla die Waldfee !	Well , I never !
+Er ist Engländer .	He 's an Englishman .
+Wann hast du Zeit ?	When are you free ?
+Erzähl es keinem !	Do n't tell anyone this .
+Er heißt Jones .	He 's called Jones .
+Es blitzte gerade .	There 's lighting right now .
+Er saß am Fluss .	He sat next to the stream .
+Pass auf dich auf .	Look after yourself .
+Ich lebe es .	I live it .
+Fass es nicht an .	Do n't touch that .
+Zur Sache .	To the point .
+Das war immer so .	It 's always been like that .
+Halt den Mund !	Shut your gob !
+Halt den Mund !	Close your mouth !
+Halt den Mund !	Keep your mouth shut .
+Halt 's Maul !	Shut your gob !
+Was möchten Sie ?	What would you like ?
+Was möchtest du ?	What would you like ?
+Ich reise oft .	I often travel .
+Handle schneller !	Act faster !
+Vergiss sie !	Forget about her .
+Vergiss sie .	Forget about her .
+Danke schön .	Thanks a lot !
+Er sitzt am Tisch .	He 's sitting at the table .
+Er sitzt am Tisch .	He is sitting at the table .
+Hast du ein Handy ?	Do you have a cellphone ?
+Hast du ein Natel ?	Do you have a cellphone ?
+Hast du ein Handy ?	Have you got a mobile phone ?
+Hast du ein Handy ?	Do you have a mobile phone ?
+Hast du ein Handy ?	Do you have a cell phone ?
+Hast du ein Handy ?	Do you have a smartphone ?
+Hast du ein Natel ?	Have you got a mobile phone ?
+Hast du ein Natel ?	Do you have a mobile phone ?
+Wer mag Insekten ?	Who likes insects ?
+Ich sehe es nicht .	I do n't see it .
+Was trinken Sie ?	What will you drink ?
+Was trinken Sie ?	What are you going to drink ?
+Ich auch .	Me too .
+Ich auch .	Same here .
+Ich auch .	Likewise .
+Bist du wütend ?	Are you furious ?
+Er starb im Krieg .	He died in the war .
+Er fiel im Krieg .	He fell in battle .
+Orangensaft bitte .	Orange juice , please .
+Er ist abgebrüht .	He is a tough cookie .
+Grüß Gott !	Hi .
+Servus .	Hi .
+Grüezi .	Hi .
+Wo ist der Haken ?	What 's the catch ?
+Er angelt gern .	He likes fishing .
+Heute nicht mehr !	No more today .
+Wo wirst du sein ?	Where will you be ?
+Wo wirst du sein ?	Where are you going to be ?
+Sie rief mich an .	She called me .
+Singt bitte etwas .	Sing something , please .
+Wo ist der Chef ?	Where 's the boss ?
+Bin ich dran ?	Is it my turn ?
+Was bist du ?	What are you ?
+Geh weg !	Get lost !
+Geh weg !	Leave us .
+Geh weg !	Bugger off .
+Ich verstehe .	I get it .
+Ich verstehe .	I see .
+Ich verstehe .	I do understand .
+Das ist kein Satz .	This is not a sentence .
+Ich möchte zahlen .	I 'd like to pay .
+Kein Problem !	No worries !
+Esst mehr Gemüse .	Eat more vegetables .
+Siehst du fern ?	Do you watch TV ?
+Kein Problem .	No problem .
+Ohne Probleme .	No problem .
+Er ist unsozial .	He 's antisocial .
+Hallo zusammen !	Hello everyone !
+Stiehl Geld .	Steal the money .
+Stiehl Geld .	Steal money .
+Noch einmal .	One more time .
+Irre ich mich ?	Am I mistaken ?
+Fast drei .	Almost three .
+Beinahe drei .	Almost three .
+Fast drei .	Nearly three .
+Beinahe drei .	Nearly three .
+Ich scherze nicht .	I 'm not kidding .
+Schlaf genug .	Get enough sleep .
+Sie trug Schwarz .	She was dressed up in black .
+Die Uhr geht vor .	The clock is fast .
+Die Uhr geht nach .	The watch is slow .
+Die Uhr geht nach .	The clock is slow .
+Javier wird rot .	Javier is turning red .
+Javier errötet .	Javier blushed .
+Ich bin so müde !	I 'm so tired !
+Ich bin so müde !	I 'm so worn out !
+Fast da .	Almost there .
+Noch einmal .	Once again
+Haben Sie Fieber ?	Do you have a temperature ?
+Spreize die Beine .	Spread your legs apart .
+Zählt bis dreißig .	Count to thirty .
+Was brauchen Sie ?	What is it that you need ?
+Was brauchen Sie ?	What is it you need ?
+Eine Gabel fehlt .	A fork is missing .
+Das stimmt .	That 's true .
+Bananen sind gelb .	Bananas are yellow .
+Dies ist ein Auto .	This is a car .
+Kommt schnell !	Come quickly .
+Meinetwegen gerne !	I do n't mind if I do !
+Ja , gerne .	I do n't mind if I do !
+Ja , gerne .	Do n't mind if I do !
+Ja , gerne .	Yes , with pleasure .
+Alle hassen ihn .	Everybody hates him .
+Sie sind alle tot .	They 're all dead .
+Zu den Waffen !	To arms !
+Magst du Baseball ?	Do you like baseball ?
+Er ist Arzt .	He 's a doctor .
+Das ist einfach .	It 's easy .
+Es ist einfach .	It 's easy .
+Ich möchte kaufen .	I would like to buy .
+Na so was !	Indeed !
+Ja oder nein ?	Yes or no ?
+Wechselt euch ab .	Alternate .
+Wechselt euch ab .	Take turns .
+Er mag Tiger .	He likes tigers .
+Er war enttäuscht .	He was disappointed .
+Ich bin wieder da .	I 'm back .
+Das ist einfach .	This is easy .
+Das ist einfach .	That 's simple .
+Das ist einfach .	This is simple .
+Huch !	Yikes !
+Besser .	It 's better .
+Küss mich .	Kiss me .
+Küsst mich .	Kiss me .
+Zeit ist Geld .	Time is money .
+Sie werden nervös .	They get nervous .
+Wir sind das Volk .	We are the people .
+Ich muss duschen .	I have to take a shower .
+Ich bin Polizist .	I 'm a policeman .
+Ich heiße Sascha .	My name is Sasha .
+Ich heiße Sascha .	My name is Sascha .
+Ich bin Schüler .	I 'm a student .
+Ich bin Schülerin .	I 'm a student .
+Ich bin Studentin .	I 'm a student .
+Mir tut alles weh .	I 'm sore all over .
+Schnurren Tiger ?	Do tigers purr ?
+Wie steht es ?	How are things ?
+Singst du gern ?	You like to sing ?
+Geht ihr auch ?	Will you go , too ?
+Gehen Sie auch ?	Will you go , too ?
+Sie trägt Zöpfe .	She wore her hair in plaits .
+Habt Erbarmen !	Have mercy !
+Er kochte vor Wut .	He was seething with anger .
+Das Feuer brennt .	The fire burns .
+Mir geht es gut .	I am well .
+Es geht mir gut .	I am well .
+Niemand weiß das .	Nobody knows this .
+Ich hasse Montage .	I hate Mondays .
+Weißt du , warum ?	Do you know why ?
+Ich bin groß .	I 'm big .
+Ich bin groß .	I 'm tall .
+Gehen wir heim !	Let 's go home !
+Shishir folgt mir .	Shishir is following me .
+Schlag ein !	High five !
+Du kennst sie ?	You know who she is ?
+Heute ist Sonntag .	It 's Sunday today .
+Er singt gerne .	He likes to sing .
+Er singt gerne .	He likes singing .
+Stirb nicht , Tom .	Tom , do n't die .
+Sei nicht albern !	Do n't be ridiculous !
+Seid nicht albern !	Do n't be ridiculous !
+Repariere die Uhr .	Fix the watch .
+Repariere die Uhr .	Fix the clock .
+Hör auf damit !	Stop that !
+Hör auf damit !	Stop doing that .
+Hör auf damit !	Cut that out !
+So ist das Leben .	Such is life .
+So ist das Leben .	That 's how life is .
+Ich brauche Hilfe .	I need help .
+Wo ist dein Hund ?	Where 's your dog ?
+Wir sind quitt .	We are even .
+Verpiss dich !	Get lost !
+Verpiss dich !	Piss off !
+Was macht Ken ?	What 's Ken doing ?
+Schönen Muttertag !	Happy Mother 's Day !
+Das Haus ist kalt .	The house is cold .
+Alles ist klar .	Everything is clear .
+Er lernt schnell .	He learns fast .
+Ruhe !	Silence !
+Weißt du es ?	Do you know it ?
+Bleib zu Hause .	Stay at home .
+Sie sind Ärzte .	They 're doctors .
+Du bist reich .	You 're rich .
+Sie ist schön .	She 's beautiful .
+Das ist ungerecht .	It 's not fair .
+Das ist ungerecht .	That 's unfair .
+Das ist ungerecht .	That 's not fair !
+Das ist ungerecht .	This is not fair .
+Das ist ungerecht .	That is unfair .
+Ich bin zufrieden .	I 'm satisfied .
+Er ist Autor .	He 's an author .
+Heute schneit es .	It 's snowing today .
+Es schneit heute .	It 's snowing today .
+Es ist 14 Uhr .	It 's 2:00 p.m .
+Hunde sind treu .	Dogs are faithful .
+Das ist ein Turm .	That 's a tower .
+Er lernt gerade .	He 's now studying .
+Er lernt gerade .	He 's studying .
+Er lernt gerade .	He 's studying now .
+Warte bis morgen .	Wait until tomorrow .
+Was ist Ihr Hobby ?	What 's your hobby ?
+Er isst .	He 's eating .
+Halt die Fresse !	Shut the fuck up !
+Wo ist Papa ?	Where is my dad ?
+Wo ist Papa ?	Where 's Daddy ?
+Ich höre nichts .	I do n't hear anything .
+Er rennt .	He is running .
+Ihr seid Ärzte .	You 're doctors .
+Wusstest du das ?	Did you know that ?
+Wusstest du das ?	Did you know this ?
+Ist das Ihr Wagen ?	Is that your car ?
+Iss mehr Gemüse .	Eat more vegetables .
+Das ist Quatsch .	That 's nonsense .
+Das ist Unsinn .	That 's nonsense .
+Es wird spät .	It 's getting late .
+Jeder liebt es .	Everybody loves it .
+Machen wir es !	Let 's do that !
+Er ist Schweizer .	He is Swiss .
+Es ist besser .	It 's better .
+Scheiße stinkt .	Shit stinks .
+Ihr Haus ist groß .	Your house is big .
+Zeig es mir .	Show it to me .
+Das Ei ist hart .	The egg is hard .
+Er wurde alt .	He was getting old .
+Er ist obdachlos .	He is homeless .
+Er ging bankrott .	He went bankrupt .
+Er ging pleite .	He went bankrupt .
+Ich mag dich sehr .	I really like you .
+Alan ist ein Poet .	Alan is a poet .
+Ich bin bei dir .	I 'm with you .
+Fahr zur Hölle !	Go to hell !
+Hast du mal Feuer ?	Do you have a light ?
+Warum tust du das ?	Why do you do this ?
+Warum tust du das ?	Why do you do it ?
+Warum tust du das ?	Why are you doing this ?
+Wo ist das Café ?	Where 's the cafeteria ?
+Toi , toi , toi .	Touch wood !
+Papier ist weiß .	Paper is white .
+Trinken Sie etwas .	Have a drink .
+Was macht er ?	What 's he doing ?
+Schachmatt !	Checkmate !
+Ich habe Geld .	I have money .
+Ich habe Geld .	I 've got money .
+Ich habe Geld .	I 've got the money .
+Schläfst du ?	Are you asleep ?
+Schläfst du ?	Are you sleeping ?
+Es ist 20 Uhr .	It 's 8 P.M .
+Wie nennt man das ?	What is this called ?
+Der Zug kommt !	The train is arriving !
+Man lernt nie aus .	You live and learn .
+Man lernt nie aus .	Live and learn .
+Es ist kalt heute !	It is cold today .
+Heureka !	Eureka !
+Es ist ein Uhr .	It 's one o'clock .
+Gehen wir essen .	Let 's go out to eat .
+Was ist das Ding ?	What is that thing ?
+Ich gehe auch .	I am going , too .
+Jetzt reicht 's !	Enough is enough !
+Was tut dir weh ?	What hurts you ?
+Heute ist Samstag .	Today is Saturday .
+Es ist Samstag .	It 's Saturday .
+Ich lese oft .	I often read .
+Er sieht oft fern .	He often watches TV .
+Alles fließt .	Everything flows .
+Hau ab !	Get lost !
+Verschwinde !	Get lost !
+Verdufte !	Get lost !
+Mach dich fort !	Get lost !
+Zieh Leine !	Get lost !
+Verzieh dich !	Get lost !
+Verkrümele dich !	Get lost !
+Troll dich !	Get lost !
+Zisch ab !	Get lost !
+Pack dich !	Get lost !
+Mach ’ne Fliege !	Get lost !
+Schwirr ab !	Get lost !
+Mach die Sause !	Get lost !
+Scher dich weg !	Get lost !
+Scher dich fort !	Get lost !
+Ach so !	Ah , okay !
+Scheiße !	Shit !
+Mist !	Darn !
+Das ist mein Haus .	This is my home .
+Ich rufe dich .	I 'll call you .
+Sei vorsichtig !	Be careful .
+Sei vorsichtig !	Beware !
+Ich bin glücklich .	I 'm happy .
+Ich sehe ein Buch .	I see a book .
+Das Buch ist weiß .	The book is white .
+Das Buch ist weiß .	The book 's white .
+Das Buch ist groß .	The book is big .
+Gib sie ihr .	Give them to her .
+Gib sie ihm .	Give them to him .
+Das ist mir neu .	This is new to me .
+Das ist mir neu .	This is news to me .
+Es tut nicht weh .	It does n't hurt .
+Das tut nicht weh .	It does n't hurt .
+Ich ging aus .	I was going out .
+Richtig !	Correct !
+Richtig .	Correct !
+Alle Achtung !	Chapeau !
+Wir stimmen zu .	We agree .
+So ist das Leben !	So goes life !
+Mein Beileid .	My condolences !
+Was ist geschehen ?	What 's happened ?
+Gib es ihm .	Give it to him .
+Gib es ihr .	Give it to her .
+Spring .	Jump .
+Wie machst du das ?	How do you do that ?
+Wie macht man das ?	How do you do that ?
+Wie geht das ?	How do you do that ?
+Wer ist dieser ?	Who is this ?
+Fangen wir an !	Let us begin .
+Fangen wir an !	Let 's start .
+Iss nicht !	Do not eat .
+So ist er eben .	That 's just how he is .
+Wer da ?	Who 's that there ?
+Ich mag nichts .	I do n't like anything .
+Wo ist das Klo ?	Where 's the bathroom ?
+Sag bloß !	You do n't say !
+Jetzt reicht es !	Enough already !
+Gesagt , getan !	No sooner said than done .
+Jesus hasst dich .	Jesus hates you .
+Sie sind reich .	They 're rich .
+Schauen wir mal .	Let 's see .
+Kommen die auch ?	Are they coming , too ?
+Er braute Bier .	He brewed beer .
+Kein Wort von mir !	Mum 's the word .
+Was meinst du ?	What is your opinion ?
+Was meinst du ?	What do you think ?
+Wo willst du hin ?	Where are you heading ?
+Wo willst du hin ?	Where are you off to ?
+Ich mag Uhren .	I like clocks .
+Was haben sie vor ?	What are they up to ?
+Was haben sie vor ?	What 're they up to ?
+Mein Fuß schmerzt .	My foot is aching .
+Mein Fuß tut weh .	My foot is aching .
+Er hasst Karotten .	He hates carrots .
+Kommst du mit ?	Do you want to come ?
+Das ist Quatsch .	That 's rubbish .
+Das ist Quatsch .	That 's hogwash .
+Eile mit Weile .	Hasten slowly .
+Wer dann ?	Then who ?
+Wer denn dann ?	Then who ?
+Gute Besserung !	Get well soon !
+Ich laufe zurück .	I return walking .
+Mir doch egal .	I do n't give a shit .
+Ich mache Kaffee .	I 'm making coffee .
+Blödmann !	You blockhead !
+Tschüss !	Bye !
+Tschüss !	Bye .
+Tschau !	Bye !
+Tschüs !	Bye !
+Das ist mir egal .	That does n't matter to me .
+Das ist mir egal .	I do not mind .
+Jetzt oder nie !	Now or never .
+Worum geht es ?	What 's it about ?
+Wo ist er ?	Where is it ?
+Wo ist er ?	Where is he ?
+Hör mal auf !	Stop that !
+Hör mal auf damit !	Stop that !
+Gib es zurück !	Give it back !
+Bitte ruf ihn an .	Please telephone him .
+Bitte ruf ihn an .	Please phone him .
+Bitte ruf ihn an .	Please call him .
+Bis nächste Woche !	See you next week .
+Jeder kennt jeden .	Everyone knows everyone .
+Jeder kennt jeden .	Everybody knows everybody .
+Er kommt mittags .	He comes at noon .
+Raus hier !	Get outta here !
+Nicht noch einmal !	Not again !
+Ich bin Japanerin .	I am Japanese .
+Bleib bei uns .	Stay with us .
+Mir geht es gut .	I am fine .
+Mir geht es gut .	I 'm alright .
+Mir geht es gut .	I 'm all right .
+Mir geht es gut .	I 'm doing okay .
+Mir geht es gut .	I 'm well .
+Niemand weiß das .	No one knows that .
+Ich zahle voraus .	I prepay .
+Grüß Gott !	Good day !
+Glaube mir doch !	Believe you me .
+Glaube mir !	Believe you me .
+Heute regnet es .	It 's raining today .
+Heute regnet es .	Today , it 's raining .
+Sag mir mehr .	Tell me more .
+Erzähl mir mehr .	Tell me more .
+Ich liebe Pizza .	I love pizza .
+Geh schlafen !	Go to bed !
+Geh schlafen !	Go to bed .
+Glaube mir !	Believe me !
+Ich bin Japanerin .	I am a Japanese woman .
+Welche ist meine ?	Which one is mine ?
+Hau ab !	You disappear .
+Hau ab !	Bugger off .
+Hau ab !	Bugger off !
+Ist das Liebe ?	Is it love ?
+Ist das Liebe ?	Is that love ?
+Ich bin Georg .	I am Jorge .
+Was hast du ?	What 's wrong with you ?
+Was hast du denn ?	What 's wrong with you ?
+Du bist verrückt !	You 're crazy !
+Du bist verrückt !	You 're off your trolley !
+Du bist verrückt !	You 're nuts !
+Ihre Nase blutet .	Her nose is bleeding .
+Sie sagte nichts .	She said nothing .
+Hass mich nicht !	Do n't hate me !
+Frauen zuerst !	Ladies first !
+Glaube mir .	Believe me .
+Wo gehst du hin ?	Where are you heading ?
+Wohin gehen Sie ?	Where are you heading ?
+Wo geht ihr hin ?	Where are you heading ?
+Wo machen sie das ?	Where do they do that ?
+Mathe ist scheiße .	Math sucks .
+Ihr seid Kinder .	You are children .
+Ich esse nicht .	I am not eating .
+Sie will tanzen .	She wants to dance .
+Ich esse nicht .	I 'm not eating .
+Schläft sie ?	Is she sleeping ?
+Er rannte .	He ran .
+Er lief .	He ran .
+Du läufst .	You run .
+Sie laufen .	You run .
+Er rennt .	He runs .
+Er läuft .	He runs .
+Er rennt .	He 's running .
+Sie rennt .	She runs .
+Sie rennt .	She is running .
+Das ist alles ?	That all you 've got ?
+Ist das alles ?	Is this everything ?
+Ist das alles ?	That all you 've got ?
+Er hat mein Alter .	He 's my age .
+Hau bloß ab hier !	Get the fuck out of here .
+Glaube mir .	Believe me !
+Horch !	Hark !
+Das macht nichts !	It does n't matter !
+Es macht nichts .	It does n't matter !
+Mein Fuß schmerzt .	I have a pain in my foot .
+Mein Fuß schmerzt .	My foot hurts .
+Guten Tag !	Good day !
+Guten Tag !	Good afternoon !
+Sie war am Tatort .	She was at the crime scene .
+Ich werde geliebt .	I 'm loved .
+Genug ist genug !	Enough is enough !
+Das Maß ist voll !	Enough is enough !
+Wo bist du jetzt ?	Where are you now ?
+Wo seid ihr jetzt ?	Where are you now ?
+Wo sind Sie jetzt ?	Where are you now ?
+Wähle bitte weise .	Please choose wisely .
+Wähle bitte klug .	Please choose wisely .
+Sie können singen .	They 're able to sing .
+Zielen !	Take aim at the target .
+Das Baby ist wach .	The baby 's awake .
+Tom fing den Ball .	Tom caught the ball .
+Er steht früh auf .	He 's getting up early .
+Fliegst du oft ?	Do you fly frequently ?
+Fliegen Sie oft ?	Do you fly frequently ?
+Fliegt ihr oft ?	Do you fly frequently ?
+Ich rieche Benzin .	I smell gas .
+Ich rieche Gas .	I smell gas .
+Suchen Sie Arbeit ?	Are you looking for a job ?
+Suchst du Arbeit ?	Are you looking for a job ?
+Mein Fuß tut weh .	I have a pain in my foot .
+Tom sucht Arbeit .	Tom is seeking a job .
+Eis ist fest .	Ice is solid .
+Ich bin verwirrt .	I am baffled .
+Stimmt das ?	Is this true ?
+Kühe fressen Gras .	Cows eat grass .
+Haben Sie Geld ?	Do you have money ?
+Habt ihr Geld ?	Do you have money ?
+Hast du Geld ?	Do you have money ?
+Er erpresste mich .	He blackmailed me .
+Ihr Buch ist hier .	Your book is here .
+Wichser .	Wanker .
+Er redet schnell .	He speaks quickly .
+Was hat er ?	What 's the matter with him ?
+Was meinen Sie ?	What is your opinion ?
+Wann schreibst du ?	When do you write ?
+Wo leben sie ?	Where do they live ?
+Wo wohnt ihr alle ?	Where do you all live ?
+Wo schreibst du ?	Where do you write ?
+Wo ist sie ?	Where is it ?
+Wo ist es ?	Where is it ?
+Wo ist Mutti ?	Where is mom ?
+Wo ist Mama ?	Where is mom ?
+Wo ist das Tor ?	Where is the gate ?
+Wo ist das Eis ?	Where 's the ice ?
+Welches ist neu ?	Which is new ?
+Wo ist mein Büro ?	Where is my office ?
+Möchten Sie Brot ?	Would you like bread ?
+Schreib bald !	Write soon !
+Ja , bitte .	Yes , please .
+Du bist zu groß .	You are too big .
+Nichts zu danken .	You are welcome .
+Ich bin 27 .	I 'm 27 .
+Ich bin 24 .	I 'm 24 years old .
+Ich bin 24 .	I 'm 24 .
+Rauchen tötet .	Smoking kills .
+Wo ist das WC ?	Where is the restroom ?
+Ich nehme dieses .	I 'll take that one .
+Hm , vielleicht !	Hmm , maybe !
+Du kamst zu spät .	You came too late .
+Es ist mir wayne .	I do n't give a fuck .
+Gib uns Frieden !	Give us peace !
+Ruhe in Frieden .	Rest in peace .
+Ich will dieses .	I want this one .
+Der Weg ist lang .	The way is long .
+Brauchst du Geld ?	Do you need money ?
+Brauchen Sie Geld ?	Do you need money ?
+Eigelbe sind gelb .	Yolks are yellow .
+Ingo liebt sie .	Ingo loves her .
+Bastard !	Duh .
+Sie ist Li Ying .	She is Li Ying .
+Sie braucht es .	She needs it .
+Sie braucht ihn .	She needs it .
+Sie braucht sie .	She needs it .
+Wohnen Sie allein ?	Do you live alone ?
+Wohnt ihr allein ?	Do you live alone ?
+Wohnst du allein ?	Do you live alone ?
+Oh , schweige !	Oh , hush !
+Er mag Angeln .	He loves to fish .
+Nicht anfassen !	Do n't touch that .
+Nicht anfassen !	Do n't touch this !
+Ich bin 18 .	I 'm 18 years old .
+Verschwinde !	You disappear .
+Tom ist weg .	Tom 's gone .
+Tom ist weg .	Tom is gone .
+Tom ist nicht da .	Tom is n't around .
+Tom ist nicht da .	Tom is n't in .
+Warum weinst du ?	What are you crying for ?
+Warum weinst du ?	What makes you cry ?
+Ich mag Saschimi .	I like sashimi .
+Ich war im Kino .	I was at the cinema .
+Es eilte .	It was urgent .
+Es war dringend .	It was urgent .
+Bitte mehr Kaffee .	More coffee , please .
+Das ist neu .	This is new .
+Sie wurden nervös .	They became nervous .
+So lasse es .	So be it .
+So sei es .	So be it .
+Es ist gut so .	So be it .
+So sei es denn !	So be it .
+Rühr die Suppe um .	Stir the soup .
+Wo ist der Regen ?	Where is the rain ?
+Ist es das ?	Is this it ?
+Das ist kaputt .	That 's broken .
+Wie machst du das ?	How do you do this ?
+Wen erwarten Sie ?	Whom do you expect ?
+Er ist heldenhaft .	He is heroic .
+Er weinte .	He was crying .
+Ich zahle bar .	I pay in cash .
+Ich bin unterwegs .	I 'm on my way .
+Wann geht es los ?	When will it begin ?
+Wir sind Schüler .	We 're students .
+Isst du Paprika ?	Do you eat bell peppers ?
+Esst ihr Paprika ?	Do you eat bell peppers ?
+Zähl bis dreißig .	Count to thirty .
+Das braucht Zeit .	It takes time .
+Habt ihr ein Auto ?	Have you got a car ?
+Lass nicht los !	Hold on to it .
+Ehre sei Buddha !	Praise be to Buddha .
+Tom kocht gut .	Tom cooks well .
+Es ist keine Uhr .	It 's not a watch .
+Wie siehst du aus ?	What do you look like ?
+Mögen Sie Orangen ?	Do you like oranges ?
+Mögen sie Orangen ?	Do they like oranges ?
+Ich liebe Sport .	I love sports .
+Wer hat gegessen ?	Who ate ?
+Ist hier jemand ?	Is someone here ?
+Genieße das Glück .	Enjoy the happiness .
+Sie schielte .	She had a lazy eye .
+Sie hat geschielt .	She had a lazy eye .
+Das passt mir gut .	Suits me fine .
+Er sagte nichts .	He said nothing .
+Wie läuft das ?	How does this work ?
+Es ist mein Pferd .	It 's my horse .
+Ich bin Antonio .	I am Antonio .
+Ich heiße Luis .	My name is Luis .
+Ich weiß das .	I know that .
+Das weiß ich .	I know that .
+Was verletzt dich ?	What hurts you ?
+Ich bin Italiener .	I 'm Italian .
+Ich bin Italiener .	I am Italian .
+Ich bin im Auto .	I 'm in the car .
+Susan raucht nie .	Susan never smokes .
+Ron surft gerne .	Ron likes surfing .
+Sie raucht viel .	She smokes a lot .
+Er wohnt nebenan .	He lives next door .
+Wie steht es ?	What 's the score ?
+Kennst du den Weg ?	Do you know the way ?
+Weißt du den Weg ?	Do you know the way ?
+Nennt mich Ismael .	Call me Ishmael .
+Es ist windig .	It 's windy .
+Wer ist Herr Owen ?	Who is Mr. Owen ?
+Ist es wichtig ?	Is it important ?
+Ist es wichtig ?	Is that important ?
+Es ist Mittag .	It is midday .
+Reicht das Geld ?	Is this enough money ?
+Es war niemand da .	No one was there .
+Kannst du Latein ?	Do you know Latin ?
+Nichts zu danken .	You do n't need to thank me .
+Er war durstig .	He was thirsty .
+Er hatte Durst .	He was thirsty .
+Bei Gott .	Oh god .
+Wie romantisch !	How romantic !
+Ich arbeite hier .	I work here .
+Ich trete zurück .	I resign .
+Bist du fertig ?	Are you finished ?
+Nix für ungut !	No hard feelings !
+Nix für ungut !	No offence !
+Nix für ungut !	No offense !
+Er hat viel Geld .	He has much money .
+Ich bin John .	I am John .
+Bist du Johannes ?	Are you John ?
+Wer ist das ?	Who 's that ?
+Wer ist das ?	Who is that ?
+So , da wären wir !	There we are !
+Was stört Sie ?	What do n't you like ?
+Wer isst Bienen ?	Who eats bees ?
+Das ist der Dachs !	That 's the badger !
+Ich bin eine Frau .	I am a woman .
+Ich bin eine Frau .	I 'm a woman .
+Ich mag Eiscreme .	I love ice cream .
+Ich liebe Eis .	I love ice cream .
+Ich liebe Schnee .	I love snow .
+Lebe und lerne .	Live and learn .
+Ich mag Schnee .	I like snow .
+Paul redet viel .	Paul talks a lot .
+Darf ich auch mit ?	Can I come too ?
+Wir sind Ärzte .	We 're doctors .
+Wo ist mein Satz ?	Where is my sentence ?
+Die Nutte ist alt .	The hooker is old .
+Was gibt ’s Neues ?	What gives ?
+Ich gebe es auf .	I 'm giving up on it .
+Gut gesagt !	Well said !
+Du nervst mich .	You 're annoying me .
+Wo seid ihr ?	What 's your location ?
+Wo seid ihr ?	Where are you guys ?
+Es geht mir gut .	I 'm doing well .
+Ich studiere .	I study .
+Ich studiere .	I 'm studying .
+Ich lerne .	I study .
+Der Vater ist gut .	The father is good .
+Es ist warm heute .	It 's warm today .
+Es ist heute warm .	It 's warm today .
+Weck ihn nicht .	Do n't wake him up .
+Weck sie nicht .	Do n't wake her up .
+Weck sie nicht .	Do n't wake them up .
+Zack , zack !	Look sharp !
+Mach hin !	Look sharp !
+Zack , zack !	Chop , chop !
+Das ist besser .	This is better .
+Tom sucht Arbeit .	Tom 's looking for work .
+Tom sucht Arbeit .	Tom is looking for a job .
+Tom sucht Arbeit .	Tom is looking for work .
+Sein Zeh blutet .	His toe bleeds .
+Ihr Finger blutet .	Her finger bleeds .
+Ihr Zeh blutet .	Her toe bleeds .
+Ich mag Käsepizza .	I like cheese pizza .
+Ich bin der Beste .	I 'm the best .
+Gib es auf !	Give up !
+Er mag Musik sehr .	He likes music a lot .
+Du darfst gehen .	You 're free to go .
+Du darfst gehen .	You are free to go .
+Du darfst gehen .	You 're allowed to go .
+Ist das nicht so ?	Is this not so ?
+Gute Fahrt !	Safe journey .
+Du wirst rot !	You are blushing .
+Es geht mir gut .	I feel good .
+Jetzt aber dalli !	Sharp 's the word !
+Mein Fuß tut weh .	My foot hurts .
+Es klappt gut .	It works well .
+Mach es selbst !	Do it yourself !
+Mache es selber !	Do it yourself !
+Mache das selbst !	Do it yourself !
+Machs doch selber !	Do it yourself !
+Wie sagt man das ?	How do you say that ?
+Es tat mir leid .	I felt bad .
+Wieso lügst du ?	Why do you lie ?
+Es tat mir leid .	I was sorry .
+Lass es sein .	Let it be .
+Lass es bleiben .	Let it be .
+Hast du Kinder ?	Do you have kids ?
+Hoffen wir 's mal .	Let 's hope so .
+Jemand rief an .	Someone called .
+Lass mich gehen !	Let me leave !
+Ich heiße Sally .	My name is Sally .
+Was ist mit dir ?	What about you ?
+Ich lebte in Rom .	I lived in Rome .
+Ich muss lernen .	I have to learn .
+Der Mann aß Brot .	The man ate bread .
+Woran denkst du ?	What 're you thinking about ?
+Hör auf !	Cut that out !
+Der Mann aß Brot .	That man ate bread .
+Ich aß den Apfel .	I ate the apple .
+Er gab auf .	He gave up .
+Er sprach .	He spoke .
+Ich habe Angst .	I am afraid .
+Wie ist ihr Name ?	What 's her name ?
+Es regnet nicht .	It is not raining .
+Sag es .	Say it .
+Sprich !	Say it .
+Sag 's .	Say it .
+Sagt schon .	Say it .
+Sagen Sie schon .	Say it .
+Ich mag was essen .	I like to eat .
+Ich lerne Quechua .	I am learning Quechua .
+Er ist groß .	He is tall .
+Sie sind groß .	They are big .
+Sind sie groß ?	Are they tall ?
+Wann kommt er ?	When does he come ?
+Wer ist Pedro ?	Who is Pedro ?
+Bist du der Chef ?	Are you the boss ?
+Ich habe ein Haus .	I have a house .
+Ich habe ein Haus .	I have a home .
+Ist das dein Haus ?	Is that your house ?
+Ist das ein Lama ?	Is it a llama ?
+Ich mag mein Haus .	I like my house .
+Ich habe Brüder .	I have brothers .
+Ich höre dich .	I hear you .
+Du hörst mich .	You hear me .
+Komm nicht .	Do n't come .
+Kommt nicht !	Do n't come .
+Kommen Sie nicht !	Do n't come .
+Geh nicht .	Do n't go .
+Die Männer kommen .	The men are coming .
+Das ist enorm .	That 's huge .
+Das ist enorm .	That is enormous .
+Ich mag die Sonne .	I like the sun .
+Er winkte ihr zu .	He waved at her .
+Er schreit viel .	He shouts a lot .
+Schrei laut !	Scream it loud !
+Ich kann fliegen .	I can fly .
+Ich kann fliegen .	I know how to fly .
+Hast du eine Frau ?	Do you have a wife ?
+Ich liebe ihn .	I love him .
+Ich lerne Quechua .	I learn Quechua .
+Hier regnet es .	It 's raining here .
+Hier schneit es .	It 's snowing here .
+Dort schneit es .	It snows there .
+Es regnet dort .	It 's raining there .
+Es schneit dort .	It 's snowing there .
+Seid ihr krank ?	Are you ill ?
+Er schreit viel .	He screams a lot .
+Er schreit viel .	He is screaming a lot .
+Ich bin besser .	I am better .
+Hörst du mir zu ?	Are you listening ?
+Hörst du zu ?	Are you listening ?
+Hörst du ?	Are you listening ?
+Vertraust du ihr ?	Do you trust her ?
+Vertraut ihr ihr ?	Do you trust her ?
+Vertrauen Sie ihr ?	Do you trust her ?
+Das ist auch wahr .	That 's true as well .
+Worüber lachst du ?	What 're you laughing at ?
+Warum lernst du ?	Why are you studying ?
+Ich möchte das da .	I want that one .
+Ich bin Anthony .	I am Anthony .
+Er ist im Brunnen .	He 's in the well .
+Es ist im Brunnen .	It 's in the well .
+Es macht Sinn .	It makes sense .
+Es hat Sinn .	It makes sense .
+Das macht Sinn .	That makes sense .
+Das ergibt Sinn .	That makes sense .
+Wo ist der Wodka ?	Where is the vodka ?
+Wo ist der Wodka ?	Where 's the vodka ?
+Das macht Sinn .	It makes perfect sense .
+Was sagst du ?	What are you saying ?
+Was sagst du ?	What do you say ?
+Ich bin besser .	I 'm better .
+Nein !	No !
+Glaubst du das ?	Are you buying into this ?
+Er hat eine Fahne .	He has boozy breath .
+Führt ihn ab !	Take him away .
+Abführen !	Take him away .
+Wann kommt er ?	When will he come ?
+Sind sie groß ?	Are they big ?
+Ich habe Angst .	I 'm scared .
+Ich habe Angst .	I 'm afraid .
+Wo sind Sie ?	What 's your location ?
+Sie ist Studentin .	She 's a student .
+Nicht stören !	Do not disturb .
+Jemand rief an .	Somebody called .
+Gib Gas !	Step on it !
+Das ist Unsinn .	That 's rubbish .
+Das ist Unsinn .	This is nonsense .
+Spiel mir Chopin .	Play me some Chopin .
+Bleib ruhig .	Stay calm .
+Bleiben Sie ruhig .	Stay calm .
+Bleib ruhig .	Feel free to stay .
+Bleib ruhig .	Stay cool .
+Ich bin Muslim .	I am a Muslim .
+Ich bin Moslem .	I am a Muslim .
+Ich ruhe mich aus .	I 'm resting .
+Ich esse Mittag .	I 'm eating lunch .
+Er ist gekommen !	He has come !
+Wie beschämend !	How shameful !
+Weil es ihn gibt .	Because it exists .
+Wir war es ?	How was it ?
+Hörst du mir zu ?	Are you listening to me ?
+Er ist Pariser .	He 's a Parisian .
+Er ist das Recht .	He is the law .
+Lüge nicht !	Do n't lie !
+Sie ist verrückt .	She 's out of her mind .
+Es ist besser so .	It 's better that way .
+Das ist ein Glück .	That 's fortunate .
+Ich liebe Golf .	I love golf .
+Schau dich um .	Look around you .
+Das ist ein Turm .	This is a tower .
+Ich bin neu hier .	I am new here .
+Ich bin neu hier .	I 'm new here .
+Installier Linux !	Install Linux !
+Installiere Linux !	Install Linux !
+Er blieb im Hotel .	He stayed at the hotel .
+Er blieb im Hotel .	He stayed at a hotel .
+Ich habe recht .	I am right .
+Ich habe Recht .	I am right .
+Blumen sind gelb .	Flowers are yellow .
+Das Buch ist rot .	The book is red .
+Komm mit mir !	Come with me !
+Er war sofort tot .	He was killed instantly .
+Existiere ich ?	Do I exist ?
+Gibt es mich ?	Do I exist ?
+Existiert er ?	Does it exist ?
+Ob es sie gibt ?	Does she exist ?
+Existiert sie ?	Does she exist ?
+Gibt es sie ?	Does she exist ?
+Was hast du vor ?	What are you planning to do ?
+Was habt ihr vor ?	What are you planning to do ?
+Was haben Sie vor ?	What are you planning to do ?
+Schäme dich !	Shame on you .
+Macht korrumpiert .	Power brings corruption .
+Sie ohrfeigte ihn .	She slapped him .
+Die Nation wuchs .	The nation was growing .
+Er macht Kekse .	He 's making biscuits .
+Nun verstehe ich .	I understand now .
+Nun verstehe ich .	I understand that now .
+Noch nicht .	Not yet .
+Echt ?	Seriously ?
+Echt ?	No kidding ?
+Da kommt der Zug .	There comes the train .
+Ich bin Ausländer .	I 'm a foreigner .
+Ich bin rechts .	I am on the right .
+Verstehst du mich ?	Do you get me ?
+Versteht ihr mich ?	Do you guys understand me ?
+Das ist gratis .	That 's free .
+Man lernt nie aus !	You live and learn .
+Keine Panik !	Do n't panic !
+Stets zu Diensten !	Always at service !
+Kommt drauf an .	It depends .
+Wann passt es dir ?	When is good for you ?
+Ich bin der Böse .	I 'm the bad one .
+Ich bin die Böse .	I 'm the bad one .
+Stimmt das ?	Is that right ?
+Warum miaust du ?	Why are you meowing ?
+Fast immer .	Almost always .
+Heil dir , Caesar !	Hail , Caesar !
+Komme bloß !	Make sure you 'll come .
+Du bist Tubist ?	Are you a tubist ?
+Ich lüge nie .	I never lie .
+Nun erst recht !	Now more than ever !
+Heureka !	Gotcha !
+Wasser ist nass .	Water is wet .
+Wasser ist schwer .	Water is heavy .
+April , April !	April fools !
+Ich habe Grippe .	I got the flu .
+Mehr Arbeit ?	More work ?
+Du bist Arzt .	You 're a doctor .
+Jesus liebt dich .	Jesus loves you .
+Jesus liebt euch .	Jesus loves you .
+Jesus liebt Sie .	Jesus loves you .
+Muss ich gehen ?	Do I have to go ?
+Denkste !	That 's what you think !
+Versuchen wir 's !	Let 's give it a try .
+Hab dich !	Gotcha !
+Sag einfach nein .	Just say no .
+Ich hasse dich .	I hate you .
+Ich bin Ungar .	I am Hungarian .
+Ich bin Ungarin .	I am Hungarian .
+Ich bin Ungar .	I 'm Hungarian .
+Sollen wir tanzen ?	Shall we dance ?
+Das war ein Uhu .	That was an eagle owl .
+Das sah böse aus .	That looked bad .
+Ich bin dabei .	I 'm game .
+Ich mache mit .	I 'm game .
+Ich mache mit .	I will join you .
+Ich mache mit .	I 'll join you .
+Die Wahrheit ?	The truth ?
+Gehst du ?	You 're going ?
+Geht ihr ?	You 're going ?
+Gehen Sie ?	You 're going ?
+Ich gehe zurück .	I 'm going back .
+Er ist schnell .	He 's fast .
+Er wirkt hungrig .	He seems hungry .
+Siehe da !	Lo and behold !
+Das ist voll cool .	This is well good .
+Er ist kein Idiot .	He 's not an idiot .
+Die See ist rau .	The sea is rough .
+Wo ist der Zoo ?	Where 's the zoo ?
+Das Dach leckt .	The roof leaks .
+Bin ich geeignet ?	Am I qualified ?
+Ich sah niemanden .	I did n't see anybody .
+Susan mag Katzen .	Susan likes cats .
+Es ist zu spät .	It 's too late .
+Sie weinte .	She was crying .
+Ich muss scheißen .	I need to shit .
+Hast du ein Kind ?	Do you have a child ?
+Sie raucht nicht .	She does not smoke .
+Schließe die Türe .	Close the gate .
+Schließ das Tor .	Close the gate .
+Sie kam .	She came .
+Er kam .	He came .
+Das ist ihr Auto .	That is her car .
+Das ist ihr Wagen .	That is her car .
+Ich werde lernen .	I will learn .
+Ich heiße Ludwig .	My name is Ludwig .
+Guten Tag .	Good day !
+Üben Sie täglich .	Exercise every day .
+Das ist meine CD .	That 's my CD .
+Ich nutze Twitter .	I am using Twitter .
+Sie lebt allein .	She lives alone .
+Ich gehe zurück .	I am going back .
+Wo waren wir ?	Where were we ?
+Ich sehe den Hund .	I see the dog .
+Wie alt bin ich ?	How old am I ?
+Kommst du morgen ?	Will you come tomorrow ?
+In Gottes Namen !	For God 's sake !
+Um Gottes willen !	For God 's sake !
+Sie ist eine Hure .	She is a whore .
+Bitte singe etwas .	Sing something , please .
+Wo kommen sie her ?	Where are they from ?
+Woher kommen sie ?	Where are they from ?
+Tu das nicht !	Do not do that .
+Der Junge springt .	The boy is jumping .
+Das Pferd springt .	The horse is jumping .
+Der Hund springt .	The dog is jumping .
+Wer liest ?	Who is reading ?
+Das ist leicht .	This is easy .
+Das ist schwierig .	This is difficult .
+Das ist schwer .	This is difficult .
+Oh , weißt du was ?	Oh , you know what ?
+Interessant .	Interesting .
+Bitte fahr fort !	Please continue .
+OK , kein Problem .	OK , no problem .
+Sowas passiert .	These things happen .
+Das ist ernst .	This is serious .
+Wer war Mona Lisa ?	Who was Mona Lisa ?
+Wer ist da ?	Who is there ?
+Ist sie nett ?	Is she nice ?
+Ich sehe ein Haus .	I see a house .
+Ich sehe das Haus .	I see the house .
+Zeige mir deins !	Show me yours !
+Gehe nicht weg !	Do n't leave !
+Geh nicht weg !	Do n't leave !
+Mache es !	Do it !
+Kein Kommentar .	No comment .
+Wo bin ich jetzt ?	Where am I now ?
+Und warum das ?	And why is that ?
+Schön . Wo ?	Fine . Where ?
+Niemand ging hin .	Nobody went there .
+Wurde sie gesehen ?	Was she seen ?
+Wir brauchen mehr .	We need more .
+Es ist mehr nötig .	More is needed .
+Ihr Vater starb .	Her father died .
+Sie sind drinnen .	They 're inside .
+Es ist sieben Uhr .	It 's seven o'clock .
+Schnell raus hier !	Get out of here quickly !
+Sie war depressiv .	She was depressed .
+Was erwartest du ?	What do you expect ?
+Worauf wartest du ?	What are you waiting for ?
+Ähh …	Err ...
+Okay .	Okey-dokey .
+Darf ich gehen ?	May I go ?
+Ich gehe arbeiten .	I go to work .
+Nein , gar nicht .	No , not at all .
+Ich helfe dir .	I 'm helping you .
+Ich helfe dir .	I will help you .
+Ich weiß das .	I know this .
+Das ist ihr Auto .	That 's her car .
+Mal sehen ...	Let 's see ...
+Eine Biene summt .	A bee buzzes .
+Er duscht gerade .	He 's taking a shower .
+Wir lieben sie .	We love them .
+Meinen sie uns ?	Are they looking at us ?
+Ich gehe joggen .	I go jogging .
+Carol hat Kopfweh .	Carol has a headache .
+Kühe rülpsen viel .	Cows burp a lot .
+Suche eines aus .	Choose one .
+An die Arbeit !	Get to work .
+Er kommt näher .	He 's coming closer .
+Ich nutze Twitter .	I use Twitter .
+Folgen Sie mir !	Follow me !
+Folgt mir !	Follow me !
+Mike wartet unten .	Mike is waiting downstairs .
+Sie verehrt ihn .	She adores him .
+Sie betet ihn an .	She adores him .
+Sie griff ihn an .	She attacked him .
+Sie biss ihn .	She bit him .
+Sie erpresste ihn .	She blackmailed him .
+Sie rief ihn an .	She called him .
+Sie kocht für ihn .	She cooks for him .
+Sie bezwang ihn .	She defeated him .
+Sie verachtet ihn .	She despises him .
+Sie vergab ihm .	She forgave him .
+Sie massierte ihn .	She gave him a massage .
+Sie hasst ihn .	She hates him .
+Sie hilft ihm .	She helps him .
+Sie umarmte ihn .	She hugged him .
+Sie erpresst ihn .	She is blackmailing him .
+Sie kocht für ihn .	She is cooking for him .
+Sie hilft ihm .	She is helping him .
+Sie küsst ihn .	She is kissing him .
+Sie hört ihm zu .	She is listening to him .
+Sie küsste ihn .	She kissed him .
+Sie mag ihn .	She likes him .
+Sie liebt ihn .	She likes him .
+Sie hört ihm zu .	She listens to him .
+Sie hört auf ihn .	She listens to him .
+Sie wohnt bei ihm .	She lives with him .
+Sie liebt ihn .	She loves him .
+Sie vermisst ihn .	She misses him .
+Er fehlt ihr .	She misses him .
+Sie gehorcht ihm .	She obeys him .
+Sie ist ihm hörig .	She obeys him .
+Sie saß neben ihm .	She sat next to him .
+Sie erschoss ihn .	She shot him .
+Sie erstach ihn .	She stabbed him .
+Sie ärgerte ihn .	She teased him .
+Sie drohte ihm .	She threatened him .
+Sie fesselte ihn .	She tied him up .
+Sie vertraut ihm .	She trusts him .
+Sie versteht ihn .	She understands him .
+Sie will ihn .	She wants him .
+Sie ging mit ihm .	She went with him .
+Sie weckte ihn .	She woke him up .
+Sie verehrt ihn .	She worships him .
+Sie betet ihn an .	She worships him .
+Es schifft .	It 's pissing with rain .
+Es schifft .	It 's bucketing down .
+Ich bin Farshad .	I 'm Farshad .
+Bewege dich leise .	Move quietly .
+Beweg dich leise .	Move quietly .
+Nichts ist heilig .	Nothing is holy .
+Er ging ins Bett .	He got into bed .
+Haben Sie Husten ?	Do you have a cough ?
+Fast alle kamen .	Almost everyone came .
+Das Ende ist nahe .	The end is nigh .
+Folgen Sie mir .	Follow behind me .
+Folgt mir nach .	Follow behind me .
+Steh auf !	Get up .
+Schau , schau !	Look , look !
+Ich bin Professor .	I 'm a professor .
+Das ist Huhn .	That 's chicken .
+Da war niemand .	There was nobody .
+Er steht früh auf .	He gets up early .
+Abschreiber !	Copier !
+Abschreiber !	Copycat !
+Es ist sieben Uhr .	It is seven o'clock .
+Ich mag Sprachen !	I like languages !
+Wo wohnt Iain ?	Where does Iain live ?
+Ihr braucht es .	You need it .
+Sie brauchen es .	You need it .
+Frauen sind schön .	Women are beautiful .
+Wir kennen sie .	We know her .
+Wir kennen sie .	We know them .
+Gibt es noch Salz ?	Is there salt left ?
+Bitte ruft ihn an .	Please telephone him .
+Bitte ruft ihn an .	Please phone him .
+Bitte ruft ihn an .	Please call him .
+Ich scherze nicht .	I am not kidding .
+Ich scherze nicht .	I kid you not .
+Ich scherze nicht .	I 'm not joking .
+Er kommt aus Genf .	He comes from Geneva .
+Das hast du getan !	This is your doing !
+Sei leise .	Quiet down .
+Beruhigt euch .	Quiet down .
+Seid leise .	Quiet down .
+Seien Sie leise .	Quiet down .
+Ich helfe dir .	I 'll help you .
+Lauf !	Run !
+Kinder , hört zu !	Kids , listen !
+Seid ihr sicher ?	Are you sure about this ?
+Schäm dich !	Shame on you .
+Ich bin Antonio .	I 'm Antonio .
+Daheim ist daheim .	There 's no place like home .
+Er lügt .	He is lying .
+Er lügt .	He 's lying .
+Sie lief rot an .	She blushed .
+Ich brauche Hilfe .	I 'm going to need help .
+Das ist ein Hund .	That is a dog .
+Nichts ist heilig .	Nothing 's sacred .
+Tom ist Student .	Tom is a college student .
+Tom ist Student .	Tom is in college .
+Es beschämt mich .	It mortifies me .
+Was sagt er ?	What does he say ?
+Wovon handelt es ?	What is it about ?
+Was denkst du ?	What do you think ?
+Er sucht Arbeit .	He 's looking for a job .
+Komm her !	Come here !
+Haltet den Dieb !	Stop ! Thief !
+Haltet den Dieb !	Get the thief !
+Haltet den Dieb !	Stop thief !
+Haltet den Dieb !	Stop that thief !
+Achtung , bitte !	Attention , please !
+Es eilt nicht .	There 's no urgency .
+Hisst die Segel !	Hoist the sails !
+Er spinnt total .	He 's totally lost it .
+Sie geht zu Bob .	She is going to Bob 's .
+Ich mag Kaffee .	I love coffee .
+Ich liebe Kaffee .	I love coffee .
+Sie mögen Kaffee .	They love coffee .
+Wir lieben Kaffee .	We love coffee .
+Du magst Kaffee .	You love coffee .
+Du liebst Kaffee .	You love coffee .
+Er liebt Kaffee .	He loves coffee .
+Sie liebt Kaffee .	She loves coffee .
+Vergiß sie .	Forget her .
+Du bist schwanger .	You are pregnant .
+Zieh Leine !	Bug off !
+Verzieh dich !	Bug off !
+Er lügt !	He lies !
+Er lügt !	He 's lying !
+Sie lügt !	She lies !
+Sie lügt !	She 's lying !
+Du lügst !	You 're lying !
+Das ist illegal .	That 's illegal .
+Ich sehe nichts !	I do n't see anything !
+Er hat zugenommen .	He has gained weight .
+Ich bade .	I 'm taking a bath .
+Ich bade gerade .	I 'm taking a bath .
+Ich nehme ein Bad .	I 'm taking a bath .
+Liebt eure Feinde .	Love your enemies .
+Ein Bier , bitte !	One beer , please !
+Sie ist ein Genie .	She is a genius .
+Das Eis schmilzt .	The ice cream is melting .
+Sprich langsamer .	Speak slower .
+Er ist pummelig .	He is chubby .
+Bist du zufrieden ?	Are you content ?
+Du lügst .	You lie .
+Du lügst .	You 're lying .
+Ich bin schwul .	I 'm gay .
+Ich bin schwul .	I am gay .
+Gesundheit !	Gesundheit !
+Das ist ein Hotel .	This is a hotel .
+Sei anwesend .	Be there .
+Sei anwesend .	Be present .
+Bring ihn zu mir !	Bring him to me .
+Ah , sitzen !	Ah , sit !
+Gib es ihm .	Hand it to him .
+Wir werden sehen .	We 'll see .
+Sind Sie sicher ?	Are you sure about this ?
+Hunde bellen .	Dogs bark .
+Ich hasse Mücken .	I hate mosquitoes .
+Gib es mir .	Give it to me .
+Gib es mir .	Pass it to me .
+Ernsthaft ?	Seriously ?
+Ernsthaft ?	No kidding ?
+Im Ernst ?	Seriously ?
+Im Ernst ?	No kidding ?
+Ist sie weg ?	Is she gone ?
+Problem gelöst !	Problem solved !
+Du sprichst .	You speak .
+Sie sprechen .	You speak .
+Sei mein Gast !	Be my guest !
+Seid meine Gäste !	Be my guests !
+Ich war krank .	I was sick .
+Ich bin blau .	I 'm drunk .
+Quatsch .	Poppycock .
+Quatsch .	Bullshit .
+Frohe Weihnachten !	Happy Christmas !
+Ich esse Brot .	I eat bread .
+Ich esse Brot .	I 'm eating bread .
+Ich esse Brot .	I am eating bread .
+Das ärgert mich .	That makes me angry .
+Ich war oft da .	I was often there .
+Ich muss los .	I have to go .
+Mag sie Orange ?	Does she like orange ?
+Was ist hier los ?	What 's going on in here ?
+Was ist hier los ?	What is going on here ?
+Sie mögen Obst .	They like fruit .
+Schau ! Sie kommt !	Look ! She 's coming !
+Das Spiel ist aus !	The game is over .
+Ich bin kaputt .	I 'm shattered .
+Ich bin kaputt .	I am shattered .
+Ich bin kaputt .	I 'm knackered .
+Ich bin kaputt .	I am knackered .
+Ich bin baff .	I 'm flabbergasted .
+Meine Nase blutet .	My nose is bleeding .
+Seine Nase blutet .	His nose is bleeding .
+Ist das ein Lama ?	Is that a llama ?
+Alle sind da .	Everybody 's here .
+Wer zahlt ?	Who 's picking up the tab ?
+Ich muss gehen .	I have to go .
+Ich muss gehen .	I need to go .
+Ich muss gehen .	I must go .
+Ich muss gehen .	I have to get going .
+Ich muss gehen .	I have to leave .
+Ich muss gehen .	I 've gotta go .
+Wer seid ihr ?	Who are you all ?
+Langweile ich Sie ?	Am I boring you ?
+Bist du aufgeregt ?	Are you excited ?
+Geht es euch gut ?	Are you OK ?
+Geht es Ihnen gut ?	Are you OK ?
+Hast du Facebook ?	Are you on Facebook ?
+Hast du Kaugummis ?	Do you have any gum ?
+Hörst du etwas ?	Do you hear something ?
+Hört ihr etwas ?	Do you hear something ?
+Hören Sie etwas ?	Do you hear something ?
+Magst du Bowling ?	Do you like bowling ?
+Mögt ihr Bowling ?	Do you like bowling ?
+Mögen Sie Bowling ?	Do you like bowling ?
+Kochst du gern ?	Do you like cooking ?
+Kocht ihr gern ?	Do you like cooking ?
+Kochen Sie gern ?	Do you like cooking ?
+Surfst du gerne ?	Do you like surfing ?
+Surfen Sie gerne ?	Do you like surfing ?
+Surft ihr gerne ?	Do you like surfing ?
+Recyceln Sie ?	Do you recycle ?
+Recycelst du ?	Do you recycle ?
+Recycelt ihr ?	Do you recycle ?
+Weine nicht !	Do n't cry .
+Weint nicht .	Do n't cry .
+Weinen Sie nicht .	Do n't cry .
+Weinen Sie nicht !	Do n't cry .
+Weint nicht !	Do n't cry .
+Hey , warte mal !	Hey , wait up !
+Hey , wartet mal !	Hey , wait up !
+Wie war dein Tag ?	How was your day ?
+Ich mag euch sehr .	I really like you .
+Ich mag Sie sehr .	I really like you .
+Ich heirate .	I 'm getting married .
+Es wird alles gut .	It 's all going to be OK .
+Wünsch dir was .	Make a wish .
+Sie isst für zwei .	She 's eating for two .
+Jemand lügt .	Someone is lying .
+Es ist lächerlich !	That 's ridiculous .
+Was bedeutet USB ?	What does USB stand for ?
+Was macht ihr da ?	What 're you doing here ?
+Was machen Sie da ?	What 're you doing here ?
+Vertraue mir .	Trust me .
+Vertraut mir !	Trust me .
+Vertrauen Sie mir !	Trust me .
+Das ist mein Haus .	This is my house .
+Das ist mein Haus .	That is my house .
+Sind Sie in Eile ?	Are you in a rush ?
+Merk dir das !	Remember this !
+Niemand mag Krieg .	No one likes war .
+Halte den Mund !	Shut your gob !
+Ist alles fertig ?	Is everything ready ?
+Ich will mehr .	I want more than that .
+Der Berg ist grün .	The mountain is green .
+Lüge nicht .	Do n't lie .
+Habe keine Angst .	Fear not .
+Sind wir bald da ?	Are we nearly there yet ?
+Sind wir bald da ?	Will we be there soon ?
+Hast du kurz Zeit ?	Do you have a moment ?
+Ich liebe Lachs .	I like salmon .
+Lächelt !	Smile !
+Wirf den Anker !	Drop the anchor !
